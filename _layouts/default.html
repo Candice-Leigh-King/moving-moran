@@ -1,0 +1,91 @@
+
+<!DOCTYPE html>
+<html>
+
+    <!--- This is the head of the HTML for linking external resources & metadata ------->
+    <head>
+
+            <!-- The title for SEO & browser tabs -->
+            <title> CazFit </title>
+
+            <!-- Viewport meta tag -->
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+            <!-- Gridlex -->
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css">
+
+            <!-- Font Awesome Version 5 for Icons  -->
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css" />
+
+            <meta property="og:title" content="{{page.title}}">
+            <meta property="og:description" content="{{page.meta-description}}">
+            <meta property="og:image" content="{{page.featured-image_path}}">
+            <meta property="og:url" content="{{page.url}}">
+            <meta name="twitter:card" content="{{page.meta-description}}">
+            <meta name="og:site_name" content="The Social Media Retreat">
+
+            <!-- twitter card -->
+            <meta name="twitter:card" content="{{page.summary}}" />
+            <meta name="twitter:description" content="{{page.twitter-description}}" />
+            <meta name="twitter:title" content="{{page.twitter-title}}" />
+            <meta name="twitter:site" content="cazfit.co.za" />
+            <meta name="twitter:image" content="{{page.twitter_image}}" />
+            <meta name="twitter:creator" content="CazFit | Personal Training, Hillcrest" />
+            <meta name="twitter:image:alt" content="{{page.twitter-image-alt}}"
+
+            <!-- Add Google Fonts Here  -->
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&display=swap" rel="stylesheet">
+
+            <!-- brower tag -->
+            <link rel="shortcut icon" type="image/png" href="images/tag1.png">
+
+            <!-- My own custom stylesheet -->
+            <link rel="stylesheet" href="/style.css">
+
+    </head>
+
+    <!------ This is the body, where all of the contents of our page go  ------->
+    <body>
+
+      <header class="grid">
+        <div class="col-1_sm-2">  <a href ="/" class="col-2_sm-3 logo center exit"> <img src="/images/logob.png" alt="social media retreat logo"></a>
+            <p class=" col-1-middle hamburger">_<br>_<br>_</p>
+
+        </div>
+
+          <nav class="grid-middle page-nav mobile-menu">
+            <p class="cross exit right">╳</p>
+            <div class="padded-top-nav">
+              <p><a class="padded-sides text-med exit editable" href="/#about">about</a></p>
+              <p><a class="padded-sides text-med exit editable" href="/#programmes">programmes</a></p>
+              <p><a class="padded-sides text-med exit editable" href="/#studio">my studio</a></p>
+              <p><a class="padded-sides text-med exit editable" href="/#contact">contact</a></p>
+              <p><a class="padded-sides text-med exit editable book-now" href="/#booking">book now</a></p>
+            </div>
+          </nav>
+
+      </header>
+
+      {{content}}
+
+      <footer class="grid center bg-footer">
+        <div class="col-12-middle built">
+          <p> <a href="https://www.kingcode.uk"> Website by King Code </a>
+          <a href="https://www.candyandtheking.com"> © by cazfit.co.za </a>
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous"></script>
+
+          <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
+          <script src="/main.js" type="text/javascript"></script>
+    </footer>
+
+  </body>
+</html>
