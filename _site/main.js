@@ -16,15 +16,40 @@ $(document).ready(function() {
 			});
 
 			// end hamburger menu
-			$(document).ready(function() {
+
 				$(window).scroll( function(){
 					$('.fadein').each( function(i){
 								var bottom_of_element = $(this).offset().top + $(this).outerHeight();
 								var bottom_of_window = $(window).scrollTop() + $(window).height();
 								if( bottom_of_window > bottom_of_element ){
 									$(this).animate({'opacity':'1'},1000);
-								}
+									}
+								});
+							});
 						});
-				});
+
+$(document).ready(function(){
+	$('.fade-home1').slick({
+	 autoplay: true,
+	 infinite: true,
+	 autoplaySpeed: 1900,
+	 speed: 1000,
+	 fade: true,
+	 cssEase: 'linear',
+	 prevArrow: false,
+	 nextArrow: false,
+	});
+});
+
+$(document).ready(function(){
+	$('.fade-home2').slick({
+		autoplay: true,
+		infinite: true,
+		autoplaySpeed: 3100,
+		speed: 1000,
+		fade: true,
+		cssEase: 'linear',
+		prevArrow: false,
+		nextArrow: false,
 		});
 });

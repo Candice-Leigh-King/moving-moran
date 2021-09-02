@@ -10,50 +10,60 @@ twitter-description: Personal Training in Hillcrest, Durban, South Africa
 twitter-title: CazFit | Persoal Training in Hillcrest
 twitter_image: /images/cazfit.jpeg
 twitter-image-alt: CazFit | Persoal Training in Hillcrest
+banner_image: /images/movingmoran-cactus.jpeg
+square-1_image: /images/movingmoran-cactus.jpeg
+square-2_image: /images/movingmoran-safari.jpeg
+square-3_image: /images/movingmoran-lume.jpeg
+square-4_image: /images/movingmoran-canyon.jpeg
+square-5_image: /images/movingmoran-valley.jpeg
+square-6_image: /images/movingmoran-elephants.jpeg
+square-7_image: /images/movingmoran-lake.jpeg
+square-8_image: /images/movingmoran-dessert.jpeg
 ---
 
 <!-- BANNER -->
-<section class="padded-top padded-sides bg-image tall-90 grid center bg-stone">
+<section class="padded-top padded-sides bg-image tall-100 grid center" style="background-image: url('{{page.banner_image}}');">
   <div class="col-4"></div>
-    <div class="col-2-middle centered">
-      <h1 class="text-xxl text-featured"> <img src="/images/logo.png" alt=""> </h1>
-    </div>
     <div class="col-4">  </div>
       <div class="col-12-bottom">
-        <a class="text-lg" href="#section1"><i class="fas fa-angle-down"></i></a>
+        <h1>Moving Moran</h1>
+          <a class="text-xl centered grow" href="#about">︾</a>
       </div>
 </section>
 
 <!-- ABOUT -->
-<section class="grid-centered padded centered">
+<section class="grid-centered padded center" id="about">
   <div class="col-8_sm-12">
     <h2>Hey, we're Leah & Matt </h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
       dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      <p class="fancy-text"><a href="/contact"> let's chat →</a></p>
+      <p class="emphasis"><a href="/contact"> let's chat →</a></p>
   </div>
 </section>
 
 <!-- OUR STORY -->
-<section class="featured-bg">
-  <div class="col-4_xs-6 fade-home1">
-    <div class="bg-image bg-white padded-50 border" style="background-image: url('/images/desk1.jpg');"> </div>
-    <div class="bg-image bg-white padded-50 border" style="background-image: url('/images/ladies.jpg');"> </div>
-    <div class="bg-image bg-white padded-50 border" style="background-image: url('/images/feather3.jpg');"> </div>
-    <div class="bg-image bg-white padded-50 border" style="background-image: url('/images/candy.jpg');"> </div>
+<section class="grid-center featured-bg padded">
+  <div class="col-4_xs-12 fade-home1">
+    <div class="fading-image bg-white padded-50 border-faded" style="background-image: url('{{page.square-1_image}}');"> </div>
+    <div class="fading-image bg-white padded-50 border-faded" style="background-image: url('{{page.square-2_image}}');"> </div>
+    <div class="fading-image bg-white padded-50 border-faded" style="background-image: url('{{page.square-3_image}}');"> </div>
+    <div class="fading-image bg-white padded-50 border-faded" style="background-image: url('{{page.square-4_image}}');"> </div>
   </div>
 
 
-   <div class="col-4_xs-6 fade-home2">
-    <div class="bg-image bg-white padded-50 border-top-right-bottom" style="background-image: url('/images/dessert.jpg');"> </div>
-    <div class="bg-image bg-white padded-50 border-top-right-bottom" style="background-image: url('/images/palm.jpg');"> </div>
-    <div class="bg-image bg-white padded-50 border-top-right-bottom" style="background-image: url('/images/mob4.jpg');"> </div>
-    <div class="bg-image bg-white padded-50 border-top-right-bottom" style="background-image: url('/images/crown.jpg');"> </div>
-   </div>
+  <div class="col-4_xs-12 fade-home2">
+    <div class="fading-image bg-white padded-50 border-faded-2" style="background-image: url('{{page.square-5_image}}');"> </div>
+    <div class="fading-image bg-white padded-50 border-faded-2" style="background-image: url('{{page.square-6_image}}');"> </div>
+    <div class="fading-image bg-white padded-50 border-faded-2" style="background-image: url('{{page.square-7_image}}');"> </div>
+    <div class="fading-image bg-white padded-50 border-faded-2" style="background-image: url('{{page.square-8_image}}');"> </div>
+  </div>
 
-   <div class="col-4_xs-12 padded">
-     <h2>Our Story</h2>
-     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+   <div class="col-4_xs-12 padded-story" id="story">
+     <div class=" bg-white padded">
+       <h2 class=" editable">Our Story</h2>
+       <p class=" editable">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+     </div>
+
    </div>
 </section>
 
@@ -67,8 +77,8 @@ twitter-image-alt: CazFit | Persoal Training in Hillcrest
 <section class="grid padded lightest-bg ">
   <div class="col-8_sm-12-middle padded">
     <h3 class="editable"> Where to find us </h3>
-    <p class="editable"> Although I am based in Denver Colorado, I have plenty of clients all ove the world! Let's chat! </p>
-    <p class="editable"> <strong> Email: </strong> cputt.187@gmail.com </p>
+    <p class="editable"> Although we're trotting all over, we are based in Denver, Colorado! So, if you're around, let's chat! </p>
+    <p class="editable"> <strong> Email: </strong> movingmoran@gmail.com </p>
     <p class="editable"> <strong> Phone: </strong> 0412 555 555 </p>
     <p class="editable"> <strong> Instagram: </strong> @moving.moran</p>
   </div>
