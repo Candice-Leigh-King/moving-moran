@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Moving Moran
-mmeta-description: Personal Training in Hillcrest, Durban, South Africa
+meta-description: Personal Training in Hillcrest, Durban, South Africa
 meta-keywords: Personal Training in Hillcrest, Durban, South Africa
 featured-image_path: /images/cazfit.jpeg
 url: cazfit.co.za
@@ -19,20 +19,24 @@ square-5_image: /images/movingmoran-valley.jpeg
 square-6_image: /images/movingmoran-elephants.jpeg
 square-7_image: /images/movingmoran-lake.jpeg
 square-8_image: /images/movingmoran-dessert.jpeg
+right_image: /images/movingmoran-cactus.jpeg
+right-image-alt:
+left_image: /images/movingmoran-elephants.jpeg
+left-image-alt:
 ---
 
 <!-- BANNER -->
 <section class="padded-top padded-sides bg-image tall-100 grid center" style="background-image: url('{{page.banner_image}}');">
   <div class="col-12-bottom">
-    <a class="text-xl down-arrow centered grow" href="#about">︾</a>
+    <a class="text-xl down-arrow centered grow editable" href="#about">︾</a>
   </div>
 </section>
 
 <!-- ABOUT -->
 <section class="grid-centered padded center" id="about">
   <div class="col-8_sm-12">
-    <h2>Hey, we're Leah & Matt </h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+    <h2 class="editable">Hey, we're Leah & Matt </h2>
+    <p class="editable">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
       dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       <p class="emphasis"><a href="/contact"> let's chat →</a></p>
   </div>
@@ -70,9 +74,9 @@ square-8_image: /images/movingmoran-dessert.jpeg
 
   <section class="grid-center padded-top padded-sides bg-light">
       {% for post in site.posts limit:1 %}
-      <div class="col-4_sm-12 padded-2 shape-window blog" style="background-image: url('{{post.blog_image}}');">
+      <div class="col-4_xs-12 padded-2 shape-window blog" style="background-image: url('{{post.blog_image}}');">
       </div>
-      <div class="col-7_md-6_xs-12-middle padded-2">
+      <div class="col-7_xs-12-middle padded-2">
           <h2 class="text-featured editable">Most recent blog!</h2>
           <h3>{{post.title}}</h3>
           <p class="editable">{{post.description}} </p>
@@ -84,10 +88,10 @@ square-8_image: /images/movingmoran-dessert.jpeg
 
   <section class="desktop-hide bg-light grid padded">
     <div class="col-6 ">
-      <img class="bump-left-image " src="/images/movingmoran-cactus.jpeg" alt="">
+      <img class="bump-left-image" src="{{page.right_image}}" alt="{{page.right-image-alt}}">
     </div>
     <div class="col-6">
-      <img class="bump-right-image" src="/images/movingmoran-elephants.jpeg" alt="">
+      <img class="bump-right-image" src="{{page.left_image}}" alt="{{page.left-image-alt}}">
     </div>
   </section>
 
