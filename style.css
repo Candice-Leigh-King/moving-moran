@@ -128,7 +128,7 @@ p
   margin-bottom: 0.8rem;
   }
 
-a:hover {color: #6b8c9e;}
+
 
 .emphasis {font-weight: bold;}
 
@@ -155,10 +155,10 @@ p:last-child {
 }
 
 
-a {
-    color: inherit;
+a {color: #6b8c9e;
     text-decoration: none;
 }
+a:hover {color: #d3dfe2;}
 .down-arrow {color: #dbdbdb;}
 
 .button {
