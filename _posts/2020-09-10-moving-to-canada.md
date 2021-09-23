@@ -44,7 +44,7 @@ sections:
     blog-fixed_image: /images/banner.jpeg
   - section-type: blog-text-featured
     text-html: >-
-      <h1>Tip 3: Going to the toilet</h1><p>&nbsp;</p><p>Last section. Write,
+      <h1>What we will do in Canada</h1><p>&nbsp;</p><p>Last section. Write,
       write, write. Blah, blah, blah.</p><p>Let&rsquo;s dive in a little deeper
       on how we first met!!! We have made videos on YouTube and spoken about it
       on Instagram on how we met online, but now let&rsquo;s get down to the
