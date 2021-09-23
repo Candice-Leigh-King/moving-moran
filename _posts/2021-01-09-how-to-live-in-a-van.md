@@ -41,5 +41,10 @@ sections:
     text-html: Second Section
     blog-fixed_image: /images/banner.jpeg
   - section-type: blog-text-featured
-    text-html: Last Section
+    text-html: >-
+      <h1>Tip 3: Going to the toilet</h1><p>Write, write, write. Blah, blah,
+      blah. Let's dive in a little deeper on how we first met!!!</p><p>We have
+      made videos on YouTube and spoken about it on Instagram on how we met
+      online, but now let's get down to the specifics and answer the most common
+      questions we are asked.</p>
 ---
