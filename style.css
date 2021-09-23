@@ -50,7 +50,7 @@ body {
 .padded-bottom {padding-bottom: 5%;}
 .padded-top-nav {padding-top: 20%}
 .padded-50 {padding: 48%;}
-.padded-story {padding: 5%;}
+.padded-story {padding: 0% 0% 0% 5%;}
 
 .padded-2,
 .grid.padded-2   { padding: 2rem;  }
@@ -602,7 +602,14 @@ form .button:hover
   @media (max-width: 80em)  Max 1280px 	_lg-*
 */
 
+@media (max-width: 64em){
+
+  .blog {min-height: 80vh;}
+
+}
+
 /* Gridlex SM query - Max 768px - _sm-* */
+
 
 @media(max-width: 48em) {
 
@@ -610,7 +617,7 @@ form .button:hover
 
   .hamburger
     {
-    margin: 3%;
+    margin: 1%;
     top: -17px;
     }
 
@@ -643,6 +650,11 @@ form .button:hover
     padding-top: 0rem;
     margin-bottom: 0.2rem;
     }
+
+
+  .padded-story {padding: 0%;}
+
+  .text-featured {padding-top: 5%;}
 }
 
 
@@ -653,6 +665,13 @@ form .button:hover
   .text-xl { font-size: 2.5rem; }
   .text-lg { font-size: 2.5rem; }
   h2 {font-size: 1.8rem;}
+
+  .hamburger
+    {
+    right: 5px;
+    margin: 1% 4%;
+    top: -17px;
+    }
 
   .social-share h4
     {
@@ -703,6 +722,10 @@ form .button:hover
       margin-top: 10%;
       margin-left: 10%;}
 
+  .padded-story {padding: 0%;}
+
+  .blog {min-height: 60vh;}
+
 }
 
 /* Custom XXS media query - Max 400px - _xs-* */
@@ -711,6 +734,5 @@ form .button:hover
     .text-xxl { font-size: 2.5rem; }
     .padded-top-nav {padding-top: 35%}
     .border-faded, .border-faded-2 {border: solid white 5px;}
-    .padded-story {padding: 0%;}
     h2 {font-size: 1.5rem;}
 }
