@@ -36,11 +36,10 @@ sections:
     left_image: /images/movingmoran-lake.jpeg
   - section-type: blog-text
     text-html: >-
-      <h1>Tip 2: Cleaning products</h1><p>&nbsp;</p><p>Let&rsquo;s dive in a
-      little deeper on how we first met!!! We have made videos on YouTube and
-      spoken about it on Instagram on how we met online, but now let&rsquo;s get
-      down to the specifics and answer the most common questions we are
-      asked.</p>
+      <h1>Why we're moving</h1><p>&nbsp;</p><p>Let&rsquo;s dive in a little
+      deeper on how we first met!!! We have made videos on YouTube and spoken
+      about it on Instagram on how we met online, but now let&rsquo;s get down
+      to the specifics and answer the most common questions we are asked.</p>
   - section-type: blog-fixed
     blog-fixed_image: /images/banner.jpeg
   - section-type: blog-text-featured
