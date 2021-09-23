@@ -22,7 +22,7 @@ categories:
 sections:
   - section-type: blog-text
     text-html: >-
-      <h1>Tip 1: Packing</h1><p>&nbsp;</p><p>Lorem ipsum dolor sit amet,
+      <h1>Where we're going?</h1><p>&nbsp;</p><p>Lorem ipsum dolor sit amet,
       consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
       ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
@@ -33,9 +33,27 @@ sections:
     right_image: /images/movingmoran-lake.jpeg
     left_image: /images/movingmoran-lake.jpeg
   - section-type: blog-text
-    text-html:
+    text-html: >-
+      <h1>Why we're moving</h1><p>&nbsp;</p><p>Lorem ipsum dolor sit amet,
+      consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+      ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+      dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+      nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+      culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum
+      dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+      incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+      nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+      non proident, sunt in culpa qui officia deserunt mollit anim id est
+      laborum.</p>
   - section-type: blog-fixed
     blog-fixed_image: /images/banner.jpeg
   - section-type: blog-text-featured
-    text-html:
+    text-html: >-
+      <h1>How we will travel there?</h1><p>&nbsp;</p><p>Last section. Write,
+      write, write. Blah, blah, blah.</p><p>More and write Lorem ipsum dolor sit
+      amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.</p>
 ---
