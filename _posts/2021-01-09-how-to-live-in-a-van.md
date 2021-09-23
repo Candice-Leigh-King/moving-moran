@@ -20,31 +20,9 @@ categories:
   - tips
 sections:
   - section-type: blog-text
-    text-html: >-
-      <h1>Tip 1: Packing</h1><p>Lorem ipsum dolor sit amet, consectetur
-      adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-      magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-      laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-      pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
-      qui officia deserunt mollit anim id est laborum.</p>
+    text-html: First section
   - section-type: blog-arches
     right_image: /images/movingmoran-lake.jpeg
     left_image: /images/movingmoran-lake.jpeg
   - section-type: blog-text
-    text-html: >-
-      <h1>Tip 2: Cleaning products</h1><p>&nbsp;</p><p>Let&rsquo;s dive in a
-      little deeper on how we first met!!! We have made videos on YouTube and
-      spoken about it on Instagram on how we met online, but now let&rsquo;s get
-      down to the specifics and answer the most common questions we are
-      asked.</p>
-  - section-type: blog-fixed
-    blog-fixed_image: /images/banner.jpeg
-  - section-type: blog-text-featured
-    text-html: >-
-      <h1>Tip 3: Going to the toilet</h1><p>&nbsp;</p><p>Last section. Write,
-      write, write. Blah, blah, blah.</p><p>Let&rsquo;s dive in a little deeper
-      on how we first met!!! We have made videos on YouTube and spoken about it
-      on Instagram on how we met online, but now let&rsquo;s get down to the
-      specifics and answer the most common questions we are asked.</p>
 ---
