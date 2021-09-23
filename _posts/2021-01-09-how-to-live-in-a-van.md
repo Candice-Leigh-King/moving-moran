@@ -24,8 +24,8 @@ sections:
   - section-type: blog-arches
     right_image: /images/movingmoran-lake.jpeg
     left_image: /images/movingmoran-lake.jpeg
-  - _section-type: text-block
-    text-html: 
+  - section-type: blog-text
+    text-html:
   - section-type: blog-fixed
     text-html:
     blog-fixed_image: /images/banner.jpeg
