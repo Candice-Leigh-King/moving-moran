@@ -20,15 +20,15 @@ categories:
   - tips
 sections:
   - section-type: blog-text
-    text-html: >-
+    text-html:
   - section-type: blog-arches
     right_image: /images/movingmoran-lake.jpeg
     left_image: /images/movingmoran-lake.jpeg
   - _section-type: text-block
-    text-html: >-
+    text-html: 
   - section-type: blog-fixed
-    text-html: Second Section
+    text-html:
     blog-fixed_image: /images/banner.jpeg
   - section-type: blog-text-featured
-    text-html: >-
+    text-html:
 ---
