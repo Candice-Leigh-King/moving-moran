@@ -2,3 +2,24 @@ categories:
 - travel
 - lifestyle
 - tips
+
+page_blocks: []
+_array_structures:
+  sections:
+    values:
+      - label: blog text
+        icon: text
+        value:
+          _section-type: text-block
+          text-html:
+      - label: blog arches
+        icon: image
+        value:
+          _section-type: blog-arches
+          right_image:
+          left_image:
+      - label: blog fixed
+        icon: image
+        value:
+          _section-type: blog-fixed
+          blog-fixed_image:

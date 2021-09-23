@@ -68,29 +68,10 @@ layout: default
 </section>
 
 <section class="bg-white padded">
-  <article class="capped-width padded">
 
-    {{content}}
-
-    <div class="grid-center padded-top">
-      <div class="col-5_sm-12 padded shape-window blog-images blog-image-right" style="background-image: url('{{page.right_image}}');">
-      </div>
-      <div class="col-5_sm-12 padded shape-window blog-images blog-image-left" style="background-image: url('{{page.left_image}}');">
-      </div>
-    </div>
-
-  </article>
-  <article class="capped-width padded">
-    {{content}}
-  </article>
-
-  <div class="blog-fixed-banner"style="background-image: url('{{page.blog-fixed_image}}');"></div>
-
-  <div class="featured-bg">
-    <article class="capped-width padded">
-      {{content}}
-    </article>
-  </div>
+    {% for item in page.sections %}
+      {% include {{item.section-type}}.html %}
+    {% endfor %}
 
 
 </section>
