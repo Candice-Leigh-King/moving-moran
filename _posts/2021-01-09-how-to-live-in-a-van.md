@@ -31,10 +31,8 @@ sections:
     text-html: Last Section
   - _section-type: text-block
     text-html: >-
-      <h1>Tip 2: Cleaning products</h1><p>&nbsp;</p><p>Let's dive in a<br
-      />&nbsp; &nbsp; &nbsp; little deeper on how we first met!!! We have made
-      videos on YouTube and<br />&nbsp; &nbsp; &nbsp; spoken about it on
-      Instagram on how we met online, but now let&amp;rsquo;s get<br />&nbsp;
-      &nbsp; &nbsp; down to the specifics and answer the most common questions
-      we are<br />&nbsp; &nbsp; &nbsp; asked.</p>
+      <h1>Tip 2: Cleaning products</h1><p>&nbsp;</p><p>Let's dive in a little
+      deeper on how we first met!!! We have made videos on YouTube and spoken
+      about it on Instagram on how we met online, but now let's get down to the
+      specifics and answer the most common questions we are asked.</p>
 ---
