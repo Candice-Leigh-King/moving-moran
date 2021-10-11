@@ -9,12 +9,11 @@ type: Travel Tips
 featured-image: /images/banner.jpeg
 author: by Leah Moran
 date: 2020-09-10 00:00:00
-link: van-life-2/travel/tips/2021/01/09/how-to-live-in-a-van.html
+link: movingmoran.com/travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html
 blog_image: /images/banner.jpeg
 paragraph: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris.
+  Before the tsunami of 1949, Waimanu Valley was a thriving community of
+  fishermen and farmers who lived off the land.  Today...
 blog-fixed_image: /images/banner.jpeg
 categories:
   - travel
