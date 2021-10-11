@@ -8,7 +8,7 @@ description: >-
 type: Travel Tips
 featured-image: /images/banner.jpeg
 author: by Leah Moran
-date: 2020-09-10 00:00:00
+date: 2021-10-10 00:00:00
 link: movingmoran.com/travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html
 blog_image: /images/banner.jpeg
 paragraph: >-
