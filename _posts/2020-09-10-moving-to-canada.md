@@ -1,11 +1,11 @@
 ---
 layout: posts
-title: Moving to Canada
+title: Waipio Valley to Waimanu Valley
 description: >-
-  Let’s dive in a little deeper on how we first met!!! We have made videos on
-  YouTube and spoken about it on Instagram on how we met online, but now let’s
-  get down to the specifics and answer the most common questions we are asked.
-type: Life update
+  If you’re looking to be far away from the crowds of Waipio Valley and
+  experience the untouched beauty of Hawaii, then Waimanu Valley should be on
+  your bucket list!
+type: Travel Tips
 featured-image: /images/banner.jpeg
 author: by Leah Moran
 date: 2020-09-10 00:00:00
