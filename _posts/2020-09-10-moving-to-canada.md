@@ -22,13 +22,15 @@ categories:
 sections:
   - section-type: blog-text
     text-html: >-
-      <h1>Where we're going?</h1><p>&nbsp;</p><p>Lorem ipsum dolor sit amet,
-      consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-      ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-      dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-      nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-      culpa qui officia deserunt mollit anim id est laborum.</p>
+      <h1><strong>Waipio Valley to Waimanu
+      Valley</strong></h1><p>&nbsp;</p><p>If you&rsquo;re looking to be far away
+      from the crowds of Waipio Valley and experience the untouched beauty of
+      Hawaii, then Waimanu Valley should be on your bucket list! Before the
+      tsunami of 1949, Waimanu Valley was a thriving community of fishermen and
+      farmers who lived off the land.&nbsp; Today, it is the most remote part of
+      the island and is only accessible by foot or boat. This beautiful black
+      sand beach is a must see for all those looking to escape the hustle and
+      bustle of daily life.rum.</p>
   - section-type: blog-arches
     right_image: /images/movingmoran-lake.jpeg
     left_image: /images/movingmoran-lake.jpeg
