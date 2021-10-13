@@ -58,7 +58,7 @@ sections:
       Artworks for a few days, but since we found parking on the street we
       didn't need to pay.&nbsp;</p>
   - section-type: blog-fixed
-    blog-fixed_image: /images/banner.jpeg
+    blog-fixed_image: /blog-images/image00003.jpeg
   - section-type: blog-text-featured
     text-html: >-
       <h1>How we will travel there?</h1><p>&nbsp;</p><p>Last section. Write,
