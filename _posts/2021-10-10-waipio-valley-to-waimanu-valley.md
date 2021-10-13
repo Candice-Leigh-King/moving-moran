@@ -8,17 +8,16 @@ description: >-
 type: Travel Tips
 featured-image: /images/banner.jpeg
 author: by Leah Moran
-date: 2020-09-10 00:00:00
-link: van-life-2/travel/tips/2021/01/09/how-to-live-in-a-van.html
+date: 2021-10-10 00:00:00
+link: movingmoran.com/travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html
 blog_image: /images/banner.jpeg
 paragraph: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris.
+  Before the tsunami of 1949, Waimanu Valley was a thriving community of
+  fishermen and farmers who lived off the land.  Today...
 blog-fixed_image: /images/banner.jpeg
 categories:
   - travel
-  - lifestyle
+  - tips
 sections:
   - section-type: blog-text
     text-html: >-
@@ -34,6 +33,17 @@ sections:
   - section-type: blog-arches
     right_image: /images/movingmoran-lake.jpeg
     left_image: /images/movingmoran-lake.jpeg
+  - section-type: blog-text
+    text-html: >-
+      <h1><strong>What to expect:</strong></h1><p>&nbsp;</p><p>Immerse yourself
+      in the magic that is the Waimanu Valley at this incredibly beautiful
+      beachfront camping oasis. Before you begin you want to make sure you
+      secure a campsite reservation at <a target="_blank" rel="noopener"
+      href="https://camping.ehawaii.gov/camping/all,details,31720.html">Hawaii
+      Camping</a>. You&rsquo;ll need to create an account and bring a copy of
+      the permit reservation with you. (A screenshot on your phone is okay too!)
+      A campsite will cost $18 a night and there is a primitive toilet at the
+      site.&nbsp;</p>
   - section-type: blog-text
     text-html: >-
       <h1><strong>What to expect:</strong></h1><p>&nbsp;</p><p>Immerse yourself
