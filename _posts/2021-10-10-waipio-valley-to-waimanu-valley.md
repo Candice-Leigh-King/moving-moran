@@ -71,8 +71,8 @@ sections:
       Backpacking guide here (link backpacking post) to know exactly what to
       pack for this overnight hike!</p>
   - section-type: blog-arches
-    right_image: /blog-images/image00004.jpg
-    left_image: /blog-images/image00012.jpg
+    right_image: /blog-images/image00007.jpg
+    left_image: /blog-images/image00009.jpg
   - section-type: blog-text
     text-html: >-
       <p>To start the Muliwai Trail hike you will go down the paved road for 3
@@ -116,4 +116,54 @@ sections:
       point to help stabilize yourself!</p>
   - section-type: blog-window
     window_image: /blog-images/image00015.jpg
+  - section-type: blog-text
+    text-html: >-
+      <h2><strong>The campsite</strong></h2><p>You have made it to the gorgeous
+      Waimanu Valley!&nbsp; Take it all in, it truly is breathtaking.&nbsp;
+      There are 9 campsites spread out along the beach.&nbsp; We arrived later
+      in the day, so most of the campsites had been taken, so we chose spot
+      #5.&nbsp; It was probably not the best campsite out of all of them, but
+      it's close to the toilets and honestly any spot on this beach is a good
+      one! Spot #2 has a gorgeous view of the valley and is a large campsite
+      suitable for larger groups.&nbsp; Our favorite campsite was #8 because it
+      was like someone had made it their own personal oasis.&nbsp; It comes with
+      a rock lounger, swing and path out to the beach!&nbsp;</p>
+  - section-type: blog-arches
+    right_image: /blog-images/image00004.jpg
+    left_image: /blog-images/image00012.jpg
+  - section-type: blog-text
+    text-html: >-
+      <p>Once you are at the campsite you will probably be in need of a water
+      refill.&nbsp; Refrain from taking water from the stream, and instead take
+      a five minute walk to some clean(er) water.&nbsp; To get to the water
+      source follow the path to campsite 9.&nbsp; At this point there will be a
+      sign telling you not to go any further, but we were instructed by other
+      people at camp to continue past it onto the rock path along the
+      cliffside.&nbsp; It is a pretty easy to follow, worn path and there are
+      orange ties on trees to keep you from getting lost.&nbsp; Follow this path
+      for a few minutes until you reach a stream.&nbsp; Cross the stream and
+      follow it all the way up until you see some pipes in a waterfall.&nbsp;
+      You can collect your water here, although we recommend still purifying or
+      using iodine tablets just to be safe.</p>
+  - section-type: blog-arches
+    right_image: /blog-images/image00010.jpg
+    left_image: /blog-images/image00008.jpg
+  - section-type: blog-text
+    text-html: >-
+      <p>If you&rsquo;re feeling up to another hike, there is also a waterfall
+      that you can hike to. Since we were only there overnight and we were tired
+      from the hike in, we didn&rsquo;t go in search of the waterfall. We
+      decided to relax and enjoy the sunset and sunrise from the beach.</p>
+  - section-type: blog-arches
+    right_image: /blog-images/image00018.jpg
+    left_image: /blog-images/image00016.jpg
+  - section-type: blog-text-featured
+    text-html: >-
+      <p>We definitely recommend spending 2-3 days in the valley.&nbsp; We only
+      had time for an overnight trip and we wished we had more time in the
+      valley to relax and recoup before we climbed back out! Enjoy your time in
+      this secluded oasis, and remember to always pack out what you brought
+      in!</p>
+  - section-type: blog-fixed
+    blog-fixed_image: /blog-images/image00017.jpg
 ---
