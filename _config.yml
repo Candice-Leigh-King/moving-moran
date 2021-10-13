@@ -23,7 +23,3 @@ _array_structures:
         value:
           _section-type: blog-fixed
           blog-fixed_image:
-      - lable: blog-window
-      icon: imagesvalue:
-        _section-type: blog-window
-        value:      
