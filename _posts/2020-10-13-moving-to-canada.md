@@ -6,11 +6,11 @@ description: >-
   experience the untouched beauty of Hawaii, then Waimanu Valley should be on
   your bucket list!
 type: Travel Tips
-featured-image: /images/banner.jpeg
+featured-image: /blog-images/image00003.jpg
 author: by Leah Moran
-date: 2020-09-10 00:00:00
-link: van-life-2/travel/tips/2021/01/09/how-to-live-in-a-van.html
-blog_image: /images/banner.jpeg
+date: 2020-10-13 00:00:00
+link: /Waipio-Valley-to-Waimanu-Valley
+blog_image: /blog-images/image00003.jpg
 paragraph: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
