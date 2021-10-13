@@ -48,19 +48,6 @@ sections:
     window_image: /blog-images/image00011.jpg
   - section-type: blog-text
     text-html: >-
-      <p>This hike technically starts at the top of the Waipio Valley.&nbsp; We
-      planned on driving to the bottom of the hill and starting our hike at the
-      beach, but the security guard cautioned us on leaving our car at the beach
-      overnight saying it would be &ldquo;asking for trouble&rdquo;.&nbsp; We
-      decided tacking on the extra 3 miles both ways was better than getting
-      broken into and parked on the road before the Waipio Valley Overlook. We
-      also heard that you can pay a fee to leave your car at the Waipio Valley
-      Artworks for a few days, but since we found parking on the street we
-      didn't need to pay.&nbsp;</p>
-  - section-type: blog-fixed
-    blog-fixed_image: /blog-images/image00003.jpeg
-  - _section-type: blog-text
-    text-html: >-
       <p>To start the Muliwai Trail hike you will go down the paved road for 3
       miles into Waipio valley.&nbsp; Here you will cross over your first river
       crossing and continue on to the trail through the woods to the other cliff
@@ -76,6 +63,8 @@ sections:
       down valleys and over small waterfall crossings for miles.&nbsp; Be extra
       cautious when crossing streams or waterfalls as these are all areas where
       flash floods can happen at any moment.</p>
+  - section-type: blog-fixed
+    blog-fixed_image: /blog-images/image00003.jpeg
   - section-type: blog-text
     text-html: >-
       <p>If there&rsquo;s anything you take from this post it's to bring hiking
@@ -90,6 +79,17 @@ sections:
   - section-type: blog-arches
     right_image: /blog-images/image00004.jpg
     left_image: /blog-images/image00012.jpg
+  - section-type: blog-text
+    text-html: >-
+      <p>This hike technically starts at the top of the Waipio Valley.&nbsp; We
+      planned on driving to the bottom of the hill and starting our hike at the
+      beach, but the security guard cautioned us on leaving our car at the beach
+      overnight saying it would be &ldquo;asking for trouble&rdquo;.&nbsp; We
+      decided tacking on the extra 3 miles both ways was better than getting
+      broken into and parked on the road before the Waipio Valley Overlook. We
+      also heard that you can pay a fee to leave your car at the Waipio Valley
+      Artworks for a few days, but since we found parking on the street we
+      didn't need to pay.&nbsp;</p>
   - section-type: blog-text-featured
     text-html: >-
       <h1>How we will travel there?</h1><p>&nbsp;</p><p>Last section. Write,
