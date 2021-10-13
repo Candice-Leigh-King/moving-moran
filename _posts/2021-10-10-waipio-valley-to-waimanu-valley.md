@@ -59,12 +59,6 @@ sections:
       didn't need to pay.&nbsp;</p>
   - section-type: blog-fixed
     blog-fixed_image: /blog-images/image00003.jpeg
-  - section-type: blog-text-featured
-    text-html: >-
-      <h1>How we will travel there?</h1><p>&nbsp;</p><p>Last section. Write,
-      write, write. Blah, blah, blah.</p><p>More and write Lorem ipsum dolor sit
-      amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-      labore et dolore magna aliqua.</p>
   - section-type: blog-text
     text-html: >-
       <p>If there&rsquo;s anything you take from this post it's to bring hiking
@@ -76,4 +70,13 @@ sections:
       have ever been so thankful for a ride in my life! Check out our
       Backpacking guide here (link backpacking post) to know exactly what to
       pack for this overnight hike!</p>
+  - section-type: blog-arches
+    right_image: /blog-images/image00004.jpg
+    left_image: /blog-images/image00012.jpg
+  - section-type: blog-text-featured
+    text-html: >-
+      <h1>How we will travel there?</h1><p>&nbsp;</p><p>Last section. Write,
+      write, write. Blah, blah, blah.</p><p>More and write Lorem ipsum dolor sit
+      amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.</p>
 ---
