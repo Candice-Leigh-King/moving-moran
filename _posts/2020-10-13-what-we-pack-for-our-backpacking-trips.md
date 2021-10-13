@@ -5,11 +5,11 @@ description: >-
   This is our packing list from our 3 night, 4 day backpacking trip to
   Havasupai. 
 type: Travel Tips
-featured-image: /blog-images/image00003.jpg
+featured-image: /blog-images/image00015.jpg
 author: by Leah Moran
 date: 2020-10-13 00:00:00
 link: /What we pack for our backpacking trips
-blog_image: /blog-images/image00003.jpg
+blog_image: /blog-images/image00015.jpg
 paragraph: >-
   This was an 11 mile hike through the desert to a waterfall oasis, so if you're
   packing for a colder trip make sure you factor in the extra weight of heavier
