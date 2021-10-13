@@ -31,8 +31,8 @@ sections:
       sand beach is a must see for all those looking to escape the hustle and
       bustle of daily life.rum.</p>
   - section-type: blog-arches
-    right_image: /images/movingmoran-lake.jpeg
-    left_image: /images/movingmoran-lake.jpeg
+    right_image: /blog-images/image00001.jpg
+    left_image: /blog-images/image00002.jpg
   - section-type: blog-text
     text-html: >-
       <h1><strong>What to expect:</strong></h1><p>&nbsp;</p><p>Immerse yourself
