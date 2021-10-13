@@ -44,7 +44,7 @@ sections:
       the permit reservation with you. (A screenshot on your phone is okay too!)
       A campsite will cost $18 a night and there is a primitive toilet at the
       site.&nbsp;</p>
-  - _section-type: blog-fixed
+  - section-type: blog-fixed
     blog-fixed_image: /blog-images/image00011.jpg
   - section-type: blog-text
     text-html: >-
