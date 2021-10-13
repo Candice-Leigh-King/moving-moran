@@ -93,6 +93,17 @@ sections:
   - section-type: blog-arches
     right_image: /blog-images/image00014.jpg
     left_image: /blog-images/image00013.jpg
+  - section-type: blog-text-featured
+    text-html: >-
+      <p>Congrats, you have now made it over to the other side and you see a
+      glimpse of the campsite!&nbsp; At this point you will be so excited to
+      finally be going downhill, but this part is almost harder than going up!
+      This side is completely unmaintained and is covered by fallen tree
+      branches and loose rocks that you will slip on constantly.&nbsp; It was
+      very slow going down this side because it is so steep and slippery, so be
+      careful and take your time! &nbsp;</p>
+  - section-type: blog-window
+    window_image: /blog-images/image00005.jpg
   - section-type: blog-text
     text-html: >-
       <p>We safely made it down the mountain and into camp with one last
@@ -104,14 +115,5 @@ sections:
       rocks are slippery under your feet.&nbsp; Poles come in handy at this
       point to help stabilize yourself!</p>
   - section-type: blog-window
-    window_image: /blog-images/image00005.jpg
-  - section-type: blog-text-featured
-    text-html: >-
-      <p>Congrats, you have now made it over to the other side and you see a
-      glimpse of the campsite!&nbsp; At this point you will be so excited to
-      finally be going downhill, but this part is almost harder than going up!
-      This side is completely unmaintained and is covered by fallen tree
-      branches and loose rocks that you will slip on constantly.&nbsp; It was
-      very slow going down this side because it is so steep and slippery, so be
-      careful and take your time! &nbsp;</p>
+    window_image: /blog-images/image00015.jpg
 ---
