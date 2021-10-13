@@ -75,18 +75,24 @@ sections:
     left_image: /blog-images/image00012.jpg
   - section-type: blog-text
     text-html: >-
-      <p>If there&rsquo;s anything you take from this post it's to bring hiking
-      poles on this trip! By starting at the top of Waipio Valley you will be
-      hiking a total of 19 miles with three 3,500 foot climbs.&nbsp; So be
-      prepared!&nbsp; Hopefully some kind soul will drive you up to the top on
-      your way back out, but you can&rsquo;t count on it.&nbsp; Luckily, someone
-      picked us up 3/4th of the way back up the hill, and I don&rsquo;t think I
-      have ever been so thankful for a ride in my life! Check out our
-      Backpacking guide here (link backpacking post) to know exactly what to
-      pack for this overnight hike!</p>
+      <p>To start the Muliwai Trail hike you will go down the paved road for 3
+      miles into Waipio valley.&nbsp; Here you will cross over your first river
+      crossing and continue on to the trail through the woods to the other cliff
+      side.&nbsp; Once you reach the other side you will immediately start your
+      3500 ft climb over 1 mile to the top.&nbsp; This climb isn&rsquo;t so bad
+      because it is well maintained, but it is a very tight, steep path.&nbsp;
+      Stop about halfway up at the turn in the switch back for a stunning view
+      of Waipio Valley. Don&rsquo;t get too close to the edge, but enjoy the
+      views here and take some pictures! This is the most you&rsquo;ll be seeing
+      of the coast for the next few hours. I was hoping that once you make it up
+      the cliff it would flatten out and the hardest part would be over.&nbsp;
+      Unfortunately, this is not really the case as you will be going up and
+      down valleys and over small waterfall crossings for miles.&nbsp; Be extra
+      cautious when crossing streams or waterfalls as these are all areas where
+      flash floods can happen at any moment.</p>
   - section-type: blog-arches
     right_image: /blog-images/image00014.jpg
-    left_image: /blog-images/image00012.jpg
+    left_image: /blog-images/image00013.jpg
   - section-type: blog-text-featured
     text-html: >-
       <p>Congrats, you have now made it over to the other side and you see a
