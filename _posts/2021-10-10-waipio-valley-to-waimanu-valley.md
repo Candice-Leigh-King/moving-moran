@@ -44,8 +44,8 @@ sections:
       the permit reservation with you. (A screenshot on your phone is okay too!)
       A campsite will cost $18 a night and there is a primitive toilet at the
       site.&nbsp;</p>
-  - section-type: blog-fixed
-    blog-fixed_image: /blog-images/image00011.jpg
+  - section-type: blog-window
+    window_image: /blog-images/image00011.jpg
   - section-type: blog-text
     text-html: >-
       <p>This hike technically starts at the top of the Waipio Valley.&nbsp; We
@@ -73,12 +73,27 @@ sections:
   - section-type: blog-arches
     right_image: /blog-images/image00004.jpg
     left_image: /blog-images/image00012.jpg
+  - section-type: blog-text
+    text-html: >-
+      <p>If there&rsquo;s anything you take from this post it's to bring hiking
+      poles on this trip! By starting at the top of Waipio Valley you will be
+      hiking a total of 19 miles with three 3,500 foot climbs.&nbsp; So be
+      prepared!&nbsp; Hopefully some kind soul will drive you up to the top on
+      your way back out, but you can&rsquo;t count on it.&nbsp; Luckily, someone
+      picked us up 3/4th of the way back up the hill, and I don&rsquo;t think I
+      have ever been so thankful for a ride in my life! Check out our
+      Backpacking guide here (link backpacking post) to know exactly what to
+      pack for this overnight hike!</p>
+  - section-type: blog-arches
+    right_image: /blog-images/image00014.jpg
+    left_image: /blog-images/image00012.jpg
   - section-type: blog-text-featured
     text-html: >-
-      <h1>How we will travel there?</h1><p>&nbsp;</p><p>Last section. Write,
-      write, write. Blah, blah, blah.</p><p>More and write Lorem ipsum dolor sit
-      amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-      labore et dolore magna aliqua.</p>
-  - section-type: blog-window
-    window_image: /blog-images/image00012.jpg
+      <p>Congrats, you have now made it over to the other side and you see a
+      glimpse of the campsite!&nbsp; At this point you will be so excited to
+      finally be going downhill, but this part is almost harder than going up!
+      This side is completely unmaintained and is covered by fallen tree
+      branches and loose rocks that you will slip on constantly.&nbsp; It was
+      very slow going down this side because it is so steep and slippery, so be
+      careful and take your time! &nbsp;</p>
 ---
