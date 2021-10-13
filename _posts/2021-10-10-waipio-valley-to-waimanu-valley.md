@@ -164,6 +164,6 @@ sections:
       valley to relax and recoup before we climbed back out! Enjoy your time in
       this secluded oasis, and remember to always pack out what you brought
       in!</p>
-  - section-type: blog-fixed
-    blog-fixed_image: /blog-images/image00017.jpg
+  - section-type: blog-window
+    window_image: /blog-images/image00017.jpg
 ---
