@@ -114,19 +114,4 @@ sections:
       branches and loose rocks that you will slip on constantly.&nbsp; It was
       very slow going down this side because it is so steep and slippery, so be
       careful and take your time! &nbsp;</p>
-  - _section-type: blog-window
-    window_image: /blog-images/image00015.jpg
-  - _section-type: blog-text
-    text-html: >-
-      <h2><strong>&nbsp;The campsite:</strong></h2><p>You have made it to the
-      gorgeous Waimanu Valley!&nbsp; Take it all in, it truly is
-      breathtaking.&nbsp; There are 9 campsites spread out along the
-      beach.&nbsp; We arrived later in the day, so most of the campsites had
-      been taken, so we chose spot #5.&nbsp; It was probably not the best
-      campsite out of all of them, but it's close to the toilets and honestly
-      any spot on this beach is a good one! Spot #2 has a gorgeous view of the
-      valley and is a large campsite suitable for larger groups.&nbsp; Our
-      favorite campsite was #8 because it was like someone had made it their own
-      personal oasis.&nbsp; It comes with a rock lounger, swing and path out to
-      the beach!</p>
 ---
