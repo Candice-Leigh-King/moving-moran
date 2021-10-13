@@ -75,30 +75,6 @@ sections:
     left_image: /blog-images/image00012.jpg
   - section-type: blog-text
     text-html: >-
-      <p>We safely made it down the mountain and into camp with one last
-      obstacle in our way.&nbsp; You have one more river crossing to make.&nbsp;
-      You can cross through the middle which is deep but has a rope tied across
-      to help, or you can do what we did and cross at the rocks.&nbsp; There is
-      about a 30 foot Crossing in-between the two rock walls that is fairly easy
-      to cross.&nbsp; Just go slow because the water is moving quickly and the
-      rocks are slippery under your feet.&nbsp; Poles come in handy at this
-      point to help stabilize yourself!</p>
-  - section-type: blog-arches
-    right_image: /blog-images/image00014.jpg
-    left_image: /blog-images/image00013.jpg
-  - section-type: blog-text-featured
-    text-html: >-
-      <p>Congrats, you have now made it over to the other side and you see a
-      glimpse of the campsite!&nbsp; At this point you will be so excited to
-      finally be going downhill, but this part is almost harder than going up!
-      This side is completely unmaintained and is covered by fallen tree
-      branches and loose rocks that you will slip on constantly.&nbsp; It was
-      very slow going down this side because it is so steep and slippery, so be
-      careful and take your time! &nbsp;</p>
-  - section-type: blog-window
-    window_image: /blog-images/image00005.jpg
-  - section-type: blog-text
-    text-html: >-
       <p>To start the Muliwai Trail hike you will go down the paved road for 3
       miles into Waipio valley.&nbsp; Here you will cross over your first river
       crossing and continue on to the trail through the woods to the other cliff
@@ -114,4 +90,43 @@ sections:
       down valleys and over small waterfall crossings for miles.&nbsp; Be extra
       cautious when crossing streams or waterfalls as these are all areas where
       flash floods can happen at any moment.</p>
+  - section-type: blog-arches
+    right_image: /blog-images/image00014.jpg
+    left_image: /blog-images/image00013.jpg
+  - section-type: blog-text
+    text-html: >-
+      <p>We safely made it down the mountain and into camp with one last
+      obstacle in our way.&nbsp; You have one more river crossing to make.&nbsp;
+      You can cross through the middle which is deep but has a rope tied across
+      to help, or you can do what we did and cross at the rocks.&nbsp; There is
+      about a 30 foot Crossing in-between the two rock walls that is fairly easy
+      to cross.&nbsp; Just go slow because the water is moving quickly and the
+      rocks are slippery under your feet.&nbsp; Poles come in handy at this
+      point to help stabilize yourself!</p>
+  - section-type: blog-window
+    window_image: /blog-images/image00005.jpg
+  - section-type: blog-text-featured
+    text-html: >-
+      <p>Congrats, you have now made it over to the other side and you see a
+      glimpse of the campsite!&nbsp; At this point you will be so excited to
+      finally be going downhill, but this part is almost harder than going up!
+      This side is completely unmaintained and is covered by fallen tree
+      branches and loose rocks that you will slip on constantly.&nbsp; It was
+      very slow going down this side because it is so steep and slippery, so be
+      careful and take your time! &nbsp;</p>
+  - _section-type: blog-window
+    window_image: /blog-images/image00015.jpg
+  - _section-type: blog-text
+    text-html: >-
+      <h2><strong>&nbsp;The campsite:</strong></h2><p>You have made it to the
+      gorgeous Waimanu Valley!&nbsp; Take it all in, it truly is
+      breathtaking.&nbsp; There are 9 campsites spread out along the
+      beach.&nbsp; We arrived later in the day, so most of the campsites had
+      been taken, so we chose spot #5.&nbsp; It was probably not the best
+      campsite out of all of them, but it's close to the toilets and honestly
+      any spot on this beach is a good one! Spot #2 has a gorgeous view of the
+      valley and is a large campsite suitable for larger groups.&nbsp; Our
+      favorite campsite was #8 because it was like someone had made it their own
+      personal oasis.&nbsp; It comes with a rock lounger, swing and path out to
+      the beach!</p>
 ---
