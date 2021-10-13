@@ -44,17 +44,19 @@ sections:
       the permit reservation with you. (A screenshot on your phone is okay too!)
       A campsite will cost $18 a night and there is a primitive toilet at the
       site.&nbsp;</p>
+  - section-type: blog-fixed
+    blog-fixed_image: /blog-images/image00011.jpg
   - section-type: blog-text
     text-html: >-
-      <h1><strong>What to expect:</strong></h1><p>&nbsp;</p><p>Immerse yourself
-      in the magic that is the Waimanu Valley at this incredibly beautiful
-      beachfront camping oasis. Before you begin you want to make sure you
-      secure a campsite reservation at <a target="_blank" rel="noopener"
-      href="https://camping.ehawaii.gov/camping/all,details,31720.html">Hawaii
-      Camping.&nbsp;</a>&nbsp;You&rsquo;ll need to create an account and bring a
-      copy of the permit reservation with you. (A screenshot on your phone is
-      okay too!) A campsite will cost $18 a night and there is a primitive
-      toilet at the site.&nbsp;</p>
+      <p>This hike technically starts at the top of the Waipio Valley.&nbsp; We
+      planned on driving to the bottom of the hill and starting our hike at the
+      beach, but the security guard cautioned us on leaving our car at the beach
+      overnight saying it would be &ldquo;asking for trouble&rdquo;.&nbsp; We
+      decided tacking on the extra 3 miles both ways was better than getting
+      broken into and parked on the road before the Waipio Valley Overlook. We
+      also heard that you can pay a fee to leave your car at the Waipio Valley
+      Artworks for a few days, but since we found parking on the street we
+      didn't need to pay.&nbsp;</p>
   - section-type: blog-fixed
     blog-fixed_image: /images/banner.jpeg
   - section-type: blog-text-featured
