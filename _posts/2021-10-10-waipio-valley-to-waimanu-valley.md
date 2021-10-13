@@ -6,11 +6,11 @@ description: >-
   experience the untouched beauty of Hawaii, then Waimanu Valley should be on
   your bucket list!
 type: Travel Tips
-featured-image: /blog-images/image00003.jpeg
+featured-image: /blog-images/image00006.jpg
 author: by Leah Moran
 date: 2021-10-10 00:00:00
 link: movingmoran.com/travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html
-blog_image: /blog-images/image00003.jpeg
+blog_image: /blog-images/image00006.jpg
 paragraph: >-
   Before the tsunami of 1949, Waimanu Valley was a thriving community of
   fishermen and farmers who lived off the land.  Today...
