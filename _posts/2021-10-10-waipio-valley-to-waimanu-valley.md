@@ -79,5 +79,6 @@ sections:
       write, write. Blah, blah, blah.</p><p>More and write Lorem ipsum dolor sit
       amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
       labore et dolore magna aliqua.</p>
-  - section-type: window_image
+  - section-type: blog-window
+    window_image: /blog-images/image00012.jpg
 ---
