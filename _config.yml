@@ -10,7 +10,7 @@ _array_structures:
       - label: blog text
         icon: text
         value:
-          _section-type: blog-text
+          _section-type: text-block
           text-html:
       - label: blog arches
         icon: image
