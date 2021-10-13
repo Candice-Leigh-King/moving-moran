@@ -3,7 +3,7 @@ layout: posts
 title: What we pack for our backpacking trips!
 description: >-
   This is our packing list from our 3 night, 4 day backpacking trip to
-  Havasupai. 
+  Havasupai.
 type: Travel Tips
 featured-image: /blog-images/image00015.jpg
 author: by Leah Moran
@@ -35,6 +35,8 @@ sections:
       short torso and after trying all the bags at the store, the Gregory pack
       size XS was the only one that fit me.&nbsp; Matt had a much easier time
       finding his though!</p>
+  - section-type: blog-window
+    window_image: /blog-images/image00005.jpg
   - section-type: blog-arches
     right_image: /images/movingmoran-lake.jpeg
     left_image: /images/movingmoran-lake.jpeg
