@@ -266,6 +266,13 @@ text-transform: lowercase;}
   margin: 0% 1%;
   }
 
+.blog-image-window
+  {
+  background-size: cover;
+  background-position: center;
+  min-height: 60vh;
+  }
+
 .capped-width
   {
   max-width: 1000px;
