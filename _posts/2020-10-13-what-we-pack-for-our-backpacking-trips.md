@@ -76,4 +76,6 @@ sections:
       purification</li></ul>
   - section-type: blog-fixed
     blog-fixed_image: /blog-images/backpack3.jpg
+  - _section-type: blog-text
+    text-html: <p>Hope you loved this</p>
 ---
