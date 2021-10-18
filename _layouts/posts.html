@@ -70,7 +70,7 @@ layout: default
 <section class="bg-white padded">
 
     {% for item in page.sections %}
-      {% include {{item.section-type}}.html %}
+      {% include {{item._section-type}}.html %}
     {% endfor %}
 
 
