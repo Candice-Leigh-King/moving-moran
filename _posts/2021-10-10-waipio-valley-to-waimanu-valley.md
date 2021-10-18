@@ -19,7 +19,7 @@ categories:
   - travel
   - tips
 sections:
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <h1><strong>Waipio Valley to Waimanu
       Valley</strong></h1><p>&nbsp;</p><p>If you&rsquo;re looking to be far away
@@ -30,10 +30,10 @@ sections:
       the island and is only accessible by foot or boat. This beautiful black
       sand beach is a must see for all those looking to escape the hustle and
       bustle of daily life.rum.</p>
-  - section-type: blog-arches
+  - _section-type: blog-arches
     right_image: /blog-images/image00001.jpg
     left_image: /blog-images/image00002.jpg
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <h1><strong>What to expect:</strong></h1><p>&nbsp;</p><p>Immerse yourself
       in the magic that is the Waimanu Valley at this incredibly beautiful
@@ -44,9 +44,9 @@ sections:
       the permit reservation with you. (A screenshot on your phone is okay too!)
       A campsite will cost $18 a night and there is a primitive toilet at the
       site.&nbsp;</p>
-  - section-type: blog-window
+  - _section-type: blog-window
     window_image: /blog-images/image00011.jpg
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <p>This hike technically starts at the top of the Waipio Valley.&nbsp; We
       planned on driving to the bottom of the hill and starting our hike at the
@@ -57,9 +57,9 @@ sections:
       also heard that you can pay a fee to leave your car at the Waipio Valley
       Artworks for a few days, but since we found parking on the street we
       didn't need to pay.&nbsp;</p>
-  - section-type: blog-fixed
+  - _section-type: blog-fixed
     blog-fixed_image: /blog-images/image00003.jpeg
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <p>If there&rsquo;s anything you take from this post it's to bring hiking
       poles on this trip! By starting at the top of Waipio Valley you will be
@@ -70,10 +70,10 @@ sections:
       have ever been so thankful for a ride in my life! Check out our
       Backpacking guide here (link backpacking post) to know exactly what to
       pack for this overnight hike!</p>
-  - section-type: blog-arches
+  - _section-type: blog-arches
     right_image: /blog-images/image00007.jpg
     left_image: /blog-images/image00009.jpg
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <p>To start the Muliwai Trail hike you will go down the paved road for 3
       miles into Waipio valley.&nbsp; Here you will cross over your first river
@@ -90,10 +90,10 @@ sections:
       down valleys and over small waterfall crossings for miles.&nbsp; Be extra
       cautious when crossing streams or waterfalls as these are all areas where
       flash floods can happen at any moment.</p>
-  - section-type: blog-arches
+  - _section-type: blog-arches
     right_image: /blog-images/image00014.jpg
     left_image: /blog-images/image00013.jpg
-  - section-type: blog-text-featured
+  - _section-type: blog-text-featured
     text-html: >-
       <p>Congrats, you have now made it over to the other side and you see a
       glimpse of the campsite!&nbsp; At this point you will be so excited to
@@ -102,9 +102,9 @@ sections:
       branches and loose rocks that you will slip on constantly.&nbsp; It was
       very slow going down this side because it is so steep and slippery, so be
       careful and take your time! &nbsp;</p>
-  - section-type: blog-window
+  - _section-type: blog-window
     window_image: /blog-images/image00005.jpg
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <p>We safely made it down the mountain and into camp with one last
       obstacle in our way.&nbsp; You have one more river crossing to make.&nbsp;
@@ -114,9 +114,9 @@ sections:
       to cross.&nbsp; Just go slow because the water is moving quickly and the
       rocks are slippery under your feet.&nbsp; Poles come in handy at this
       point to help stabilize yourself!</p>
-  - section-type: blog-window
+  - _section-type: blog-window
     window_image: /blog-images/image00015.jpg
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <h2><strong>The campsite</strong></h2><p>You have made it to the gorgeous
       Waimanu Valley!&nbsp; Take it all in, it truly is breathtaking.&nbsp;
@@ -128,10 +128,10 @@ sections:
       suitable for larger groups.&nbsp; Our favorite campsite was #8 because it
       was like someone had made it their own personal oasis.&nbsp; It comes with
       a rock lounger, swing and path out to the beach!&nbsp;</p>
-  - section-type: blog-arches
+  - _section-type: blog-arches
     right_image: /blog-images/image00004.jpg
     left_image: /blog-images/image00012.jpg
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <p>Once you are at the campsite you will probably be in need of a water
       refill.&nbsp; Refrain from taking water from the stream, and instead take
@@ -145,25 +145,25 @@ sections:
       follow it all the way up until you see some pipes in a waterfall.&nbsp;
       You can collect your water here, although we recommend still purifying or
       using iodine tablets just to be safe.</p>
-  - section-type: blog-arches
+  - _section-type: blog-arches
     right_image: /blog-images/image00010.jpg
     left_image: /blog-images/image00008.jpg
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <p>If you&rsquo;re feeling up to another hike, there is also a waterfall
       that you can hike to. Since we were only there overnight and we were tired
       from the hike in, we didn&rsquo;t go in search of the waterfall. We
       decided to relax and enjoy the sunset and sunrise from the beach.</p>
-  - section-type: blog-arches
+  - _section-type: blog-arches
     right_image: /blog-images/image00018.jpg
     left_image: /blog-images/image00016.jpg
-  - section-type: blog-text-featured
+  - _section-type: blog-text-featured
     text-html: >-
       <p>We definitely recommend spending 2-3 days in the valley.&nbsp; We only
       had time for an overnight trip and we wished we had more time in the
       valley to relax and recoup before we climbed back out! Enjoy your time in
       this secluded oasis, and remember to always pack out what you brought
       in!</p>
-  - section-type: blog-window
+  - _section-type: blog-window
     window_image: /blog-images/image00017.jpg
 ---
