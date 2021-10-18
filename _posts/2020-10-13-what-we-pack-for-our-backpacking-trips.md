@@ -19,9 +19,9 @@ categories:
   - travel
   - lifestyle
 sections:
-  - section-type: blog-fixed
+  - _section-type: blog-fixed
     blog-fixed_image: /blog-images/backpack2.jpg
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <p>This is our packing list from our 3 night, 4 day backpacking trip to
       Havasupai.&nbsp; This was an 11 mile hike through the desert to a
@@ -37,9 +37,9 @@ sections:
       short torso and after trying all the bags at the store, the Gregory pack
       size XS was the only one that fit me.&nbsp; Matt had a much easier time
       finding his though!</p>
-  - section-type: blog-window
+  - _section-type: blog-window
     window_image: /blog-images/backpack.jpg
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <h4><strong>Leah&rsquo;s Bag: Gregory 60L Size: XS (Height-
       5&rsquo;4&rdquo;)</strong></h4><ul><li>Sleeping Bag</li><li>Sleeping
@@ -54,9 +54,9 @@ sections:
       (Optional)</li><li>Hammock</li><li>Book&nbsp;</li><li>Hydration
       Packets</li><li>More Clothes (I struggle with this
       one!)</li><li>Medications</li></ul>
-  - section-type: blog-window
+  - _section-type: blog-window
     window_image: /blog-images/backpack4.jpg
-  - section-type: blog-text
+  - _section-type: blog-text
     text-html: >-
       <h4><strong>Matts Bag: Osprey 65L Size: L&nbsp; (Height-
       6&rsquo;)</strong></h4><ul><li>Jet Boil</li><li>Small
@@ -74,6 +74,6 @@ sections:
       Shoes(Optional)</li><li>Hammock</li><li>Book&nbsp;</li><li>Hydration
       Packets</li><li>Rope for Drying Clothes</li><li>Iodine tablets for water
       purification</li></ul>
-  - section-type: blog-fixed
+  - _section-type: blog-fixed
     blog-fixed_image: /blog-images/backpack3.jpg
 ---
