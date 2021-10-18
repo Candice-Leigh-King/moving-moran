@@ -76,4 +76,6 @@ sections:
       purification</li></ul>
   - _section-type: blog-fixed
     blog-fixed_image: /blog-images/backpack3.jpg
+  - _section-type: blog-window
+    window_image: /blog-images/backpack.jpg
 ---
