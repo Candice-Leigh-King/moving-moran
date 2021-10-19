@@ -180,21 +180,6 @@ a:hover {color: #d3dfe2;}
   border-bottom-left-radius: 20rem;
   border-bottom-right-radius: 20rem;}
 
-.bump-left-image
-  {
-  margin-top: 9px;
-  margin-left: -4px;
-  transform: rotate(-3deg);
-  box-shadow: 0.5px 1px 2px;}
-
-.bump-right-image
-  {
-  margin-top: 8px;
-  margin-left: 4px;
-  transform: rotate(2deg);
-  box-shadow: 0.5px 1px 2px;
-  }
-
 .button:hover {
   border: 1px solid #6b8c9e;
   background-color: #6b8c9e;
