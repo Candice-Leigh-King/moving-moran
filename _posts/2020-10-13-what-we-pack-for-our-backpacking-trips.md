@@ -17,7 +17,7 @@ paragraph: >-
 blog-fixed_image: /images/banner.jpeg
 categories:
   - travel
-  - lifestyle
+  - tips
 sections:
   - _section-type: blog-fixed
     blog-fixed_image: /blog-images/waimanu/backpack5.jpg
