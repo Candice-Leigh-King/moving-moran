@@ -39,8 +39,8 @@ sections:
             7 day itinerary to make the planning easier for you!</p>
     -
         _section-type: blog-arches
-        right_image: /uploads/maui3.jpg
-        left_image: /uploads/maui4.jpg
+        right_image: /uploads/maui/maui3.jpg
+        left_image: /uploads/maui/maui4.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -68,7 +68,7 @@ sections:
             than once during your trip!</li></ol>
     -
         _section-type: blog-window
-        window_image: /blog-images/backpack4.jpg
+        window_image: /blog-images/maui13.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -89,7 +89,7 @@ sections:
             clothes!</li></ol>
     -
         _section-type: blog-fixed
-        blog-fixed_image: /blog-images/backpack3.jpg
+        blog-fixed_image: /blog-images/maui6.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -110,8 +110,9 @@ sections:
             aware of cars around you, you will be just fine! Also let locals
             pass, as they will be used to the roads and going much faster!</p>
     -
-        _section-type: blog-window
-        window_image: /uploads/img-7170.jpg
+        _section-type: blog-arches
+        right_image: /uploads/maui/maui14.jpg
+        left_image: /uploads/maui/maui16.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -141,28 +142,95 @@ sections:
             name, so if you see something cool, safely pull over and check them
             out!</li><li>Hana Lava Tube ( Mile Marker 31) Turn Left on
             Ula&rsquo;ino road to check out the coolest lava tube!&nbsp; Make
-            sure you bring your flash lights!</li><li>Honokalani Beach - Black
-            sand against an incredibly blue ocean.&nbsp; Need I say more? There
-            are hiking trails, and even a campground here.&nbsp;</li><li>Hana
-            Town- as you can see this is a pretty extensive list, so if you can
-            spend the night in Hana you can make the most of your trip! Check
-            out the many yummy food trucks for dinner.&nbsp;</li><li>Koki Beach-
-            A gorgeous red-ish sand beach that is perfect to relax
-            on!</li><li>&nbsp;Venus Ponds- A must stop in my opninion! A short
-            trail down to a secluded swimming area off of the ocean.&nbsp; You
-            can cliff jump here and the water is clear and and so
-            refreshing!</li><li>Wailua Falls- Pull off on the side of the road
-            in the many parking spaces.&nbsp; You can see the falls from the
-            road, or take the short path to a pool area where you can jump
-            in!</li><li>The Pools of Phe&rsquo;o and Pipiwai trail- My favorite
-            hike on all of Maui!&nbsp; Do not miss this stop!&nbsp; Check out
-            the pools and then go on this 4 mile hike to the 400 foot Waimoku
-            Falls through an increible bamboo forest.&nbsp; Trust me, its one of
-            the coolest hikes Ive ever been on with multiple waterfalls along
-            the way!</li></ol>
+            sure you bring your flash lights!</li></ol>
     -
         _section-type: blog-window
-        window_image: /images/movingmoran-cactus.jpeg
+        window_image: /uploads/maui/maui17.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>8. Honokalani Beach - Black sand against an incredibly blue
+            ocean.&nbsp; Need I say more? There are hiking trails, and even a
+            campground here.&nbsp;</p><p>9. Hana Town- as you can see this is a
+            pretty extensive list, so if you can spend the night in Hana you can
+            make the most of your trip! Check out the many yummy food trucks for
+            dinner.&nbsp;</p><p>10. Koki Beach- A gorgeous red-ish sand beach
+            that is perfect to relax on!</p><p>11. Venus Ponds- A must stop in
+            my opninion! A short trail down to a secluded swimming area off of
+            the ocean.&nbsp; You can cliff jump here and the water is clear and
+            and so refreshing!</p><p>12. Wailua Falls- Pull off on the side of
+            the road in the many parking spaces.&nbsp; You can see the falls
+            from the road, or take the short path to a pool area where you can
+            jump in!</p><p>13. The Pools of Phe&rsquo;o and Pipiwai trail- My
+            favorite hike on all of Maui!&nbsp; Do not miss this stop!&nbsp;
+            Check out the pools and then go on this 4 mile hike to the 400 foot
+            Waimoku Falls through an increible bamboo forest.&nbsp; Trust me,
+            its one of the coolest hikes Ive ever been on with multiple
+            waterfalls along the way!</p>
+    -
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/maui/maui15.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>9. Hana Town- as you can see this is a pretty extensive list, so
+            if you can spend the night in Hana you can make the most of your
+            trip! Check out the many yummy food trucks for
+            dinner.&nbsp;</p><p>10. Koki Beach- A gorgeous red-ish sand beach
+            that is perfect to relax on!</p><p>11. Venus Ponds- A must stop in
+            my opninion! A short trail down to a secluded swimming area off of
+            the ocean.&nbsp; You can cliff jump here and the water is clear and
+            and so refreshing!</p><p>12. Wailua Falls- Pull off on the side of
+            the road in the many parking spaces.&nbsp; You can see the falls
+            from the road, or take the short path to a pool area where you can
+            jump in!</p><p>13. The Pools of Phe&rsquo;o and Pipiwai trail- My
+            favorite hike on all of Maui!&nbsp; Do not miss this stop!&nbsp;
+            Check out the pools and then go on this 4 mile hike to the 400 foot
+            Waimoku Falls through an increible bamboo forest.&nbsp; Trust me,
+            its one of the coolest hikes Ive ever been on with multiple
+            waterfalls along the way!</p>
+    -
+        _section-type: blog-window
+        window_image: /uploads/maui/maui27.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>11. Venus Ponds- A must stop in my opninion! A short trail down
+            to a secluded swimming area off of the ocean.&nbsp; You can cliff
+            jump here and the water is clear and and so refreshing!</p><p>12.
+            Wailua Falls- Pull off on the side of the road in the many parking
+            spaces.&nbsp; You can see the falls from the road, or take the short
+            path to a pool area where you can jump in!</p><p>13. The Pools of
+            Phe&rsquo;o and Pipiwai trail- My favorite hike on all of
+            Maui!&nbsp; Do not miss this stop!&nbsp; Check out the pools and
+            then go on this 4 mile hike to the 400 foot Waimoku Falls through an
+            increible bamboo forest.&nbsp; Trust me, its one of the coolest
+            hikes Ive ever been on with multiple waterfalls along the way!</p>
+    -
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/maui/maui12.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>12. Wailua Falls- Pull off on the side of the road in the many
+            parking spaces.&nbsp; You can see the falls from the road, or take
+            the short path to a pool area where you can jump in!</p>
+    -
+        _section-type: blog-arches
+        right_image: /uploads/maui/maui29.jpg
+        left_image: /uploads/maui/maui30.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>13. The Pools of Phe&rsquo;o and Pipiwai trail- My favorite hike
+            on all of Maui!&nbsp; Do not miss this stop!&nbsp; Check out the
+            pools and then go on this 4 mile hike to the 400 foot Waimoku Falls
+            through an increible bamboo forest.&nbsp; Trust me, its one of the
+            coolest hikes Ive ever been on with multiple waterfalls along the
+            way!</p>
+    -
+        _section-type: blog-window
+        window_image: /uploads/maui/maui19.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -171,7 +239,7 @@ sections:
             beaches and places to eat that we fell in love!</p>
     -
         _section-type: blog-fixed
-        blog-fixed_image: /blog-images/backpack.jpg
+        blog-fixed_image: /blog-images/maui5.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -190,9 +258,8 @@ sections:
             Take a nice walk on the beach before or after
             dinner.&nbsp;</li></ol>
     -
-        _section-type: blog-arches
-        right_image:
-        left_image:
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/maui/maui21.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -216,7 +283,7 @@ sections:
             and let me know your favorite!</li></ol>
     -
         _section-type: blog-fixed
-        blog-fixed_image:
+        blog-fixed_image: /uploads/maui/maui34.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -237,8 +304,9 @@ sections:
             algae off their shells and flippers, kind of like a turtle car
             wash!</li></ol>
     -
-        _section-type: blog-fixed
-        blog-fixed_image:
+        _section-type: blog-arches
+        right_image: /uploads/maui/maui22.jpg
+        left_image: /uploads/maui/maui23.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -256,7 +324,7 @@ sections:
             even vegan.&nbsp; You have to get one of their acai bowls!</li></ol>
     -
         _section-type: blog-window
-        window_image:
+        window_image: /uploads/maui/maui26.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -276,29 +344,40 @@ sections:
             shops and restaurants to walk around to.&nbsp; Make sure you check
             out the Lahaina Banyan Court in town!</li></ol>
     -
-        _section-type: blog-arches
-        right_image:
-        left_image:
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/maui/maui38.jpg
     -
         _section-type: blog-text
         text-html: >-
             <p>Activities:</p><ol><li>Hono Bay- Walk through a literal fairytale
-            land of banyan trees to a perfect snorkeling
-            bay.&nbsp;</li><li>Dragon's Teeth- Nice half mile walk along the
-            ocean to see a cool lava flow formation that looks like jagged
-            dragon teeth! Parking for the hike is from a parking lot off of
-            office road, next to the Maui Pineapple
-            Chapel.&nbsp;</li><li>Surfing- This is a great area to try surfing
-            for the first time.&nbsp; I do recommend starting with a trainer as
-            surfing is hard to learn on your own and you don't want to take on
-            waves that are too big for you!&nbsp; Launiupoko is a great place to
-            learn! (pro tip: stay out of the way of other surfers if you don't
-            want to get yelled at!)</li><li>Mala Wharf- If you opted out of
-            taking a trip to Molokini, you can still reach &ldquo;turtle
-            town&rdquo; by car! Park at the wharf and swim out to the sunken
-            wharf to see turtles and coral!&nbsp; Caution: do not attempt this
-            if you are not a strong swimmer!&nbsp; There is a decent current
-            here and it's a little ways out to reach the coral!. Take a life
-            jacket or choose to snorkel with a tour if you are
-            unsure.&nbsp;</li></ol>
+            land of banyan trees to a perfect snorkeling bay.&nbsp;</li></ol>
+    -
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/maui/maui28.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>2. Dragon's Teeth- Nice half mile walk along the ocean to see a
+            cool lava flow formation that looks like jagged dragon teeth!
+            Parking for the hike is from a parking lot off of office road, next
+            to the Maui Pineapple Chapel.&nbsp;</p><p>3. Surfing- This is a
+            great area to try surfing for the first time.&nbsp; I do recommend
+            starting with a trainer as surfing is hard to learn on your own and
+            you don't want to take on waves that are too big for you!&nbsp;
+            Launiupoko is a great place to learn! (pro tip: stay out of the way
+            of other surfers if you don't want to get yelled at!)</p>
+    -
+        _section-type: blog-arches
+        right_image: /uploads/maui/maui36.jpg
+        left_image: /uploads/maui/maui35.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>Mala Wharf- If you opted out of taking a trip to Molokini, you
+            can still reach &ldquo;turtle town&rdquo; by car! Park at the wharf
+            and swim out to the sunken wharf to see turtles and coral!&nbsp;
+            Caution: do not attempt this if you are not a strong swimmer!&nbsp;
+            There is a decent current here and it's a little ways out to reach
+            the coral!. Take a life jacket or choose to snorkel with a tour if
+            you are unsure.&nbsp;</p>
 ---
