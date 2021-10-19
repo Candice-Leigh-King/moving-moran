@@ -67,7 +67,7 @@ sections:
             than once during your trip!</li></ol>
     -
         _section-type: blog-window
-        window_image: /blog-images/maui13.jpg
+        window_image: /blog-images/maui6.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -87,7 +87,7 @@ sections:
             clothes!</li></ol>
     -
         _section-type: blog-fixed
-        blog-fixed_image: /blog-images/maui6.jpg
+        blog-fixed_image: /blog-images/maui13.jpg
     -
         _section-type: blog-text
         text-html: >-
