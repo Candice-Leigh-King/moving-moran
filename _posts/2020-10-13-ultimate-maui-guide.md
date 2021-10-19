@@ -66,9 +66,6 @@ sections:
             island and I&rsquo;m sure you&rsquo;ll need to get your fix more
             than once during your trip!</li></ol>
     -
-        _section-type: blog-window
-        window_image: /blog-images/maui6.jpg
-    -
         _section-type: blog-text
         text-html: >-
             <p>Best Beaches:</p><ol><li>Ho&rsquo;okipa - This is the perfect
