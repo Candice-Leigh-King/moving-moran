@@ -5,11 +5,11 @@ description: >-
     Ultimate Guide to Maui from someone who lived there and knows all the best
     spots!
 type: Travel Tips
-featured-image: /blog-images/image00015.jpg
+featured-image: /blog-images/maui1.jpg
 author: by Leah Moran
 date: 2020-10-13 00:00:00
 link: /Ultimate Maui Guide
-blog_image: /blog-images/image00015.jpg
+blog_image: /blog-images/maui1.jpg
 paragraph: >-
     Want to travel Maui like a local?  Well we’ve got you covered!  While we
     can’t call ourselves locals, we did live in Maui for 6 months...
