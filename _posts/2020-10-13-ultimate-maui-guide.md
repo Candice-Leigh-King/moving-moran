@@ -125,8 +125,8 @@ sections:
             service along the way.&nbsp;</p>
     -
         _section-type: blog-arches
-        right_image: /uploads/img-7170.jpg
-        left_image: /blog-images/backpack.jpg
+        right_image: /uploads/maui/maui37.jpg
+        left_image: /blog-images/maui24.jpg
     -
         _section-type: blog-text
         text-html: >-
