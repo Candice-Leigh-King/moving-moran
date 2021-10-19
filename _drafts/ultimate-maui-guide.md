@@ -20,7 +20,7 @@ categories:
 sections:
     -
         _section-type: blog-fixed
-        blog-fixed_image: /blog-images/backpack2.jpg
+        blog-fixed_image: /blog-images/maui2.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -38,8 +38,9 @@ sections:
             it's easier to digest.&nbsp; At the end of this post you can find a
             7 day itinerary to make the planning easier for you!</p>
     -
-        _section-type: blog-window
-        window_image: /blog-images/backpack.jpg
+        _section-type: blog-arches
+        right_image: /uploads/maui3.jpg
+        left_image: /uploads/maui4.jpg
     -
         _section-type: blog-text
         text-html: >-
