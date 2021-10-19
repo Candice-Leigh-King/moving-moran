@@ -5,11 +5,11 @@ description: >-
   This is our packing list from our 3 night, 4 day backpacking trip to
   Havasupai.
 type: Travel Tips
-featured-image: /blog-images/backpacking1.jpg
+featured-image: /blog-images/backpacking/backpacking1.jpg
 author: by Leah Moran
 date: 2020-10-13 00:00:00
 link: /What we pack for our backpacking trips
-blog_image: /blog-images/backpacking1.jpg
+blog_image: /blog-images/backpacking/backpacking1.jpg
 paragraph: >-
   This was an 11 mile hike through the desert to a waterfall oasis, so if you're
   packing for a colder trip make sure you factor in the extra weight of heavier
@@ -20,7 +20,7 @@ categories:
   - lifestyle
 sections:
   - _section-type: blog-fixed
-    blog-fixed_image: /blog-images/backpack2.jpg
+    blog-fixed_image: /blog-images/waimanu/backpack5.jpg
   - _section-type: blog-text
     text-html: >-
       <p>This is our packing list from our 3 night, 4 day backpacking trip to
@@ -38,7 +38,7 @@ sections:
       size XS was the only one that fit me.&nbsp; Matt had a much easier time
       finding his though!</p>
   - _section-type: blog-window
-    window_image: /blog-images/backpack.jpg
+    window_image: /blog-images/backpacking/backpack.jpg
   - _section-type: blog-text
     text-html: >-
       <h4><strong>Leah&rsquo;s Bag: Gregory 60L Size: XS (Height-
@@ -55,7 +55,7 @@ sections:
       Packets</li><li>More Clothes (I struggle with this
       one!)</li><li>Medications</li></ul>
   - _section-type: blog-window
-    window_image: /blog-images/backpack4.jpg
+    window_image: /blog-images/backpacking/backpack4.jpg
   - _section-type: blog-text
     text-html: >-
       <h4><strong>Matts Bag: Osprey 65L Size: L&nbsp; (Height-
@@ -75,5 +75,5 @@ sections:
       Packets</li><li>Rope for Drying Clothes</li><li>Iodine tablets for water
       purification</li></ul>
   - _section-type: blog-fixed
-    blog-fixed_image: /blog-images/backpack3.jpg
+    blog-fixed_image: /blog-images/backpacking/backpack3.jpg
 ---
