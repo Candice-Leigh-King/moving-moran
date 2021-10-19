@@ -690,21 +690,11 @@ form .button:hover
 
   .blog-images {min-height: 40vh;}
 
-  .blog-image-right
-    {
-    margin-top: 9px;
-    margin-left: -4px;
-    transform: rotate(-3deg);
-    box-shadow: 0.5px 1px 2px;
-    }
+
 
   .blog-image-left
     {
     border-radius: 0%;
-    margin-top: 9px;
-    margin-left: 4px;
-    transform: rotate(3deg);
-    box-shadow: 0.5px 1px 2px;
     }
 
   .date {font-size: 0.8rem;}
