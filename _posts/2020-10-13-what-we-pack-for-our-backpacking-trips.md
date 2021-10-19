@@ -5,7 +5,7 @@ description: >-
   This is our packing list from our 3 night, 4 day backpacking trip to
   Havasupai.
 type: Travel Tips
-featured-image: /blog-images/image00015.jpg
+featured-image: /blog-images/backpacking1.jpg
 author: by Leah Moran
 date: 2020-10-13 00:00:00
 link: /What we pack for our backpacking trips
