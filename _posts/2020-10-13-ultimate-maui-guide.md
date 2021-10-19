@@ -16,7 +16,6 @@ paragraph: >-
 blog-fixed_image: /images/banner.jpeg
 categories:
     - travel
-    - lifestyle
 sections:
     -
         _section-type: blog-fixed
@@ -79,13 +78,12 @@ sections:
             watch surfers ride some pretty crazy waves!</li><li>Baldwin Beach -
             Turquoise waters and absolutely incredible views of the lush
             mountains of the Central Coast! Also a great place to watch kite
-            surfers!</li><li>&nbsp;</li></ol><p>Best Shops:</p><ol><li>Alica in
-            HulaLand- This quirky shop has the best
-            clothes!</li><li>Ho&rsquo;okipa Surf- The best shirts!&nbsp; Matt
-            got so many cool shirts and hats here that are great quality and
-            colors!</li><li>Tribe Maui- If you went to Polli's Mexican
-            restaurant, make sure you stop in this store that's across the
-            street. This boutique has my favorite unique jewelry and
+            surfers!</li></ol><p>Best Shops:</p><ol><li>Alice in HulaLand- This
+            quirky shop has the best clothes!</li><li>Ho&rsquo;okipa Surf- The
+            best shirts!&nbsp; Matt got so many cool shirts and hats here that
+            are great quality and colors!</li><li>Tribe Maui- If you went to
+            Polli's Mexican restaurant, make sure you stop in this store that's
+            across the street. This boutique has my favorite unique jewelry and
             clothes!</li></ol>
     -
         _section-type: blog-fixed
@@ -106,9 +104,10 @@ sections:
             can get a little sketchy.&nbsp; We took our 2016 Jeep Grand Cherokee
             on the road many, many times and it handled the roads, and turns
             just fine! This road isn't for the faint of heart though with its
-            many hair pins, cliffside turns.&nbsp; If you go slow and stay very
-            aware of cars around you, you will be just fine! Also let locals
-            pass, as they will be used to the roads and going much faster!</p>
+            many hair pin and cliffside turns.&nbsp; If you go slow and stay
+            very aware of cars around you, you will be just fine! Also let
+            locals pass, as they will be used to the roads and going much
+            faster!</p>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui14.jpg
