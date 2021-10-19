@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: What we pack for our backpacking trips!
+title: What We Pack for Backpacking Trips!
 description: >-
   This is our packing list from our 3 night, 4 day backpacking trip to
   Havasupai.
