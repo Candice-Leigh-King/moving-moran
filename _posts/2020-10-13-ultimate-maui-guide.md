@@ -233,8 +233,8 @@ sections:
             I,II &amp; III- most locals have their favorite, check out all three
             and let me know your favorite!</li></ol>
     -
-        _section-type: blog-fixed
-        blog-fixed_image: /uploads/maui/maui34.jpg
+        _section-type: blog-window
+        window_image: /uploads/maui/maui34.jpg
     -
         _section-type: blog-text
         text-html: >-
