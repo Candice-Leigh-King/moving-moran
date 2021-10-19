@@ -209,8 +209,8 @@ sections:
             Take a nice walk on the beach before or after
             dinner.&nbsp;</li></ol>
     -
-        _section-type: blog-fixed
-        blog-fixed_image: /uploads/maui/maui21.jpg
+        _section-type: blog-window
+        window_image: /uploads/maui/maui21.jpg
     -
         _section-type: blog-text
         text-html: >-
