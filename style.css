@@ -613,6 +613,11 @@ form .button:hover
 
   .blog {min-height: 80vh;}
 
+  .blog-image-window
+    {
+    min-height: 60vh;
+    }
+
 }
 
 /* Gridlex SM query - Max 768px - _sm-* */
