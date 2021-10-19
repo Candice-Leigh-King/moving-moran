@@ -667,6 +667,11 @@ form .button:hover
   .padded-story {padding: 0%;}
 
   .text-featured {padding-top: 5%;}
+
+  .blog-fixed-banner
+    {
+    background-attachment: scroll;
+    }
 }
 
 
