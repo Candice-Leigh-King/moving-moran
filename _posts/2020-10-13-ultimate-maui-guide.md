@@ -112,14 +112,14 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>So if you&rsquo;re starting from Paia make sure to download the
+            <p>If you&rsquo;re starting from Paia make sure to download the
             &ldquo;Road to Hana Maui GyPSy Guide'' in the app store.&nbsp; It
             tells you where to stop, how long each stop might be and gives you
             history along the way!&nbsp; It's about $5 and so worth it for all
-            the information you get, plus there are so many turns it's easy to
-            pass up some pretty incredible spots.&nbsp; Just make sure you
-            download the app before you take the drive because you will lose
-            service along the way.&nbsp;</p>
+            the information you get.&nbsp; There are so many turns it's easy to
+            pass up some pretty incredible spots if you don't have it.&nbsp;
+            Just make sure you download the app before you take the drive
+            because you will lose service along the way.&nbsp;</p>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui37.jpg
