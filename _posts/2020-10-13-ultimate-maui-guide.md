@@ -18,9 +18,6 @@ categories:
     - travel
 sections:
     -
-        _section-type: blog-fixed
-        blog-fixed_image: /blog-images/maui2.jpg
-    -
         _section-type: blog-text
         text-html: >-
             <p>Want to travel Maui like a local?&nbsp; Well we&rsquo;ve got you
@@ -65,6 +62,9 @@ sections:
             with their incredible Mochi on top! There are many locations on the
             island and I&rsquo;m sure you&rsquo;ll need to get your fix more
             than once during your trip!</li></ol>
+    -
+        _section-type: blog-fixed
+        blog-fixed_image: /blog-images/maui2.jpg
     -
         _section-type: blog-text
         text-html: >-
