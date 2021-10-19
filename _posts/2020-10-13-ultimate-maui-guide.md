@@ -62,7 +62,7 @@ sections:
             Hawaii.&nbsp; Try flavors unique to Hawaii like lychee and Lilikoi
             with their incredible Mochi on top! There are many locations on the
             island and I&rsquo;m sure you&rsquo;ll need to get your fix more
-            than once during your trip!</li></ol><p><strong>Best
+            than once during your trip!</li></ol><p>&nbsp;</p><p><strong>Best
             Beaches:</strong></p><ol><li>Ho&rsquo;okipa - This is the perfect
             place to see turtles (Please keep at least a 10 foot distance
             between you and a turtle!&nbsp; It's actually illegal to touch or
@@ -70,13 +70,13 @@ sections:
             watch surfers ride some pretty crazy waves!</li><li>Baldwin Beach -
             Turquoise waters and absolutely incredible views of the lush
             mountains of the Central Coast! Also a great place to watch kite
-            surfers!</li></ol><p><strong>Best Shops:</strong></p><ol><li>Alice
-            in HulaLand- This quirky shop has the best
-            clothes!</li><li>Ho&rsquo;okipa Surf- The best shirts!&nbsp; Matt
-            got so many cool shirts and hats here that are great quality and
-            colors!</li><li>Tribe Maui- If you went to Polli's Mexican
-            restaurant, make sure you stop in this store that's across the
-            street. This boutique has my favorite unique jewelry and
+            surfers!</li></ol><p>&nbsp;</p><p><strong>Best
+            Shops:</strong></p><ol><li>Alice in HulaLand- This quirky shop has
+            the best clothes!</li><li>Ho&rsquo;okipa Surf- The best
+            shirts!&nbsp; Matt got so many cool shirts and hats here that are
+            great quality and colors!</li><li>Tribe Maui- If you went to Polli's
+            Mexican restaurant, make sure you stop in this store that's across
+            the street. This boutique has my favorite unique jewelry and
             clothes!</li></ol>
     -
         _section-type: blog-fixed
@@ -186,29 +186,23 @@ sections:
             coolest hikes Ive ever been on with multiple waterfalls along the
             way!</p>
     -
-        _section-type: blog-window
-        window_image: /uploads/maui/maui19.jpg
-    -
-        _section-type: blog-text
-        text-html: >-
-            <p><strong>South Maui:</strong>&nbsp;</p><p>We lived in Kihei so we
-            might be a little biased to this side, but there are so many amazing
-            beaches and places to eat that we fell in love!</p>
-    -
         _section-type: blog-fixed
         blog-fixed_image: /blog-images/maui5.jpg
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>Best Restaurants:</strong></p><ol><li>Maui Brewing-
-            Incredible beers with an amazing outdoor seating area.&nbsp; Try to
-            come here at sunset!</li><li>Isana- Our favorite sushi in the whole
-            wide world! Please just do us a favor and go here.&nbsp; And don't
-            forget a reservation! Check out Happy hour for 40% off select sushi
-            and drinks from 3-5pm and 9-10pm daily.&nbsp;</li><li>South Shore
-            Tiki Bar-&nbsp; This was our favorite spot to hang out! Great tiki
-            drinks and Pizza in a cute atmosphere!</li><li>Food trucks off of
-            Piikea Ave- A fun area to come if no one can decide on what they
+            <p><strong>South Maui:</strong>&nbsp;</p><p>We lived in Kihei so we
+            might be a little biased to this side, but there are so many amazing
+            beaches and places to eat that we fell in love!</p><p><strong>Best
+            Restaurants:</strong></p><ol><li>Maui Brewing- Incredible beers with
+            an amazing outdoor seating area.&nbsp; Try to come here at
+            sunset!</li><li>Isana- Our favorite sushi in the whole wide world!
+            Please just do us a favor and go here.&nbsp; And don't forget a
+            reservation! Check out Happy hour for 40% off select sushi and
+            drinks from 3-5pm and 9-10pm daily.&nbsp;</li><li>South Shore Tiki
+            Bar-&nbsp; This was our favorite spot to hang out! Great tiki drinks
+            and Pizza in a cute atmosphere!</li><li>Food trucks off of Piikea
+            Ave- A fun area to come if no one can decide on what they
             want.&nbsp; Come here and choose from several food trucks and then
             meet at the picnic tables as a family!</li><li>5 Palms- This is a
             more expensive dinner, but the views and food are worth it!&nbsp;
