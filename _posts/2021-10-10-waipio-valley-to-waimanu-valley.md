@@ -146,8 +146,8 @@ sections:
       You can collect your water here, although we recommend still purifying or
       using iodine tablets just to be safe.</p>
   - _section-type: blog-arches
-    right_image: /blog-images/image00010.jpg
-    left_image: /blog-images/image00008.jpg
+    right_image: /blog-images/waimanu/image00010.jpg
+    left_image: /blog-images/waimanu/image00008.jpg
   - _section-type: blog-text
     text-html: >-
       <p>If you&rsquo;re feeling up to another hike, there is also a waterfall
@@ -155,8 +155,8 @@ sections:
       from the hike in, we didn&rsquo;t go in search of the waterfall. We
       decided to relax and enjoy the sunset and sunrise from the beach.</p>
   - _section-type: blog-arches
-    right_image: /blog-images/image00018.jpg
-    left_image: /blog-images/image00016.jpg
+    right_image: /blog-images/waimanu/image00018.jpg
+    left_image: /blog-images/waimanu/image00016.jpg
   - _section-type: blog-text-featured
     text-html: >-
       <p>We definitely recommend spending 2-3 days in the valley.&nbsp; We only
@@ -165,5 +165,5 @@ sections:
       this secluded oasis, and remember to always pack out what you brought
       in!</p>
   - _section-type: blog-window
-    window_image: /blog-images/image00017.jpg
+    window_image: /blog-images/waimanu/image00017.jpg
 ---
