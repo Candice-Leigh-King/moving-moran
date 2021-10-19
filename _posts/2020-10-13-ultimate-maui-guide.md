@@ -142,22 +142,7 @@ sections:
         text-html: >-
             <p>8. Honokalani Beach - Black sand against an incredibly blue
             ocean.&nbsp; Need I say more? There are hiking trails, and even a
-            campground here.&nbsp;</p><p>9. Hana Town- as you can see this is a
-            pretty extensive list, so if you can spend the night in Hana you can
-            make the most of your trip! Check out the many yummy food trucks for
-            dinner.&nbsp;</p><p>10. Koki Beach- A gorgeous red-ish sand beach
-            that is perfect to relax on!</p><p>11. Venus Ponds- A must stop in
-            my opninion! A short trail down to a secluded swimming area off of
-            the ocean.&nbsp; You can cliff jump here and the water is clear and
-            and so refreshing!</p><p>12. Wailua Falls- Pull off on the side of
-            the road in the many parking spaces.&nbsp; You can see the falls
-            from the road, or take the short path to a pool area where you can
-            jump in!</p><p>13. The Pools of Phe&rsquo;o and Pipiwai trail- My
-            favorite hike on all of Maui!&nbsp; Do not miss this stop!&nbsp;
-            Check out the pools and then go on this 4 mile hike to the 400 foot
-            Waimoku Falls through an increible bamboo forest.&nbsp; Trust me,
-            its one of the coolest hikes Ive ever been on with multiple
-            waterfalls along the way!</p>
+            campground here.&nbsp;</p><p>&nbsp;</p>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/maui/maui15.jpg
@@ -168,18 +153,7 @@ sections:
             if you can spend the night in Hana you can make the most of your
             trip! Check out the many yummy food trucks for
             dinner.&nbsp;</p><p>10. Koki Beach- A gorgeous red-ish sand beach
-            that is perfect to relax on!</p><p>11. Venus Ponds- A must stop in
-            my opninion! A short trail down to a secluded swimming area off of
-            the ocean.&nbsp; You can cliff jump here and the water is clear and
-            and so refreshing!</p><p>12. Wailua Falls- Pull off on the side of
-            the road in the many parking spaces.&nbsp; You can see the falls
-            from the road, or take the short path to a pool area where you can
-            jump in!</p><p>13. The Pools of Phe&rsquo;o and Pipiwai trail- My
-            favorite hike on all of Maui!&nbsp; Do not miss this stop!&nbsp;
-            Check out the pools and then go on this 4 mile hike to the 400 foot
-            Waimoku Falls through an increible bamboo forest.&nbsp; Trust me,
-            its one of the coolest hikes Ive ever been on with multiple
-            waterfalls along the way!</p>
+            that is perfect to relax on!</p><p>&nbsp;</p>
     -
         _section-type: blog-window
         window_image: /uploads/maui/maui27.jpg
@@ -188,15 +162,7 @@ sections:
         text-html: >-
             <p>11. Venus Ponds- A must stop in my opninion! A short trail down
             to a secluded swimming area off of the ocean.&nbsp; You can cliff
-            jump here and the water is clear and and so refreshing!</p><p>12.
-            Wailua Falls- Pull off on the side of the road in the many parking
-            spaces.&nbsp; You can see the falls from the road, or take the short
-            path to a pool area where you can jump in!</p><p>13. The Pools of
-            Phe&rsquo;o and Pipiwai trail- My favorite hike on all of
-            Maui!&nbsp; Do not miss this stop!&nbsp; Check out the pools and
-            then go on this 4 mile hike to the 400 foot Waimoku Falls through an
-            increible bamboo forest.&nbsp; Trust me, its one of the coolest
-            hikes Ive ever been on with multiple waterfalls along the way!</p>
+            jump here and the water is clear and and so refreshing!</p>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/maui/maui12.jpg
@@ -285,19 +251,25 @@ sections:
             Always remember to wear Reef Safe sunscreen as we want to keep the
             reefs healthy and vibrant! Afterwards, head down the road a bit to
             the Lava Fields hike along the ocean.&nbsp; It's truly a unique
-            experience!</li><li>Day trip to Molokini- There are so many options
-            for half day or full day boat trips to the molokini crater.&nbsp;
-            The snorkeling is incredible and it's so fun to sail around on a
-            catamaran!&nbsp; If you have time for a longer trip, I suggest
-            booking one that also goes to &ldquo;turtle town&rdquo;.&nbsp; This
-            is the Mala Wharf on the Westside of Maui and you are guaranteed to
-            see many turtles because the turtles come here to have fish eat the
-            algae off their shells and flippers, kind of like a turtle car
-            wash!</li></ol>
+            experience!</li></ol>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui22.jpg
         left_image: /uploads/maui/maui23.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>2. Day trip to Molokini- There are so many options for half day
+            or full day boat trips to the molokini crater.&nbsp; The snorkeling
+            is incredible and it's so fun to sail around on a catamaran!&nbsp;
+            If you have time for a longer trip, I suggest booking one that also
+            goes to &ldquo;turtle town&rdquo;.&nbsp; This is the Mala Wharf on
+            the Westside of Maui and you are guaranteed to see many turtles
+            because the turtles come here to have fish eat the algae off their
+            shells and flippers, kind of like a turtle car wash!</p>
+    -
+        _section-type: blog-window
+        window_image: /uploads/maui/maui8.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -324,16 +296,9 @@ sections:
             bluest water!</li><li>Black Rock Beach- Gorgeous beach, and cliff
             jumping for the adventurous!&nbsp;</li><li>Oneloa- Beautiful white
             sand and turquoise water.&nbsp; What more could you ask
-            for?!</li></ol>
-    -
-        _section-type: blog-fixed
-        blog-fixed_image:
-    -
-        _section-type: blog-text
-        text-html: >-
-            <p><strong>Best Shops:</strong></p><ol><li>Lahaina has multiple
-            shops and restaurants to walk around to.&nbsp; Make sure you check
-            out the Lahaina Banyan Court in town!</li></ol>
+            for?!</li></ol><p><strong>Best Shops:</strong></p><p>Lahaina has
+            multiple shops and restaurants to walk around to.&nbsp; Make sure
+            you check out the Lahaina Banyan Court in town!</p>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/maui/maui38.jpg
