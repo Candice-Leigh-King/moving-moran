@@ -124,9 +124,8 @@ sections:
         _section-type: blog-text
         text-html: >-
             <p>Some of our favorite places to stop along the way (in the order
-            that you will pass):</p><ol><li>Twin Falls (Mile Marker
-            2)</li><li>Garden of Eden Arboretum (Mile Marker 10) colorful
-            trees??</li><li>Halfway to Hana Stand (Mile Marker 17)</li><li>Upper
+            that you will pass):</p><ol><li>Twin Falls&nbsp;</li><li>Garden of
+            Eden Arboretum&nbsp;</li><li>Halfway to Hana Stand</li><li>Upper
             Waikani Fall: Swimming area with 3 waterfalls</li><li>Pua&rsquo;a
             Ka&rsquo;a State Wayside Park- great place to have a picnic, use the
             restroom and enjoy another waterfall and swimming
