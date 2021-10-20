@@ -326,15 +326,19 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>2. Dragon's Teeth- Nice half mile walk along the ocean to see a
-            cool lava flow formation that looks like jagged dragon teeth!
-            Parking for the hike is from a parking lot off of office road, next
-            to the Maui Pineapple Chapel.&nbsp;</p><p>3. Surfing- This is a
+            <ul><li><em><strong>Dragon's Teeth- </strong></em>Nice half mile
+            walk along the ocean to see a cool lava flow formation that looks
+            like jagged dragon teeth! Parking for the hike is from a parking lot
+            off of office road, next to the Maui Pineapple
+            Chapel.&nbsp;</li><li><em><strong>Surfing- </strong></em>This is a
             great area to try surfing for the first time.&nbsp; I do recommend
             starting with a trainer as surfing is hard to learn on your own and
             you don't want to take on waves that are too big for you!&nbsp;
             Launiupoko is a great place to learn! (pro tip: stay out of the way
-            of other surfers if you don't want to get yelled at!)</p>
+            of other surfers if you don't want to get yelled at!) Another great
+            area is anywhere along the Honoapiilani Highway past Olowala Beach
+            area. Youll see people pulled over and surfing wherever they see
+            waves!</li></ul>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui36.jpg
