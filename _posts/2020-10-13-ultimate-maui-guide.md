@@ -220,24 +220,26 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>Best Beaches:</strong></p><ol><li>Makena Beach (Big
-            Beach) - If you make it to any beach on this side of the island,
-            make it this one!&nbsp; Better yet come here for sunset and you will
-            not be disappointed.&nbsp; Word from an over cautious nurse- the
-            waves here are STRONG.&nbsp; Please never turn your back on the
-            ocean and be careful while boogie boarding or body surfing.&nbsp;
-            The waves are known to slam you into the beach and if you don't know
-            what you're doing you could get very hurt or paralyzed.&nbsp; Trust
-            me I saw it at the hospital.&nbsp; So just be smart and have
-            fun!&nbsp;</li><li>Little Beach (NUDE BEACH) - This is a fully nude
-            beach that is incredibly beautiful, but if you're not into nudity do
-            not venture over here.&nbsp; To get here from the big beach, go to
-            the far right side (if you're looking at the ocean) and climb over
-            the dividing rocks.&nbsp;</li><li>Makena Secret Cove- Not much of a
-            secret anymore, and it shows because it's constantly packed!&nbsp;
-            But if you can find a spot it's so worth it!</li><li>Kamaole park
-            I,II &amp; III- most locals have their favorite, check out all three
-            and let me know your favorite!</li></ol>
+            <p><strong>Best Beaches:</strong></p><ul><li><em><strong>Makena
+            Beach (Big Beach) - </strong></em>If you make it to any beach on
+            this side of the island, make it this one!&nbsp; Better yet come
+            here for sunset and you will not be disappointed.&nbsp; Word from an
+            over cautious nurse- the waves here are STRONG.&nbsp; Please never
+            turn your back on the ocean and be careful while boogie boarding or
+            body surfing.&nbsp; The waves are known to slam you into the beach
+            and if you don't know what you're doing you could get very hurt or
+            paralyzed.&nbsp; Trust me I saw it at the hospital.&nbsp; So just be
+            smart and have fun!&nbsp;</li><li><em><strong>Little Beach (Nude
+            Beach) -</strong></em> This is a fully nude beach that is incredibly
+            beautiful, but if you're not into nudity do not venture over
+            here.&nbsp; To get here from the big beach, go to the far right side
+            (if you're looking at the ocean) and climb over the dividing
+            rocks.&nbsp;</li><li><em><strong>Makena Secret Cove-
+            </strong></em>Not much of a secret anymore, and it shows because
+            it's constantly packed!&nbsp; But if you can find a spot it's so
+            worth it!</li><li><em><strong>Kamaole park I,II &amp;
+            III-</strong></em> most locals have their favorite, check out all
+            three and let me know your favorite!</li></ul>
     -
         _section-type: blog-window
         window_image: /uploads/maui/maui34.jpg
