@@ -149,29 +149,31 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>8. Honokalani Beach - Black sand against an incredibly blue
-            ocean.&nbsp; Need I say more? There are hiking trails, and even a
-            campground here.&nbsp;</p><p>&nbsp;</p>
+            <p><em><strong>8. Honokalani Beach - </strong></em>Black sand
+            against an incredibly blue ocean.&nbsp; Need I say more? There are
+            hiking trails, and even a campground here.&nbsp;</p><p>&nbsp;</p>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/maui/maui15.jpg
     -
         _section-type: blog-text
         text-html: >-
-            <p>9. Hana Town- as you can see this is a pretty extensive list, so
-            if you can spend the night in Hana you can make the most of your
-            trip! Check out the many yummy food trucks for
-            dinner.&nbsp;</p><p>10. Koki Beach- A gorgeous red-ish sand beach
-            that is perfect to relax on!</p><p>&nbsp;</p>
+            <p><em><strong>9. Hana Town- </strong></em>as you can see this is a
+            pretty extensive list, so if you can spend the night in Hana you can
+            make the most of your trip! Check out the many yummy food trucks for
+            dinner.&nbsp;</p><p><em><strong>10. Koki Beach- </strong></em>A
+            gorgeous red-ish sand beach that is perfect to relax
+            on!</p><p>&nbsp;</p>
     -
         _section-type: blog-window
         window_image: /uploads/maui/maui27.jpg
     -
         _section-type: blog-text
         text-html: >-
-            <p>11. Venus Ponds- A must stop in my opninion! A short trail down
-            to a secluded swimming area off of the ocean.&nbsp; You can cliff
-            jump here and the water is clear and and so refreshing!</p>
+            <p><em><strong>11. Venus Ponds- </strong></em>A must stop in my
+            opininion! A short trail down to a secluded swimming area off of the
+            ocean.&nbsp; You can cliff jump here and the water is clear and and
+            so refreshing!</p>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/maui/maui12.jpg
