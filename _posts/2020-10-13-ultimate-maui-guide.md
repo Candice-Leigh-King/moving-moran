@@ -183,12 +183,12 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>13. The Pools of Phe&rsquo;o and Pipiwai trail- My favorite hike
+            <ul><li>The Pools of Phe&rsquo;o and Pipiwai trail- My favorite hike
             on all of Maui!&nbsp; Do not miss this stop!&nbsp; Check out the
             pools and then go on this 4 mile hike to the 400 foot Waimoku Falls
             through an incredible bamboo forest.&nbsp; Trust me, its one of the
             coolest hikes Ive ever been on with multiple waterfalls along the
-            way!</p>
+            way!</li></ul>
     -
         _section-type: blog-fixed
         blog-fixed_image: /blog-images/maui5.jpg
