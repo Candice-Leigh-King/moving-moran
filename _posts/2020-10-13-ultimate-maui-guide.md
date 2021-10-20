@@ -428,30 +428,34 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>Upcountry:</strong> Haleakala (sunrise need to reserve in
-            advance) ,&nbsp; kula bistro, maui winery</p><p>Haleakala -
-            You&rsquo;re not going to want to miss this one of a kind
-            experience.&nbsp; Make sure you book a sunrise reservation way in
-            advance as it fills up quickly.&nbsp; I think it&rsquo;s so worth it
-            to go for sunrise, although sunset is equally as beautiful if you
-            are unable to get a reservation in time. Click
-            https://www.recreation.gov/ticket/facility/253731 to book a
-            reservation.&nbsp; Make sure you bring a hat, gloves, and coat with
-            you as it is around 40 degrees. Get to the lookout points early as
-            they fill up and you want to have a great view of the sun peaking
-            out throughout the clouds for the first time! If you have time after
-            sunrise, hike the sliding sands trail for views that make you feel
-            like you're on mars!</p><p>&nbsp;</p><p><strong>Best
-            Restaurants:</strong></p><p>Kula Bistro- All day cafe that has the
-            best food and sweets! You're not going to want to miss out on their
-            amazing case of baked goods&nbsp; filled with pies, cakes and other
-            yummy treats.&nbsp; Trust me, if you&rsquo;re anything like me you
-            will have trouble picking just one to take home!</p><p>Bullies
-            Burgers- Small shop on the way to Hana (If you're going the back
-            way) They sell their all beef burgers from their cattle ranch and it
-            is delicious!</p><p>Maui Wine - Have you ever had pineapple
-            wine?&nbsp; Try the pineapple flight here along with so many other
-            delicious selections in a beautiful setting.&nbsp;</p>
+            <h2><strong>Upcountry:</strong>&nbsp;</h2><p><strong>Activities:</strong></p><ul><li><em><strong>Haleakala
+            National Park - </strong></em>You&rsquo;re not going to want to miss
+            this one of a kind experience.&nbsp; Make sure you book a sunrise
+            reservation way in advance as it fills up quickly.&nbsp; I think
+            it&rsquo;s so worth it to go for sunrise, although sunset is equally
+            as beautiful if you are unable to get a reservation in time. Click
+            <a href="https://www.recreation.gov/ticket/facility/253731"
+            target="_blank"
+            rel="noopener">https://www.recreation.gov/ticket/facility/253731</a>
+            to book a reservation.&nbsp; Make sure you bring a hat, gloves, and
+            coat with you as it is around 40 degrees. Get to the lookout points
+            early as they fill up and you want to have a great view of the sun
+            peaking out throughout the clouds for the first time! If you have
+            time after sunrise, hike the sliding sands trail for views that make
+            you feel like you're on mars!</li></ul><p><strong>Best
+            Restaurants:</strong></p><ul><li><em><strong>Kula
+            Bistro-</strong></em> All day cafe that has the best food and
+            sweets! You're not going to want to miss out on their amazing case
+            of baked goods&nbsp; filled with pies, cakes and other yummy
+            treats.&nbsp; Trust me, if you&rsquo;re anything like me you will
+            have trouble picking just one to take
+            home!</li><li><em><strong>Bullies Burgers-</strong></em> Small shop
+            on the way to Hana (If you're going the back way). They sell their
+            all beef burgers from their cattle ranch and it is
+            delicious!</li><li><em><strong>Maui Wine - </strong></em>Have you
+            ever had pineapple wine?&nbsp; Try the pineapple flight here along
+            with so many other delicious selections in a beautiful
+            setting.&nbsp;</li></ul>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/maui/maui19.jpg
