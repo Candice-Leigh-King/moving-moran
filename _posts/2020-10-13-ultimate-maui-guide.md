@@ -180,9 +180,10 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>12. Wailua Falls- Pull off on the side of the road in the many
-            parking spaces.&nbsp; You can see the falls from the road, or take
-            the short path to a pool area where you can jump in!</p>
+            <p><em><strong>12. Wailua Falls-</strong></em> Pull off on the side
+            of the road in the many parking spaces.&nbsp; You can see the falls
+            from the road, or take the short path to a pool area where you can
+            jump in!</p>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui29.jpg
@@ -190,22 +191,23 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>13. The Pools of Phe&rsquo;o and Pipiwai trail- My favorite hike
-            on all of Maui!&nbsp; Do not miss this stop!&nbsp; Check out the
-            pools and then go on this 4 mile hike to the 400 foot Waimoku Falls
-            through an incredible bamboo forest.&nbsp; Trust me, its one of the
-            coolest hikes Ive ever been on with multiple waterfalls along the
-            way!</p>
+            <p><em><strong>13. The Pools of Phe&rsquo;o and Pipiwai
+            trail-</strong></em> My favorite hike on all of Maui!&nbsp; Do not
+            miss this stop!&nbsp; Check out the pools and then go on this 4 mile
+            hike to the 400 foot Waimoku Falls through an incredible bamboo
+            forest.&nbsp; Trust me, its one of the coolest hikes Ive ever been
+            on with multiple waterfalls along the way!</p>
     -
         _section-type: blog-fixed
         blog-fixed_image: /blog-images/maui5.jpg
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>South Maui:</strong>&nbsp;</p><p>We lived in Kihei so we
-            might be a little biased to this side, but there are so many amazing
-            beaches and places to eat that we fell in love!</p><p><strong>Best
-            Restaurants:</strong></p><ul><li><em><strong>Maui Brewing-
+            <h3><strong>South Maui:</strong>&nbsp;</h3><p>We lived in Kihei so
+            we might be a little biased to this side, but there are so many
+            amazing beaches and places to eat that we fell in
+            love!</p><h4><strong>Best
+            Restaurants:</strong></h4><ul><li><em><strong>Maui Brewing-
             </strong></em>Incredible beers with an amazing outdoor seating
             area.&nbsp; Try to come here at sunset!</li><li><em><strong>Isana-
             </strong></em>Our favorite sushi in the whole wide world! Please
@@ -227,7 +229,7 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>Best Beaches:</strong></p><ul><li><em><strong>Makena
+            <h4><strong>Best Beaches:</strong></h4><ul><li><em><strong>Makena
             Beach (Big Beach) - </strong></em>If you make it to any beach on
             this side of the island, make it this one!&nbsp; Better yet come
             here for sunset and you will not be disappointed.&nbsp; Word from an
@@ -253,7 +255,7 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>Activities:</strong></p><ul><li><em><strong>La Perouse
+            <h3><strong>Activities:</strong></h3><ul><li><em><strong>La Perouse
             Bay and Lava Field hike -</strong></em> Rent some snorkel gear from
             Snorkel Bob&rsquo;s in Kihei for the day and head out to La Perouse
             bay for some amazing snorkeling! You will see tons of fish and even
@@ -284,8 +286,8 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>West Maui:&nbsp;</strong></p><p><strong>Best
-            Restaurants:</strong></p><ul><li><em><strong>Fridas Beach
+            <h3><strong>West Maui:&nbsp;</strong></h3><h4><strong>Best
+            Restaurants:</strong></h4><ul><li><em><strong>Fridas Beach
             House-&nbsp; </strong></em>The cutest spot on the water with the
             yummiest Mexican food.&nbsp; Plus their margaritas are to die
             for!</li><li><em><strong>Down the hatch- </strong></em>Super fun
@@ -305,7 +307,8 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>Best Beaches:</strong></p><ul><li><em><strong>Napili Bay-
+            <h4><strong>Best
+            Beaches:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Napili Bay-
             </strong></em>Small Beach, big
             reward!</li><li><em><strong>Ka&rsquo;anapali- </strong></em>The
             whitest sand and bluest water! Plus its just fun to say!&nbsp;
@@ -314,19 +317,20 @@ sections:
             </strong></em>Gorgeous beach, and cliff jumping for the
             adventurous!&nbsp;</li><li><em><strong>Oneloa-</strong></em>
             Beautiful white sand and turquoise water.&nbsp; What more could you
-            ask for?!</li></ul><p><strong>Best Shops:</strong></p><p>Lahaina has
-            multiple shops and restaurants to walk around to.&nbsp; Make sure
-            you check out the Lahaina Banyan Court in town! Get the famous Dole
-            Pineapple soft serve at Lappert's Ice cream!</p>
+            ask for?!</li></ul><h4><strong>Best
+            Shops:</strong></h4><p>&nbsp;</p><p>Lahaina has multiple shops and
+            restaurants to walk around to.&nbsp; Make sure you check out the
+            Lahaina Banyan Court in town! Get the famous Dole Pineapple soft
+            serve at Lappert's Ice cream!</p>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/maui/maui38.jpg
     -
         _section-type: blog-text
         text-html: >-
-            <p>Activities:</p><ul><li><em><strong>Honolua Bay-
-            </strong></em>Walk through a literal fairytale land of banyan trees
-            to a perfect snorkeling bay.&nbsp;</li></ul>
+            <h4><strong>Activities:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Honolua
+            Bay- </strong></em>Walk through a literal fairytale land of banyan
+            trees to a perfect snorkeling bay.&nbsp;</li></ul>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/maui/maui28.jpg
@@ -368,7 +372,7 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>Central:</strong>&nbsp;</p><p><strong>Activities:</strong></p><ul><li><em><strong>Iao
+            <h3><strong>Central:</strong>&nbsp;</h3><p>&nbsp;</p><h4><strong>Activities:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Iao
             Valley (Pronounced EE-ow) - </strong></em>This is a must stop for
             its beautiful scenery and interesting historical events.&nbsp; I
             suggest parking in the large parking lot at the very top of the hill
@@ -436,7 +440,7 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h3><strong>Upcountry:</strong>&nbsp;</h3><p><strong>Activities:</strong></p><ul><li><em><strong>Haleakala
+            <h3><strong>Upcountry:</strong>&nbsp;</h3><p>&nbsp;</p><h4><strong>Activities:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Haleakala
             National Park - </strong></em>You&rsquo;re not going to want to miss
             this one of a kind experience.&nbsp; Make sure you book a sunrise
             reservation way in advance as it fills up quickly.&nbsp; I think
@@ -449,8 +453,8 @@ sections:
             early as they fill up and you want to have a great view of the sun
             peaking out throughout the clouds for the first time! If you have
             time after sunrise, hike the sliding sands trail for views that make
-            you feel like you're on mars!</li></ul><p><strong>Best
-            Restaurants:</strong></p><ul><li><em><strong>Kula
+            you feel like you're on mars!</li></ul><h4><strong>Best
+            Restaurants:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Kula
             Bistro-</strong></em> All day cafe that has the best food and
             sweets! You're not going to want to miss out on their amazing case
             of baked goods&nbsp; filled with pies, cakes and other yummy
@@ -469,36 +473,38 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h1><strong>Adventurous 10 days in Maui Itinerary</strong></h1><p>If
-            you&rsquo;re adventurous and really want to see the WHOLE island,
-            then this itinerary is for you.&nbsp;</p><p><strong>Day
-            One:</strong> Fly into Maui OGG and rent a 4x4 vehicle (even better
-            if you can rent from a local) and check out Paia Town and Beaches.
-            Stay in Paia.&nbsp;</p><p><strong>Day Two:</strong> Road to Hana.
+            <h2><strong>Adventurous 10 days in Maui
+            Itinerary</strong></h2><h4>If you&rsquo;re adventurous and really
+            want to see the WHOLE island, then this itinerary is for
+            you.&nbsp;</h4><p><em><strong>Day One:</strong></em> Fly into Maui
+            OGG and rent a 4x4 vehicle (even better if you can rent from a
+            local) and check out Paia Town and Beaches. Stay in
+            Paia.&nbsp;</p><p><em><strong>Day Two:</strong></em> Road to Hana.
             &nbsp;See spots 1-9 on the Hana List above. &nbsp;Stay in
-            Hana!</p><p><strong>Day Three: </strong>Hana to Kula. See spots
-            10-13 on the Hana List above. Start early so you can make it to the
-            Maui Winery and Kula Bistro for dinner. &nbsp;Stay in a hotel or air
-            bnb in central Maui.&nbsp;</p><p><strong>Day Four:</strong>
-            Haleakala for sunrise. Then drive to Iao Valley and stay in the
-            Wailuku area.&nbsp;</p><p><strong>Day Five: </strong>Start the day
-            at Waihee Ridge Trail, then drive the coast to Olivine Pools and
-            finally the Blow Hole. Spend the night in Napili
-            Area.&nbsp;</p><p><strong>Day Six:</strong> Sunrise at Napili Bay
-            and lunch at A&rsquo;a Roots. &nbsp;Drive to Honolua Bay for
-            snorkeling. End the day at Ka'anapali Beach for sunset. Stay
-            anywhere from Ka'anapali to Lahaina.</p><p><strong>Day
-            Seven:</strong> Morning surf at Launiupoko, then check out the town
-            of Lahaina. &nbsp;There are lots of cool shops and great places to
-            eat. Stay in Lahaina.</p><p><strong>Day Eight:</strong> Head to
-            Kihei for breakfast at Kihei Cafe. &nbsp;Then check out Kamaole
-            Beach I, II, or III. &nbsp; Make your way to Makena Beach for
-            sunset. End the day at South Shore Tiki Lounge and stay in
-            Kihei.&nbsp;</p><p><strong>Day Nine: </strong>Drive to La Perouse
-            Bay for hiking and snorkeling. &nbsp;Stop at Makena Cove, or any
-            other beach you see on the way back. Go to the 5 Palms for dinner
-            and stay anywhere from Wailea to Kihei.&nbsp;</p><p><strong>Day Ten:
-            </strong>Half day snorkeling trip to Molokini out of Maalaea Harbor.
-            Pack up and leave&hellip;. A hui huo, until we meet again! So sad to
-            see you leave but wow, you've seen so much!</p>
+            Hana!</p><p><em><strong>Day Three: </strong></em>Hana to Kula. See
+            spots 10-13 on the Hana List above. Start early so you can make it
+            to the Maui Winery and Kula Bistro for dinner. &nbsp;Stay in a hotel
+            or air bnb in central Maui.&nbsp;</p><p><em><strong>Day
+            Four:</strong> </em>Haleakala for sunrise. Then drive to Iao Valley
+            and stay in the Wailuku area.&nbsp;</p><p><em><strong>Day Five:
+            </strong></em>Start the day at Waihee Ridge Trail, then drive the
+            coast to Olivine Pools and finally the Blow Hole. Spend the night in
+            Napili Area.&nbsp;</p><p><em><strong>Day Six:</strong></em> Sunrise
+            at Napili Bay and lunch at A&rsquo;a Roots. &nbsp;Drive to Honolua
+            Bay for snorkeling. End the day at Ka'anapali Beach for sunset. Stay
+            anywhere from Ka'anapali to Lahaina.</p><p><em><strong>Day
+            Seven:</strong> </em>Morning surf at Launiupoko, then check out the
+            town of Lahaina. &nbsp;There are lots of cool shops and great places
+            to eat. Stay in Lahaina.</p><p><em><strong>Day Eight:</strong>
+            </em>Head to Kihei for breakfast at Kihei Cafe. &nbsp;Then check out
+            Kamaole Beach I, II, or III. &nbsp; Make your way to Makena Beach
+            for sunset. End the day at South Shore Tiki Lounge and stay in
+            Kihei.&nbsp;</p><p><strong><em>Day Nine:</em> </strong>Drive to La
+            Perouse Bay for hiking and snorkeling. &nbsp;Stop at Makena Cove, or
+            any other beach you see on the way back. Go to the 5 Palms for
+            dinner and stay anywhere from Wailea to
+            Kihei.&nbsp;</p><p><strong><em>Day Ten:</em> </strong>Half day
+            snorkeling trip to Molokini out of Maalaea Harbor. Pack up and
+            leave&hellip;. A hui huo, until we meet again! So sad to see you
+            leave but wow, you've seen so much!</p>
 ---
