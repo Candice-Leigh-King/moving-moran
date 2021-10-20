@@ -381,7 +381,12 @@ sections:
             Mile trail that offers gorgeous views of the ridge-line and the
             ocean.&nbsp; It is rated as hard due to its steep climb in some
             places. If you're not up to this milage, there is a viewpoint
-            halfway that's absolutely breathtaking.</li></ul>
+            halfway that's absolutely breathtaking.</li></ul><p>Driving on to
+            Olivine Pools?&nbsp; Make sure you stop at Karen Lei&rsquo;s Gallery
+            for beautiful gifts to take home to family and friends.&nbsp; There
+            is local jewelry and other beautiful pieces of art to enjoy. If you
+            forgot food there are also a few packaged snacks and drinks if
+            you're in a pinch.&nbsp;</p>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui20.jpg
@@ -389,21 +394,16 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>Driving on to Olivine Pools?&nbsp; Make sure you stop at Karen
-            Lei&rsquo;s Gallery for beautiful gifts to take home to family and
-            friends.&nbsp; There is local jewelry and other beautiful pieces of
-            art to enjoy. If you forgot food there are also a few packaged
-            snacks and drinks if you're in a
-            pinch.&nbsp;</p><ul><li><em><strong>Olivine Pools-</strong></em>
-            *Please only visit if the ocean is calm, and never turn your back to
-            the ocean!*&nbsp; People have been pulled out to the ocean and have
-            even died here, so please use your common sense and do not go close
-            if there are waves crashing into the pools. Even if it&rsquo;s a
-            calm day, always face the ocean and stay away from the edges just in
-            case. That being said, on calm days this is one of the coolest spots
-            to see tide pools and jump into crystal clear pools carved out by
-            the ocean.&nbsp; You are going to park in a red dirt area off the
-            side of Kahekili Highway.&nbsp; It's best to type in &ldquo;Olivine
+            <ul><li><em><strong>Olivine Pools-</strong></em> *Please only visit
+            if the ocean is calm, and never turn your back to the ocean!*&nbsp;
+            People have been pulled out to the ocean and have even died here, so
+            please use your common sense and do not go close if there are waves
+            crashing into the pools. Even if it&rsquo;s a calm day, always face
+            the ocean and stay away from the edges just in case. That being
+            said, on calm days this is one of the coolest spots to see tide
+            pools and jump into crystal clear pools carved out by the
+            ocean.&nbsp; You are going to park in a red dirt area off the side
+            of Kahekili Highway.&nbsp; It's best to type in &ldquo;Olivine
             Pools'' into google maps and be on the lookout for a dirt parking
             area.&nbsp; From the parking lot, take the short and steep hike down
             to the pools.&nbsp; There isn't a clear cut path, but you should
