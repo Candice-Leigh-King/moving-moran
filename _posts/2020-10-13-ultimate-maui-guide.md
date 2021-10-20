@@ -317,8 +317,9 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>Activities:</p><ol><li>Hono Bay- Walk through a literal fairytale
-            land of banyan trees to a perfect snorkeling bay.&nbsp;</li></ol>
+            <p>Activities:</p><ul><li><em><strong>Honolua Bay-
+            </strong></em>Walk through a literal fairytale land of banyan trees
+            to a perfect snorkeling bay.&nbsp;</li></ul>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/maui/maui28.jpg
