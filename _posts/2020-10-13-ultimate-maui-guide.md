@@ -298,14 +298,19 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>Best Beaches:</strong></p><ol><li>Napili Bay- Small
-            Beach, big reward!</li><li>Ka&rsquo;anapali- The whitest sand and
-            bluest water!</li><li>Black Rock Beach- Gorgeous beach, and cliff
-            jumping for the adventurous!&nbsp;</li><li>Oneloa- Beautiful white
-            sand and turquoise water.&nbsp; What more could you ask
-            for?!</li></ol><p><strong>Best Shops:</strong></p><p>Lahaina has
+            <p><strong>Best Beaches:</strong></p><ul><li><em><strong>Napili Bay-
+            </strong></em>Small Beach, big
+            reward!</li><li><em><strong>Ka&rsquo;anapali- </strong></em>The
+            whitest sand and bluest water! Plus its just fun to say!&nbsp;
+            Shopping mall on the beach here as
+            well.&nbsp;</li><li><em><strong>Black Rock Beach-
+            </strong></em>Gorgeous beach, and cliff jumping for the
+            adventurous!&nbsp;</li><li><em><strong>Oneloa-</strong></em>
+            Beautiful white sand and turquoise water.&nbsp; What more could you
+            ask for?!</li></ul><p><strong>Best Shops:</strong></p><p>Lahaina has
             multiple shops and restaurants to walk around to.&nbsp; Make sure
-            you check out the Lahaina Banyan Court in town!</p>
+            you check out the Lahaina Banyan Court in town! Get the famous Dole
+            Pineapple soft serve at Lappert's Ice cream!</p>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/maui/maui38.jpg
