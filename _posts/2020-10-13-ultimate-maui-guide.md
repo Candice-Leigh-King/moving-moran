@@ -462,7 +462,7 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>Adventurous 10 days in Maui Itinerary</strong></p><p>If
+            <h1><strong>Adventurous 10 days in Maui Itinerary</strong></h1><p>If
             you&rsquo;re adventurous and really want to see the WHOLE island,
             then this itinerary is for you.&nbsp;</p><p><strong>Day
             One:</strong> Fly into Maui OGG and rent a 4x4 vehicle (even better
