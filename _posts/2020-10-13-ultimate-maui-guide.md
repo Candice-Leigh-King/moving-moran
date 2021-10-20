@@ -45,11 +45,11 @@ sections:
             eat and beautiful beaches.&nbsp; On Paia&rsquo;s main street you
             will find many shops filled with jewelry, beachwear and
             art.&nbsp;&nbsp;</p><p>&nbsp;</p><h4><strong>Best
-            Restaurants:</strong></h4><ul><li><em><strong>Mama&rsquo;s Fish
+            Restaurants:</strong></h4><ul><li><p><em><strong>Mama&rsquo;s Fish
             house -</strong></em> Ready to drop some $$$ on the best meal of
             your life?&nbsp; Mama&rsquo;s Fish house is the best place to
             be.&nbsp; Great vibes and even better food, just make sure you get a
-            reservation well in advance!</li><li><em><strong>Paia Fish
+            reservation well in advance!</p></li><li><em><strong>Paia Fish
             Market-</strong> </em>The best fish tacos you will ever have!
             Perfect for a quick bite at any time of the day.&nbsp; There is also
             a location in Lahaina and Kihei if you can&rsquo;t get enough on
@@ -88,7 +88,7 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>East Maui:</strong>&nbsp;</p><p>The famous road to
+            <h3><strong>East Maui:</strong>&nbsp;</h3><p>The famous road to
             Hana!&nbsp; If you have a 4x4 vehicle there are technically three
             ways to do the road to Hana.&nbsp; You can (1) start by Paia and go
             to Hana and back, (2) Start by Paia go all the way around and end up
