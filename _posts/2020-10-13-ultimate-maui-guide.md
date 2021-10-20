@@ -417,10 +417,10 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>Blow Hole- Once you've left the olivine pools continue up the
-            road to the Nakalele BlowHole. Just as with the Olivine pools,
-            please be very cautious near the edges and always respect the
-            ocean!</p>
+            <ul><li><em><strong>Blow Hole- </strong></em>Once you've left the
+            olivine pools continue up the road to the Nakalele BlowHole. Just as
+            with the Olivine pools, please be very cautious near the edges and
+            always respect the ocean!</li></ul>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui33.jpg
