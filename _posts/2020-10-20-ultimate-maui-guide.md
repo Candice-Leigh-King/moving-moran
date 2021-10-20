@@ -7,7 +7,7 @@ description: >-
 type: Travel Tips
 featured-image: /blog-images/maui1.jpg
 author: by Leah Moran
-date: 2020-10-13 00:00:00
+date: 2020-10-20 00:00:00
 link: /Ultimate Maui Guide
 blog_image: /blog-images/maui1.jpg
 paragraph: >-
