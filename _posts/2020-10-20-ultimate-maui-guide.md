@@ -446,7 +446,7 @@ sections:
             reservation way in advance as it fills up quickly.&nbsp; I think
             it&rsquo;s so worth it to go for sunrise, although sunset is equally
             as beautiful if you are unable to get a reservation in time.
-            Click&nbsp; <a target="_blank" rel="noopener"
+            Click&nbsp;<a target="_blank" rel="noopener"
             href="https://www.recreation.gov/ticket/facility/253731">here</a> to
             book a reservation.&nbsp; Make sure you bring a hat, gloves, and
             coat with you as it is around 40 degrees. Get to the lookout points
