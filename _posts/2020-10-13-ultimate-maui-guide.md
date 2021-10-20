@@ -330,4 +330,101 @@ sections:
             There is a decent current here and it's a little ways out to reach
             the coral!. Take a life jacket or choose to snorkel with a tour if
             you are unsure.&nbsp;</p>
+    -
+        _section-type: blog-arches
+        right_image: /uploads/maui/maui11.jpg
+        left_image: /uploads/maui/maui10.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p><strong>Central:</strong>&nbsp;</p><p><strong>Activities:</strong></p><p>Iao
+            Valley (Pronounced EE-ow) - This is a must stop for its beautiful
+            scenery and interesting historical events.&nbsp; I suggest parking
+            in the large parking lot at the very top of the hill and doing the
+            short hike up to the viewpoint of the Iao needle.&nbsp; From there
+            you can walk down the path to the river and if the water is calm you
+            can lounge in the various pools that are created in the river.&nbsp;
+            If you go back down to the parking lot, you will see many small
+            paths cut into the trees where you can walk out to other calm
+            pools.</p>
+    -
+        _section-type: blog-window
+        window_image: /uploads/maui/maui2.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>Waihee Ridge trail- This is a 4 Mile trail that offers gorgeous
+            views of the ridge-line and of the ocean.&nbsp; It is rated as hard
+            due to its steep climb in some places. If you're not up to this
+            milage, there is a viewpoint halfway that's absolutely
+            breathtaking.</p>
+    -
+        _section-type: blog-arches
+        right_image: /uploads/maui/maui20.jpg
+        left_image: /uploads/maui/maui18.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>Driving on to Olivine Pools?&nbsp; Make sure you stop at Karen
+            Lei&rsquo;s Gallery for beautiful gifts to take home to family and
+            friends.&nbsp; There is local jewelry and other beautiful pieces of
+            art to enjoy. If you forgot food there are also a few packaged
+            snacks and drinks if you're in a pinch.&nbsp;</p><p>Olivine Pools-
+            *Please only visit if the ocean is calm, and never turn your back to
+            the ocean!*&nbsp; People have been pulled out to the ocean and have
+            even died here, so please use your common sense and do not go close
+            if there are waves crashing into the pools. Even if it&rsquo;s a
+            calm day, always face the ocean and still stay away from the edges
+            just in case. That being said, on calm days this is one of the
+            coolest spots to see tide pools and jump into crystal clear pools
+            carved out by the ocean.&nbsp; You are going to park in a red dirt
+            area off the side of Kahekili Highway.&nbsp; It's best to type in
+            &ldquo;Olivine Pools'' into google maps and be on the lookout for a
+            dirt parking area.&nbsp; From the parking lot, take the short and
+            steep hike down to the pools.&nbsp; There isn't a clear cut path,
+            but you should usually see people down below and make your way
+            towards them. The lava rock makes a very cool and beautiful
+            landscape to view on the way down.&nbsp; Bring sturdy shoes and
+            water shoes to change into as the rocks at the bottom will be
+            slippery.&nbsp;</p>
+    -
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/maui/maui25.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>Blow Hole- Once you've left the olivine pools continue up the
+            road to the Nakalele BlowHole. Just as with the Olivine pools,
+            please be very cautious near the edges and always respect the
+            ocean!</p>
+    -
+        _section-type: blog-window
+        window_image: /uploads/maui/maui33.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p><strong>Upcountry:</strong> Haleakala (sunrise need to reserve in
+            advance) ,&nbsp; kula bistro, maui winery</p><p>Haleakala -
+            You&rsquo;re not going to want to miss this one of a kind
+            experience.&nbsp; Make sure you book a sunrise reservation way in
+            advance as it fills up quickly.&nbsp; I think it&rsquo;s so worth it
+            to go for sunrise, although sunset is equally as beautiful if you
+            are unable to get a reservation in time. Click
+            https://www.recreation.gov/ticket/facility/253731 to book a
+            reservation.&nbsp; Make sure you bring a hat, gloves, and coat with
+            you as it is around 40 degrees. Get to the lookout points early as
+            they fill up and you want to have a great view of the sun peaking
+            out throughout the clouds for the first time! If you have time after
+            sunrise, hike the sliding sands trail for views that make you feel
+            like you're on mars!</p><p>&nbsp;</p><p><strong>Best
+            Restaurants:</strong></p><p>Kula Bistro- All day cafe that has the
+            best food and sweets! You're not going to want to miss out on their
+            amazing case of baked goods&nbsp; filled with pies, cakes and other
+            yummy treats.&nbsp; Trust me, if you&rsquo;re anything like me you
+            will have trouble picking just one to take home!</p><p>Bullies
+            Burgers- Small shop on the way to Hana (If you're going the back
+            way) They sell their all beef burgers from their cattle ranch and it
+            is delicious!</p><p>Maui Wine - Have you ever had pineapple
+            wine?&nbsp; Try the pineapple flight here along with so many other
+            delicious selections in a beautiful setting.&nbsp;</p>
 ---
