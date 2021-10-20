@@ -45,39 +45,43 @@ sections:
             eat and beautiful beaches.&nbsp; On Paia&rsquo;s main street you
             will find many shops filled with jewelry, beachwear and
             art.&nbsp;&nbsp;</p><p><strong>Best
-            Restaurants:</strong></p><ul><li>Mama&rsquo;s Fish house - Ready to
-            drop some $$$ on the best meal of your life?&nbsp; Mama&rsquo;s Fish
-            house is the best place to be.&nbsp; Great vibes and even better
-            food, just make sure you get a reservation well in
-            advance!</li><li>Paia Fish Market- The best fish tacos you will ever
-            have! Perfect for a quick bite at any time of the day.&nbsp; There
-            is also a location in Lahaina and Kihei if you can&rsquo;t get
-            enough on your trip to Paia!</li><li>Polli&rsquo;s Mexican
-            Restaurant- Okay not technically in Paia, but its only a 10 min
-            drive and so worth it for the best Mexican on the island! Its so
-            authentic that you can expect to see waiters chasing the islands
-            famous roosters out the door every few
-            minutes!&nbsp;</li><li>Ululani's Hawaiian Shaved ice- Maybe not
-            exactly a meal but this tasty treat is a must while you&rsquo;re in
-            Hawaii.&nbsp; Try flavors unique to Hawaii like lychee and Lilikoi
-            with their incredible Mochi on top! There are many locations on the
-            island and I&rsquo;m sure you&rsquo;ll need to get your fix more
-            than once during your trip!</li></ul><p>&nbsp;</p><p><strong>Best
-            Beaches:</strong></p><ul><li>Ho&rsquo;okipa - This is the perfect
-            place to see turtles (Please keep at least a 10 foot distance
-            between you and a turtle!&nbsp; It's actually illegal to touch or
-            come close to turtles in Hawaii!) Also check out the overlook to
-            watch surfers ride some pretty crazy waves!</li><li>Baldwin Beach -
-            Turquoise waters and absolutely incredible views of the lush
-            mountains of the Central Coast! Also a great place to watch kite
+            Restaurants:</strong></p><ul><li><em><strong>Mama&rsquo;s Fish house
+            -</strong></em> Ready to drop some $$$ on the best meal of your
+            life?&nbsp; Mama&rsquo;s Fish house is the best place to be.&nbsp;
+            Great vibes and even better food, just make sure you get a
+            reservation well in advance!</li><li><em><strong>Paia Fish
+            Market-</strong> </em>The best fish tacos you will ever have!
+            Perfect for a quick bite at any time of the day.&nbsp; There is also
+            a location in Lahaina and Kihei if you can&rsquo;t get enough on
+            your trip to Paia!</li><li><em><strong>Polli&rsquo;s Mexican
+            Restaurant-</strong></em> Okay not technically in Paia, but its only
+            a 10 min drive and so worth it for the best Mexican on the island!
+            Its so authentic that you can expect to see waiters chasing the
+            islands famous roosters out the door every few
+            minutes!&nbsp;</li><li><em><strong>Ululani's Hawaiian Shaved
+            ice-</strong></em> Maybe not exactly a meal but this tasty treat is
+            a must while you&rsquo;re in Hawaii.&nbsp; Try flavors unique to
+            Hawaii like lychee and Lilikoi with their incredible Mochi on top!
+            There are many locations on the island and I&rsquo;m sure
+            you&rsquo;ll need to get your fix more than once during your
+            trip!</li></ul><p>&nbsp;</p><p><strong>Best
+            Beaches:</strong></p><ul><li><em><strong>Ho&rsquo;okipa
+            -</strong></em> This is the perfect place to see turtles (Please
+            keep at least a 10 foot distance between you and a turtle!&nbsp;
+            It's actually illegal to touch or come close to turtles in Hawaii!)
+            Also check out the overlook to watch surfers ride some pretty crazy
+            waves!</li><li><em><strong>Baldwin Beach -</strong></em> Turquoise
+            waters and absolutely incredible views of the lush mountains of the
+            Central Coast! Also a great place to watch kite
             surfers!</li></ul><p>&nbsp;</p><p><strong>Best
-            Shops:</strong></p><ul><li>Alice in HulaLand- This quirky shop has
-            the best clothes!</li><li>Ho&rsquo;okipa Surf- The best
-            shirts!&nbsp; Matt got so many cool shirts and hats here that are
-            great quality and colors!</li><li>Tribe Maui- If you went to Polli's
-            Mexican restaurant, make sure you stop in this store that's across
-            the street. This boutique has my favorite unique jewelry and
-            clothes!</li></ul>
+            Shops:</strong></p><ul><li><em><strong>Alice in HulaLand-
+            </strong></em>This quirky shop has the best
+            clothes!</li><li><em><strong>Ho&rsquo;okipa Surf- </strong></em>The
+            best shirts!&nbsp; Matt got so many cool shirts and hats here that
+            are great quality and colors!</li><li><em><strong>Tribe
+            Maui-</strong></em> If you went to Polli's Mexican restaurant, make
+            sure you stop in this store that's across the street. This boutique
+            has my favorite unique jewelry and clothes!</li></ul>
     -
         _section-type: blog-fixed
         blog-fixed_image: /blog-images/maui13.jpg
