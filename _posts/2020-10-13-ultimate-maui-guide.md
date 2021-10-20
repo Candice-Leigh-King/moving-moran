@@ -127,17 +127,22 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>Some of our favorite places to stop along the way (in the order
-            that you will pass):</p><ol><li>Twin Falls&nbsp;</li><li>Garden of
-            Eden Arboretum&nbsp;</li><li>Halfway to Hana Stand</li><li>Upper
-            Waikani Fall: Swimming area with 3 waterfalls</li><li>Pua&rsquo;a
-            Ka&rsquo;a State Wayside Park- great place to have a picnic, use the
-            restroom and enjoy another waterfall and swimming
-            area.&nbsp;</li><li>There are too many waterfalls on this drive to
-            name, so if you see something cool, safely pull over and check them
-            out!</li><li>Hana Lava Tube ( Mile Marker 31) Turn Left on
-            Ula&rsquo;ino road to check out the coolest lava tube!&nbsp; Make
-            sure you bring your flash lights!</li></ol>
+            <h4><strong>Road to Hana:</strong></h4><p>Some of our favorite
+            places to stop along the way (in the order that you will
+            pass):</p><ol><li><em><strong>Twin
+            Falls</strong></em>&nbsp;</li><li><em><strong>Garden of Eden
+            Arboretum</strong></em>&nbsp;</li><li><em><strong>Halfway to Hana
+            Stand</strong></em></li><li><em><strong>Upper Waikani Fall:
+            </strong></em>Swimming area with 3
+            waterfalls</li><li><em><strong>Pua&rsquo;a Ka&rsquo;a State Wayside
+            Park-</strong></em> great place to have a picnic, use the restroom
+            and enjoy another waterfall and swimming area.&nbsp;</li><li>There
+            are too many waterfalls on this drive to name, so if you see
+            something cool, safely pull over and check them
+            out!</li><li><em><strong>Hana Lava Tube ( Mile Marker
+            31)</strong></em> Turn Left on Ula&rsquo;ino road to check out the
+            coolest lava tube!&nbsp; Make sure you bring your flash
+            lights!</li></ol>
     -
         _section-type: blog-window
         window_image: /uploads/maui/maui17.jpg
