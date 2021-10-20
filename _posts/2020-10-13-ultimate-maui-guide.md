@@ -381,10 +381,11 @@ sections:
             Mile trail that offers gorgeous views of the ridge-line and the
             ocean.&nbsp; It is rated as hard due to its steep climb in some
             places. If you're not up to this milage, there is a viewpoint
-            halfway that's absolutely breathtaking.</li></ul><p>Driving on to
-            Olivine Pools?&nbsp; Make sure you stop at Karen Lei&rsquo;s Gallery
-            for beautiful gifts to take home to family and friends.&nbsp; There
-            is local jewelry and other beautiful pieces of art to enjoy. If you
+            halfway that's absolutely
+            breathtaking.</li></ul><p>&nbsp;</p><p>Driving on to Olivine
+            Pools?&nbsp; Make sure you stop at Karen Lei&rsquo;s Gallery for
+            beautiful gifts to take home to family and friends.&nbsp; There is
+            local jewelry and other beautiful pieces of art to enjoy. If you
             forgot food there are also a few packaged snacks and drinks if
             you're in a pinch.&nbsp;</p>
     -
