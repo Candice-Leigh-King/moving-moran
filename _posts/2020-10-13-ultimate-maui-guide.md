@@ -261,14 +261,16 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>2. Day trip to Molokini- There are so many options for half day
-            or full day boat trips to the molokini crater.&nbsp; The snorkeling
-            is incredible and it's so fun to sail around on a catamaran!&nbsp;
-            If you have time for a longer trip, I suggest booking one that also
-            goes to &ldquo;turtle town&rdquo;.&nbsp; This is the Mala Wharf on
-            the Westside of Maui and you are guaranteed to see many turtles
-            because the turtles come here to have fish eat the algae off their
-            shells and flippers, kind of like a turtle car wash!</p>
+            <ul><li><em><strong>Day trip to Molokini- </strong></em>There are so
+            many options for half day or full day boat trips to the molokini
+            crater.&nbsp; The snorkeling is incredible and it's so fun to sail
+            around on a catamaran!&nbsp; If you have time for a longer trip, I
+            suggest booking one that also goes to &ldquo;turtle
+            town&rdquo;.&nbsp; This is the Mala Wharf on the Westside of Maui
+            and you are guaranteed to see many turtles because the turtles come
+            here to have fish eat the algae off their shells and flippers, kind
+            of like a turtle car wash! You can start these trips from Maalaea
+            Harbor or Lahaina Harbor.&nbsp;</li></ul>
     -
         _section-type: blog-window
         window_image: /uploads/maui/maui8.jpg
