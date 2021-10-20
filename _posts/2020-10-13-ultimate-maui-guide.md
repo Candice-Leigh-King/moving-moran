@@ -377,11 +377,11 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>Waihee Ridge trail- This is a 4 Mile trail that offers gorgeous
-            views of the ridge-line and of the ocean.&nbsp; It is rated as hard
-            due to its steep climb in some places. If you're not up to this
-            milage, there is a viewpoint halfway that's absolutely
-            breathtaking.</p>
+            <ul><li><em><strong>Waihee Ridge trail- </strong></em>This is a 4
+            Mile trail that offers gorgeous views of the ridge-line and the
+            ocean.&nbsp; It is rated as hard due to its steep climb in some
+            places. If you're not up to this milage, there is a viewpoint
+            halfway that's absolutely breathtaking.</li></ul>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui20.jpg
