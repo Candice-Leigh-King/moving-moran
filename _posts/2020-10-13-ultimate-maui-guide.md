@@ -28,7 +28,7 @@ sections:
             endless.&nbsp; We recommend visiting for at least a week to truly
             get the Hawaiian experience.&nbsp;</p><p><em>* Hawaii is a special
             place with rich history and culture.&nbsp; Please be very respectful
-            of the people and land while visiting, and always leave the land
+            of the people and land while visiting, and always leave places
             better than you found it!</em></p><p>There is so much to see on the
             Island of Maui, so I will split it up into sections so that it's
             easier to digest.&nbsp; At the end of this post you can find a 10
@@ -40,10 +40,10 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h3><strong>North Maui:</strong>&nbsp;</h3><p>Paia is dubbed the
-            hippie town of Maui and it consists of cool shops, great places to
-            eat and beautiful beaches.&nbsp; On Paia&rsquo;s main street you
-            will find many shops filled with jewelry, beachwear and
+            <h3><strong>North Maui:</strong>&nbsp;</h3><p>&nbsp;</p><p>Paia is
+            dubbed the hippie town of Maui and it consists of cool shops, great
+            places to eat and beautiful beaches.&nbsp; On Paia&rsquo;s main
+            street you will find many shops filled with jewelry, beachwear and
             art.&nbsp;&nbsp;</p><p>&nbsp;</p><h4><strong>Best
             Restaurants:</strong></h4><ul><li><p><em><strong>Mama&rsquo;s Fish
             house -</strong></em> Ready to drop some $$$ on the best meal of
@@ -88,23 +88,23 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h3><strong>East Maui:</strong>&nbsp;</h3><p>The famous road to
-            Hana!&nbsp; If you have a 4x4 vehicle there are technically three
-            ways to do the road to Hana.&nbsp; You can (1) start by Paia and go
-            to Hana and back, (2) Start by Paia go all the way around and end up
-            on the south side of Maui, or (3) start on the south side go to Hana
-            and back.&nbsp; My personal favorite is the last option because I
-            get pretty car sick, but if it's your first time you really should
-            try to go all the way around to experience the full beauty of this
-            ride!&nbsp; Note: rental cars do not insure you if you take the
-            Southside way to Hana because you are mostly on a dirt road and it
-            can get a little sketchy.&nbsp; We took our 2016 Jeep Grand Cherokee
-            on the road many, many times and it handled the roads, and turns
-            just fine! This road isn't for the faint of heart though with its
-            many hair pin and cliffside turns.&nbsp; If you go slow and stay
-            very aware of cars around you, you will be just fine! Also let
-            locals pass, as they will be used to the roads and going much
-            faster!</p>
+            <h3><strong>East Maui:</strong>&nbsp;</h3><p>&nbsp;</p><p>The famous
+            road to Hana!&nbsp; If you have a 4x4 vehicle there are technically
+            three ways to do the road to Hana.&nbsp; You can (1) start by Paia
+            and go to Hana and back, (2) Start by Paia go all the way around and
+            end up on the south side of Maui, or (3) start on the south side go
+            to Hana and back.&nbsp; My personal favorite is the last option
+            because I get pretty car sick, but if it's your first time you
+            really should try to go all the way around to experience the full
+            beauty of this ride!&nbsp; Note: rental cars do not insure you if
+            you take the Southside way to Hana because you are mostly on a dirt
+            road and it can get a little sketchy.&nbsp; We took our 2016 Jeep
+            Grand Cherokee on the road many, many times and it handled the
+            roads, and turns just fine! This road isn't for the faint of heart
+            though with its many hair pin and cliffside turns.&nbsp; If you go
+            slow and stay very aware of cars around you, you will be just fine!
+            Also let locals pass, as they will be used to the roads and going
+            much faster!</p>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui14.jpg
@@ -203,9 +203,9 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h3><strong>South Maui:</strong>&nbsp;</h3><p>We lived in Kihei so
-            we might be a little biased to this side, but there are so many
-            amazing beaches and places to eat that we fell in
+            <h3><strong>South Maui:</strong>&nbsp;</h3><p>&nbsp;</p><p>We lived
+            in Kihei so we might be a little biased to this side, but there are
+            so many amazing beaches and places to eat that we fell in
             love!</p><h4><strong>Best
             Restaurants:</strong></h4><ul><li><em><strong>Maui Brewing-
             </strong></em>Incredible beers with an amazing outdoor seating
@@ -255,14 +255,14 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h3><strong>Activities:</strong></h3><ul><li><em><strong>La Perouse
-            Bay and Lava Field hike -</strong></em> Rent some snorkel gear from
-            Snorkel Bob&rsquo;s in Kihei for the day and head out to La Perouse
-            bay for some amazing snorkeling! You will see tons of fish and even
-            some sea turtles! Always remember to wear Reef Safe sunscreen as we
-            want to keep the reefs healthy and vibrant! Afterwards, head down
-            the road a bit to the Lava Fields hike along the ocean.&nbsp; It's
-            truly a unique experience!</li></ul>
+            <h4><strong>Activities:</strong></h4><p>&nbsp;</p><ul><li><em><strong>La
+            Perouse Bay and Lava Field hike -</strong></em> Rent some snorkel
+            gear from Snorkel Bob&rsquo;s in Kihei for the day and head out to
+            La Perouse bay for some amazing snorkeling! You will see tons of
+            fish and even some sea turtles! Always remember to wear Reef Safe
+            sunscreen as we want to keep the reefs healthy and vibrant!
+            Afterwards, head down the road a bit to the Lava Fields hike along
+            the ocean.&nbsp; It's truly a unique experience!</li></ul>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui22.jpg
@@ -286,10 +286,11 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h3><strong>West Maui:&nbsp;</strong></h3><h4><strong>Best
-            Restaurants:</strong></h4><ul><li><em><strong>Fridas Beach
-            House-&nbsp; </strong></em>The cutest spot on the water with the
-            yummiest Mexican food.&nbsp; Plus their margaritas are to die
+            <h3><strong>West
+            Maui:&nbsp;</strong></h3><p>&nbsp;</p><h4><strong>Best
+            Restaurants:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Fridas
+            Beach House-&nbsp; </strong></em>The cutest spot on the water with
+            the yummiest Mexican food.&nbsp; Plus their margaritas are to die
             for!</li><li><em><strong>Down the hatch- </strong></em>Super fun
             atmosphere with great food!&nbsp; Make sure to check out the
             alcoholic shaved ice next door at
@@ -317,18 +318,18 @@ sections:
             </strong></em>Gorgeous beach, and cliff jumping for the
             adventurous!&nbsp;</li><li><em><strong>Oneloa-</strong></em>
             Beautiful white sand and turquoise water.&nbsp; What more could you
-            ask for?!</li></ul><h4><strong>Best
-            Shops:</strong></h4><p>&nbsp;</p><p>Lahaina has multiple shops and
-            restaurants to walk around to.&nbsp; Make sure you check out the
-            Lahaina Banyan Court in town! Get the famous Dole Pineapple soft
-            serve at Lappert's Ice cream!</p>
+            ask for?!</li></ul><p>&nbsp;</p><h4><strong>Best
+            Shops:</strong></h4><p>Lahaina has multiple shops and restaurants to
+            walk around to.&nbsp; Make sure you check out the Lahaina Banyan
+            Court in town! Get the famous Dole Pineapple soft serve at Lappert's
+            Ice cream!</p>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/maui/maui38.jpg
     -
         _section-type: blog-text
         text-html: >-
-            <h4><strong>Activities:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Honolua
+            <h4><strong>Activities:</strong></h4><ul><li><em><strong>Honolua
             Bay- </strong></em>Walk through a literal fairytale land of banyan
             trees to a perfect snorkeling bay.&nbsp;</li></ul>
     -
@@ -372,7 +373,7 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h3><strong>Central:</strong>&nbsp;</h3><p>&nbsp;</p><h4><strong>Activities:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Iao
+            <h3><strong>Central:</strong>&nbsp;</h3><p>&nbsp;</p><h4><strong>Activities:</strong></h4><ul><li><em><strong>Iao
             Valley (Pronounced EE-ow) - </strong></em>This is a must stop for
             its beautiful scenery and interesting historical events.&nbsp; I
             suggest parking in the large parking lot at the very top of the hill
@@ -440,7 +441,7 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h3><strong>Upcountry:</strong>&nbsp;</h3><p>&nbsp;</p><h4><strong>Activities:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Haleakala
+            <h3><strong>Upcountry:</strong>&nbsp;</h3><p>&nbsp;</p><h4><strong>Activities:</strong></h4><ul><li><em><strong>Haleakala
             National Park - </strong></em>You&rsquo;re not going to want to miss
             this one of a kind experience.&nbsp; Make sure you book a sunrise
             reservation way in advance as it fills up quickly.&nbsp; I think
@@ -453,8 +454,8 @@ sections:
             early as they fill up and you want to have a great view of the sun
             peaking out throughout the clouds for the first time! If you have
             time after sunrise, hike the sliding sands trail for views that make
-            you feel like you're on mars!</li></ul><h4><strong>Best
-            Restaurants:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Kula
+            you feel like you're on mars!</li></ul><p>&nbsp;</p><h4><strong>Best
+            Restaurants:</strong></h4><ul><li><em><strong>Kula
             Bistro-</strong></em> All day cafe that has the best food and
             sweets! You're not going to want to miss out on their amazing case
             of baked goods&nbsp; filled with pies, cakes and other yummy
@@ -473,8 +474,8 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h2><strong>Adventurous 10 days in Maui
-            Itinerary</strong></h2><h4>If you&rsquo;re adventurous and really
+            <h3><strong>Adventurous 10 days in Maui
+            Itinerary</strong></h3><h4>If you&rsquo;re adventurous and really
             want to see the WHOLE island, then this itinerary is for
             you.&nbsp;</h4><p><em><strong>Day One:</strong></em> Fly into Maui
             OGG and rent a 4x4 vehicle (even better if you can rent from a
