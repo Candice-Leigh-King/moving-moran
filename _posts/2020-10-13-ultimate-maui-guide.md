@@ -198,20 +198,22 @@ sections:
             <p><strong>South Maui:</strong>&nbsp;</p><p>We lived in Kihei so we
             might be a little biased to this side, but there are so many amazing
             beaches and places to eat that we fell in love!</p><p><strong>Best
-            Restaurants:</strong></p><ol><li>Maui Brewing- Incredible beers with
-            an amazing outdoor seating area.&nbsp; Try to come here at
-            sunset!</li><li>Isana- Our favorite sushi in the whole wide world!
-            Please just do us a favor and go here.&nbsp; And don't forget a
+            Restaurants:</strong></p><ul><li><em><strong>Maui Brewing-
+            </strong></em>Incredible beers with an amazing outdoor seating
+            area.&nbsp; Try to come here at sunset!</li><li><em><strong>Isana-
+            </strong></em>Our favorite sushi in the whole wide world! Please
+            just do us a favor and go here.&nbsp; And don't forget a
             reservation! Check out Happy hour for 40% off select sushi and
-            drinks from 3-5pm and 9-10pm daily.&nbsp;</li><li>South Shore Tiki
-            Bar-&nbsp; This was our favorite spot to hang out! Great tiki drinks
-            and Pizza in a cute atmosphere!</li><li>Food trucks off of Piikea
-            Ave- A fun area to come if no one can decide on what they
-            want.&nbsp; Come here and choose from several food trucks and then
-            meet at the picnic tables as a family!</li><li>5 Palms- This is a
-            more expensive dinner, but the views and food are worth it!&nbsp;
-            Take a nice walk on the beach before or after
-            dinner.&nbsp;</li></ol>
+            drinks from 3-5pm and 9-10pm daily.&nbsp;</li><li><em><strong>South
+            Shore Tiki Bar-&nbsp; </strong></em>This was our favorite spot to
+            hang out! Great tiki drinks and Pizza in a cute
+            atmosphere!</li><li><em><strong>Food trucks off of Piikea
+            Ave-</strong></em> A fun area to come if no one can decide on what
+            they want.&nbsp; Come here and choose from several food trucks and
+            then meet at the picnic tables as a family!</li><li><em><strong>5
+            Palms- </strong></em>This is a more expensive dinner, but the views
+            and food are worth it!&nbsp; Take a nice walk on the beach before or
+            after dinner.&nbsp;</li></ul>
     -
         _section-type: blog-window
         window_image: /uploads/maui/maui21.jpg
