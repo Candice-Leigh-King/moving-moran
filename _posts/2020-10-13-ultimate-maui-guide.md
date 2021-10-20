@@ -398,8 +398,9 @@ sections:
             please be very cautious near the edges and always respect the
             ocean!</p>
     -
-        _section-type: blog-window
-        window_image: /uploads/maui/maui33.jpg
+        _section-type: blog-arches
+        right_image: /uploads/maui/maui33.jpg
+        left_image: /uploads/maui/maui7.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -427,4 +428,42 @@ sections:
             is delicious!</p><p>Maui Wine - Have you ever had pineapple
             wine?&nbsp; Try the pineapple flight here along with so many other
             delicious selections in a beautiful setting.&nbsp;</p>
+    -
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/maui/maui19.jpg
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p><strong>Adventurous 10 days in Maui Itinerary</strong></p><p>If
+            you&rsquo;re adventurous and really want to see the WHOLE island,
+            then this itinerary is for you.&nbsp;</p><p><strong>Day
+            One:</strong> Fly into Maui OGG and rent a 4x4 vehicle (even better
+            if you can rent from a local) and check out Paia Town and Beaches.
+            Stay in Paia.&nbsp;</p><p><strong>Day Two:</strong> Road to Hana.
+            &nbsp;See spots 1-9 on the Hana List above. &nbsp;Stay in
+            Hana!</p><p><strong>Day Three: </strong>Hana to Kula. See spots
+            10-13 on the Hana List above. Start early so you can make it to the
+            Maui Winery and Kula Bistro for dinner. &nbsp;Stay in a hotel or air
+            bnb in central Maui.&nbsp;</p><p><strong>Day Four:</strong>
+            Haleakala for sunrise. Then drive to Iao Valley and stay in the
+            Wailuku area.&nbsp;</p><p><strong>Day Five: </strong>Start the day
+            at Waihee Ridge Trail, then drive the coast to Olivine Pools and
+            finally the Blow Hole. Spend the night in Napili
+            Area.&nbsp;</p><p><strong>Day Six:</strong> Sunrise at Napili Bay
+            and lunch at A&rsquo;a Roots. &nbsp;Drive to Honolua Bay for
+            snorkeling. End the day at Ka'anapali Beach for sunset. Stay
+            anywhere from Ka'anapali to Lahaina.</p><p><strong>Day
+            Seven:</strong> Morning surf at Launiupoko, then check out the town
+            of Lahaina. &nbsp;There are lots of cool shops and great places to
+            eat. Stay in Lahaina.</p><p><strong>Day Eight:</strong> Head to
+            Kihei for breakfast at Kihei Cafe. &nbsp;Then check out Kamaole
+            Beach I, II, or III. &nbsp; Make your way to Makena Beach for
+            sunset. End the day at South Shore Tiki Lounge and stay in
+            Kihei.&nbsp;</p><p><strong>Day Nine: </strong>Drive to La Perouse
+            Bay for hiking and snorkeling. &nbsp;Stop at Makena Cove, or any
+            other beach you see on the way back. Go to the 5 Palms for dinner
+            and stay anywhere from Wailea to Kihei.&nbsp;</p><p><strong>Day Ten:
+            </strong>Half day snorkeling trip to Molokini out of Maalaea Harbor.
+            Pack up and leave&hellip;. A hui huo, until we meet again! So sad to
+            see you leave but wow, you've seen so much!</p>
 ---
