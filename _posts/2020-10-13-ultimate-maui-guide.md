@@ -429,7 +429,7 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h4><strong>Upcountry:</strong>&nbsp;</h4><p><strong>Activities:</strong></p><ul><li><em><strong>Haleakala
+            <h3><strong>Upcountry:</strong>&nbsp;</h3><p><strong>Activities:</strong></p><ul><li><em><strong>Haleakala
             National Park - </strong></em>You&rsquo;re not going to want to miss
             this one of a kind experience.&nbsp; Make sure you book a sunrise
             reservation way in advance as it fills up quickly.&nbsp; I think
