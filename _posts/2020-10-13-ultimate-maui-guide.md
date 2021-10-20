@@ -30,9 +30,9 @@ sections:
             with rich history and culture.&nbsp; Please be very respectful of
             the people and land while visiting, and always leave the land better
             than you found it!</p><p>There is so much to see on the Island of
-            Maui, but to make it easier I will split it up into sections so that
+            Maui, so to make it easier I will split it up into sections so that
             it's easier to digest.&nbsp; At the end of this post you can find a
-            7 day itinerary to make the planning easier for you!</p>
+            10 day itinerary to make the planning easier for you!</p>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui3.jpg
