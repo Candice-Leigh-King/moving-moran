@@ -361,16 +361,16 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>Central:</strong>&nbsp;</p><p><strong>Activities:</strong></p><p>Iao
-            Valley (Pronounced EE-ow) - This is a must stop for its beautiful
-            scenery and interesting historical events.&nbsp; I suggest parking
-            in the large parking lot at the very top of the hill and doing the
-            short hike up to the viewpoint of the Iao needle.&nbsp; From there
-            you can walk down the path to the river and if the water is calm you
-            can lounge in the various pools that are created in the river.&nbsp;
-            If you go back down to the parking lot, you will see many small
-            paths cut into the trees where you can walk out to other calm
-            pools.</p>
+            <p><strong>Central:</strong>&nbsp;</p><p><strong>Activities:</strong></p><ul><li><em><strong>Iao
+            Valley (Pronounced EE-ow) - </strong></em>This is a must stop for
+            its beautiful scenery and interesting historical events.&nbsp; I
+            suggest parking in the large parking lot at the very top of the hill
+            and doing the short hike up to the viewpoint of the Iao
+            needle.&nbsp; From there you can walk down the path to the river and
+            if the water is calm you can lounge in the various pools that are
+            created in the river.&nbsp; If you go back down to the parking lot,
+            you will see many small paths cut into the trees where you can walk
+            out to other calm pools.</li></ul>
     -
         _section-type: blog-window
         window_image: /uploads/maui/maui2.jpg
