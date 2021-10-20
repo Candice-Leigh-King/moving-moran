@@ -255,14 +255,14 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h4><strong>Activities:</strong></h4><p>&nbsp;</p><ul><li><em><strong>La
-            Perouse Bay and Lava Field hike -</strong></em> Rent some snorkel
-            gear from Snorkel Bob&rsquo;s in Kihei for the day and head out to
-            La Perouse bay for some amazing snorkeling! You will see tons of
-            fish and even some sea turtles! Always remember to wear Reef Safe
-            sunscreen as we want to keep the reefs healthy and vibrant!
-            Afterwards, head down the road a bit to the Lava Fields hike along
-            the ocean.&nbsp; It's truly a unique experience!</li></ul>
+            <h4><strong>Activities:</strong></h4><ul><li><em><strong>La Perouse
+            Bay and Lava Field hike -</strong></em> Rent some snorkel gear from
+            Snorkel Bob&rsquo;s in Kihei for the day and head out to La Perouse
+            bay for some amazing snorkeling! You will see tons of fish and even
+            some sea turtles! Always remember to wear Reef Safe sunscreen as we
+            want to keep the reefs healthy and vibrant! Afterwards, head down
+            the road a bit to the Lava Fields hike along the ocean.&nbsp; It's
+            truly a unique experience!</li></ul>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui22.jpg
@@ -288,9 +288,9 @@ sections:
         text-html: >-
             <h3><strong>West
             Maui:&nbsp;</strong></h3><p>&nbsp;</p><h4><strong>Best
-            Restaurants:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Fridas
-            Beach House-&nbsp; </strong></em>The cutest spot on the water with
-            the yummiest Mexican food.&nbsp; Plus their margaritas are to die
+            Restaurants:</strong></h4><ul><li><em><strong>Fridas Beach
+            House-&nbsp; </strong></em>The cutest spot on the water with the
+            yummiest Mexican food.&nbsp; Plus their margaritas are to die
             for!</li><li><em><strong>Down the hatch- </strong></em>Super fun
             atmosphere with great food!&nbsp; Make sure to check out the
             alcoholic shaved ice next door at
@@ -308,9 +308,8 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h4><strong>Best
-            Beaches:</strong></h4><p>&nbsp;</p><ul><li><em><strong>Napili Bay-
-            </strong></em>Small Beach, big
+            <h4><strong>Best Beaches:</strong></h4><ul><li><em><strong>Napili
+            Bay- </strong></em>Small Beach, big
             reward!</li><li><em><strong>Ka&rsquo;anapali- </strong></em>The
             whitest sand and bluest water! Plus its just fun to say!&nbsp;
             Shopping mall on the beach here as
