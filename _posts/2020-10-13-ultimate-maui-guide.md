@@ -246,14 +246,14 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>Activities:</strong></p><ol><li>La Perouse Bay and Lava
-            Field hike - Rent some snorkel gear from Snorkel Bob&rsquo;s in
-            Kihei for the day and head out to La Perouse bay for some amazing
-            snorkeling! You will see tons of fish and even some sea turtles!
-            Always remember to wear Reef Safe sunscreen as we want to keep the
-            reefs healthy and vibrant! Afterwards, head down the road a bit to
-            the Lava Fields hike along the ocean.&nbsp; It's truly a unique
-            experience!</li></ol>
+            <p><strong>Activities:</strong></p><ul><li><em><strong>La Perouse
+            Bay and Lava Field hike -</strong></em> Rent some snorkel gear from
+            Snorkel Bob&rsquo;s in Kihei for the day and head out to La Perouse
+            bay for some amazing snorkeling! You will see tons of fish and even
+            some sea turtles! Always remember to wear Reef Safe sunscreen as we
+            want to keep the reefs healthy and vibrant! Afterwards, head down
+            the road a bit to the Lava Fields hike along the ocean.&nbsp; It's
+            truly a unique experience!</li></ul>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui22.jpg
