@@ -278,17 +278,20 @@ sections:
         _section-type: blog-text
         text-html: >-
             <p><strong>West Maui:&nbsp;</strong></p><p><strong>Best
-            Restaurants:</strong></p><ol><li>Fridas Beach House-&nbsp; The
-            cutest spot on the water with the yummiest Mexican food.&nbsp; Plus
-            their margaritas are to die for!</li><li>Down the hatch- Super fun
+            Restaurants:</strong></p><ul><li><em><strong>Fridas Beach
+            House-&nbsp; </strong></em>The cutest spot on the water with the
+            yummiest Mexican food.&nbsp; Plus their margaritas are to die
+            for!</li><li><em><strong>Down the hatch- </strong></em>Super fun
             atmosphere with great food!&nbsp; Make sure to check out the
-            alcoholic shaved ice next door at Breakwall!</li><li>Star
-            Noodle-&nbsp; In the mood for asian eats by the sea?&nbsp; Look no
-            further than this delicious spot where everything you get is drool
-            worthy.&nbsp; Make sure you get a reservation!</li><li>A&rsquo;a
-            Roots- Did I go here every time I passed through the area, you
-            betcha! The most delicious locally sourced vegan food, and I'm not
-            even vegan.&nbsp; You have to get one of their acai bowls!</li></ol>
+            alcoholic shaved ice next door at
+            Breakwall!</li><li><em><strong>Star Noodle-&nbsp; </strong></em>In
+            the mood for asian eats by the sea?&nbsp; Look no further than this
+            delicious spot where everything you get is drool worthy.&nbsp; Make
+            sure you get a reservation!</li><li><em><strong>A&rsquo;a Roots-
+            </strong></em>Did I go here every time I passed through the area,
+            you betcha! The most delicious locally sourced vegan food, and I'm
+            not even vegan.&nbsp; You have to get one of their acai
+            bowls!</li></ul>
     -
         _section-type: blog-window
         window_image: /uploads/maui/maui26.jpg
