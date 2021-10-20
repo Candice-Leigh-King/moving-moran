@@ -346,13 +346,14 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p>Mala Wharf- If you opted out of taking a trip to Molokini, you
-            can still reach &ldquo;turtle town&rdquo; by car! Park at the wharf
-            and swim out to the sunken wharf to see turtles and coral!&nbsp;
-            Caution: do not attempt this if you are not a strong swimmer!&nbsp;
-            There is a decent current here and it's a little ways out to reach
-            the coral!. Take a life jacket or choose to snorkel with a tour if
-            you are unsure.&nbsp;</p>
+            <ul><li><em><strong>Mala Wharf-</strong></em> If you opted out of
+            taking a trip to Molokini, you can still reach &ldquo;turtle
+            town&rdquo; by car! Park at the wharf and swim out to the sunken
+            wharf to see turtles and coral!&nbsp; Caution: do not attempt this
+            if you are not a strong swimmer!&nbsp; There is a decent current
+            here and it's a little ways out to reach the coral! Take a life
+            jacket or choose to snorkel with a tour if you are
+            unsure.&nbsp;</li></ul>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui11.jpg
