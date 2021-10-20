@@ -40,15 +40,15 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><strong>North Maui:</strong>&nbsp;</p><p>Paia is dubbed the
+            <h3><strong>North Maui:</strong>&nbsp;</h3><p>Paia is dubbed the
             hippie town of Maui and it consists of cool shops, great places to
             eat and beautiful beaches.&nbsp; On Paia&rsquo;s main street you
             will find many shops filled with jewelry, beachwear and
-            art.&nbsp;&nbsp;</p><p><strong>Best
-            Restaurants:</strong></p><ul><li><em><strong>Mama&rsquo;s Fish house
-            -</strong></em> Ready to drop some $$$ on the best meal of your
-            life?&nbsp; Mama&rsquo;s Fish house is the best place to be.&nbsp;
-            Great vibes and even better food, just make sure you get a
+            art.&nbsp;&nbsp;</p><h4><strong>Best
+            Restaurants:</strong></h4><ul><li><em><strong>Mama&rsquo;s Fish
+            house -</strong></em> Ready to drop some $$$ on the best meal of
+            your life?&nbsp; Mama&rsquo;s Fish house is the best place to
+            be.&nbsp; Great vibes and even better food, just make sure you get a
             reservation well in advance!</li><li><em><strong>Paia Fish
             Market-</strong> </em>The best fish tacos you will ever have!
             Perfect for a quick bite at any time of the day.&nbsp; There is also
@@ -64,8 +64,8 @@ sections:
             Hawaii like lychee and Lilikoi with their incredible Mochi on top!
             There are many locations on the island and I&rsquo;m sure
             you&rsquo;ll need to get your fix more than once during your
-            trip!</li></ul><p>&nbsp;</p><p><strong>Best
-            Beaches:</strong></p><ul><li><em><strong>Ho&rsquo;okipa
+            trip!</li></ul><p>&nbsp;</p><h4><strong>Best
+            Beaches:</strong></h4><ul><li><em><strong>Ho&rsquo;okipa
             -</strong></em> This is the perfect place to see turtles (Please
             keep at least a 10 foot distance between you and a turtle!&nbsp;
             It's actually illegal to touch or come close to turtles in Hawaii!)
@@ -73,8 +73,8 @@ sections:
             waves!</li><li><em><strong>Baldwin Beach -</strong></em> Turquoise
             waters and absolutely incredible views of the lush mountains of the
             Central Coast! Also a great place to watch kite
-            surfers!</li></ul><p>&nbsp;</p><p><strong>Best
-            Shops:</strong></p><ul><li><em><strong>Alice in HulaLand-
+            surfers!</li></ul><p>&nbsp;</p><h4><strong>Best
+            Shops:</strong></h4><ul><li><em><strong>Alice in HulaLand-
             </strong></em>This quirky shop has the best
             clothes!</li><li><em><strong>Ho&rsquo;okipa Surf- </strong></em>The
             best shirts!&nbsp; Matt got so many cool shirts and hats here that
