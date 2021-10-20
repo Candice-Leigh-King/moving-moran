@@ -44,7 +44,7 @@ sections:
             hippie town of Maui and it consists of cool shops, great places to
             eat and beautiful beaches.&nbsp; On Paia&rsquo;s main street you
             will find many shops filled with jewelry, beachwear and
-            art.&nbsp;&nbsp;</p><h4><strong>Best
+            art.&nbsp;&nbsp;</p><p>&nbsp;</p><h4><strong>Best
             Restaurants:</strong></h4><ul><li><em><strong>Mama&rsquo;s Fish
             house -</strong></em> Ready to drop some $$$ on the best meal of
             your life?&nbsp; Mama&rsquo;s Fish house is the best place to
