@@ -158,7 +158,7 @@ sections:
     right_image: /blog-images/waimanu/image00018.jpg
     left_image: /blog-images/waimanu/image00016.jpg
   - _section-type: blog-text-featured
-    text-html: >-
+    featured-text-html: >-
       <p>We definitely recommend spending 2-3 days in the valley.&nbsp; We only
       had time for an overnight trip and we wished we had more time in the
       valley to relax and recoup before we climbed back out! Enjoy your time in

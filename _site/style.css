@@ -48,7 +48,7 @@ body {
 .padded-top    { padding-top: 5%;    }
 .padded-sides   { padding-left: 5%; padding-right: 5%;  }
 .padded-bottom {padding-bottom: 5%;}
-.padded-top-nav {padding-top: 20%}
+.padded-top-nav {padding-top: 5%}
 .padded-50 {padding: 48%;}
 .padded-story {padding: 0% 0% 0% 5%;}
 
@@ -290,7 +290,7 @@ text-transform: lowercase;}
   {
   background-size: cover;
   background-position: center;
-  min-height: 50vh;
+  min-height: 70vh;
   background-attachment: fixed;
   }
 
@@ -613,6 +613,11 @@ form .button:hover
 
   .blog {min-height: 80vh;}
 
+  .blog-image-window
+    {
+    min-height: 60vh;
+    }
+
 }
 
 /* Gridlex SM query - Max 768px - _sm-* */
@@ -662,6 +667,11 @@ form .button:hover
   .padded-story {padding: 0%;}
 
   .text-featured {padding-top: 5%;}
+
+  .blog-fixed-banner
+    {
+    background-attachment: scroll;
+    }
 }
 
 
@@ -690,21 +700,12 @@ form .button:hover
 
   .blog-images {min-height: 40vh;}
 
-  .blog-image-right
-    {
-    margin-top: 9px;
-    margin-left: -4px;
-    transform: rotate(-3deg);
-    box-shadow: 0.5px 1px 2px;
-    }
+
 
   .blog-image-left
     {
     border-radius: 0%;
-    margin-top: 9px;
-    margin-left: 4px;
-    transform: rotate(3deg);
-    box-shadow: 0.5px 1px 2px;
+    margin-top: 3%;
     }
 
   .date {font-size: 0.8rem;}
@@ -722,7 +723,7 @@ form .button:hover
     padding: 5% 2%;}
 
 
-.padded-top-nav {padding-top: 30%}
+.padded-top-nav {padding-top: 5%}
 
     .logo img {
       max-width: 100%;

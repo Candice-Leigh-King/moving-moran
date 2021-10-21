@@ -28,3 +28,8 @@ _array_structures:
         value:
           _section-type: blog-window
           window_image:
+      - label: featured text
+        icon: text
+        value:
+          _section-type: blog-text-featured
+          featured-text-html:
