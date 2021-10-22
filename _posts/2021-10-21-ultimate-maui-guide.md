@@ -330,14 +330,11 @@ sections:
         text-html: >-
             <h4><strong>Activities:</strong></h4><ul><li><em><strong>Honolua
             Bay- </strong></em>Walk through a literal fairytale land of banyan
-            trees to a perfect snorkeling bay.&nbsp;</li></ul>
-    -
-        _section-type: blog-text
-        text-html: >-
-            <ul><li><em><strong>Dragon's Teeth- </strong></em>Nice half mile
-            walk along the ocean to see a cool lava flow formation that looks
-            like jagged dragon teeth! Parking for the hike is from a parking lot
-            off of office road, next to the Maui Pineapple
+            trees to a perfect snorkeling
+            bay.&nbsp;</li><li><em><strong>Dragon's Teeth- </strong></em>Nice
+            half mile walk along the ocean to see a cool lava flow formation
+            that looks like jagged dragon teeth! Parking for the hike is from a
+            parking lot off of office road, next to the Maui Pineapple
             Chapel.&nbsp;</li><li><em><strong>Surfing- </strong></em>This is a
             great area to try surfing for the first time.&nbsp; I do recommend
             starting with a trainer as surfing is hard to learn on your own and
