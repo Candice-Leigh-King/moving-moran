@@ -332,9 +332,6 @@ sections:
             Bay- </strong></em>Walk through a literal fairytale land of banyan
             trees to a perfect snorkeling bay.&nbsp;</li></ul>
     -
-        _section-type: blog-fixed
-        blog-fixed_image: /uploads/maui/maui28.jpg
-    -
         _section-type: blog-text
         text-html: >-
             <ul><li><em><strong>Dragon's Teeth- </strong></em>Nice half mile
