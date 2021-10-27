@@ -161,16 +161,20 @@ sections:
             <p>Day 3:&nbsp;</p><p>Are you ready for another early hike?&nbsp;
             This time we are starting at Jenny Lake and hiking to Lake
             Solitude.&nbsp; This hike is also rated difficult, mostly for the
-            length, and is 18 miles round trip.&nbsp; I highly recommend taking
-            the Jenny Lake Ferry across the lake and shaving off 2 miles each
-            way (4 miles total). The ferry shuttle runs about every 10-15
-            minutes and tickets can be purchased at the East Boat Dock at $10.00
-            for one way or $18.00 round trip for adults.&nbsp; During the off
-            season, the shuttle only runs from 10 - 4:30pm (so make sure you
-            plan to start your hike early so that you make it back in time to
-            catch the last one.&nbsp; If you don't make it back, no worries,
-            you'll just have to hike an extra 2 miles to get back to the Jenny
-            Lake parking area.&nbsp; Check out <a target="_blank" rel="noopener"
+            length, and is 18 miles round trip.&nbsp;&nbsp;</p>
+    -
+        _section-type: blog-text-featured
+        featured-text-html: >-
+            <p>I highly recommend taking the Jenny Lake Ferry across the lake
+            and shaving off 2 miles each way (4 miles total). The ferry shuttle
+            runs about every 10-15 minutes and tickets can be purchased at the
+            East Boat Dock at $10.00 for one way or $18.00 round trip for
+            adults.&nbsp; During the off season, the shuttle only runs from 10 -
+            4:30pm (so make sure you plan to start your hike early so that you
+            make it back in time to catch the last one.&nbsp; If you don't make
+            it back, no worries, you'll just have to hike an extra 2 miles to
+            get back to the Jenny Lake parking area.&nbsp; Check out <a
+            target="_blank" rel="noopener"
             href="https://jennylakeboating.com/boat-trips/shuttle-service/">this
             website</a> to find the cost and schedule (in the bottom right
             corner) for the upcoming season.&nbsp;</p>
