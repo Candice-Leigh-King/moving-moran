@@ -471,7 +471,7 @@ sections:
             Itinerary</strong></h3><h4>If you&rsquo;re adventurous and really
             want to see the WHOLE island, then this itinerary is for
             you.&nbsp;</h4><p><em><strong>Day One:</strong></em> Fly into Maui
-            OGG and rent a 4x4 vehicle (even better if you can rent from a
+            (OGG) and rent a 4x4 vehicle (even better if you can rent from a
             local) and check out Paia Town and Beaches. Stay in
             Paia.&nbsp;</p><p><em><strong>Day Two:</strong></em> Road to Hana.
             &nbsp;See spots 1-9 on the Hana List above. &nbsp;Stay in
