@@ -501,4 +501,17 @@ sections:
             snorkeling trip to Molokini out of Maalaea Harbor. Pack up and
             leave&hellip;. A hui huo, until we meet again! So sad to see you
             leave but wow, you've seen so much!</p>
+    -
+        _section-type: blog-text-featured
+        featured-text-html: >-
+            <p>**Driving around both ends of the island (Hana, and the opposite
+            coast) are a little treacherous in areas.&nbsp; The roads are built
+            on the side of cliffs so they might seem scary to some.&nbsp; I had
+            absolutely no issues driving either of these roads, but just wanted
+            to point out to you that they might seem scary if you&rsquo;re not
+            used to driving tight, hilly roads. Go slow and pull off to the side
+            to let any locals pass who might be pushing you past your comfort
+            zone!</p><p>&nbsp;</p><p>Pro tip: Check out rentals that offer roof
+            top tents.&nbsp; That way you can have a car and a place to sleep
+            all in one!</p>
 ---
