@@ -67,8 +67,9 @@ sections:
       your way back out, but you can&rsquo;t count on it.&nbsp; Luckily, someone
       picked us up 3/4th of the way back up the hill, and I don&rsquo;t think I
       have ever been so thankful for a ride in my life! Check out our
-      Backpacking guide here (link backpacking post) to know exactly what to
-      pack for this overnight hike!</p>
+      Backpacking guide <a
+      href="/travel/tips/2020/10/13/what-we-pack-for-our-backpacking-trips.html">here</a>
+      to know exactly what to pack for this overnight hike!</p>
   - _section-type: blog-arches
     right_image: /blog-images/waimanu/image00004.jpg
     left_image: /blog-images/waimanu/image00012.jpg
