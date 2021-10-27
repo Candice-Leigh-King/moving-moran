@@ -110,8 +110,8 @@ sections:
         right_image: /uploads/maui/maui14.jpg
         left_image: /uploads/maui/maui16.jpg
     -
-        _section-type: blog-text
-        text-html: >-
+        _section-type: blog-text-featured
+        featured-text-html: >-
             <p>If you&rsquo;re starting from Paia make sure to download the
             &ldquo;Road to Hana Maui GyPSy Guide'' in the app store.&nbsp; It
             tells you where to stop, how long each stop might be and gives you
