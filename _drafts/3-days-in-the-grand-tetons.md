@@ -178,4 +178,85 @@ sections:
             href="https://jennylakeboating.com/boat-trips/shuttle-service/">this
             website</a> to find the cost and schedule (in the bottom right
             corner) for the upcoming season.&nbsp;</p>
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>The boat ride is about 10 minutes long and will drop you off at
+            the Cascade Trailhead. &nbsp; From here you will take a short walk
+            to the Hidden Falls which is a nice short walk to a beautiful
+            waterfall.&nbsp; You can then continue on to Inspiration Point. This
+            is a good place to stop if you're only looking to do a short hike,
+            take in the views of jenny lake and for a nice
+            picnic.&nbsp;&nbsp;</p>
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>If you're anything like us, this point won't leave you very
+            inspired and you'll want to continue on to Cascade Canyon.&nbsp; We
+            hiked this in early September of 2021 and were happy to see the
+            start of the changing colors! Although we can imagine this hike
+            would be beautiful at any time of the year.&nbsp;</p>
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>There is so much to see on this hike and we were amazed around
+            every turn.&nbsp; I felt like the views just kept getting better and
+            better the higher we climbed.&nbsp; You will pass a beautiful bridge
+            as well, make sure you turn around and take in the sweeping
+            views.&nbsp; Towards the end you will start to pass different
+            dispersed campsites.&nbsp; If you have the time you could do the
+            full 2-3 day backpacking trip to see the full 22 mile loop of the
+            entire area. Since we only had a day to explore, we settled on
+            making it to lake solitude.</p>
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>Once you make it to Lake Solitude, you will see where it gets its
+            name!&nbsp; This is the most peaceful lake, and with not another
+            soul in sight it was pure solitude! We ate our lunch here, and then
+            prepared for the long trek back.&nbsp;&nbsp;</p>
+    -
+        _section-type: blog-text-featured
+        featured-text-html: >-
+            <p>If 14-18 miles (14 if you take the ferry both ways) seems
+            daunting to you, just know that you can stop and turn around at any
+            time. &nbsp;I definitely recommend at least making it to a part of
+            Cascade Canyon, because it was our favorite part of the hike!</p>
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>Once you finish the hike, take a short walk around Jenny Lake and
+            take in its beauty!&nbsp; There is also a welcome center and gift
+            shop here that you can wander through.</p>
+    -
+        _section-type: blog-text
+        text-html: >-
+            <p>Depending on how long you hiked, and how late it is when you get
+            off the trail, you can stop at Mormon Row area for a wine and cheese
+            sunset picnic.&nbsp; We drove past Mormon Row and pulled off into
+            one of the turn offs and took in the view of the Tetons and Mormon
+            Row from the distance.&nbsp; It was the perfect way to end the
+            night</p><p>Again, we ended the night back at our camp at Antelope
+            Springs.&nbsp;</p>
+    -
+        _section-type: blog-text-featured
+        featured-text-html: >-
+            <p>Tips for hiking in the Tetons:</p><p>This is bear country, so
+            make sure you carry bear spray with you at all times on the
+            hike.&nbsp; You can purchase bear spray at the welcome center, or
+            you can check out options like this one that will save you money!
+            YOu should also try to hike in groups so that you are louder and
+            bears can hear you coming.&nbsp; If you do decide to hike alone, in
+            addition to carrying bear spray, you might consider putting bells on
+            a hiking stick to make yourself louder and less likely to startle a
+            bear if you come around a corner!</p><p>Another very important tip
+            is to wear good hiking shoes!&nbsp; The terrain can be rocky, muddy
+            or uneven in some areas, so you want to make sure you have sturdy
+            shoes that can take on the elements.&nbsp;</p><p>Pack a lot of
+            snacks.&nbsp; We like to pack dried fruit, protein bars, tune
+            packets and tortilla rolls, and an apple or peach. Always pack out
+            whatever you brought in and remember to leave no trace!</p><p>Have
+            fun!&nbsp; This is a very special place that I&rsquo;m sure you will
+            return to for years to come and will always be able to find
+            something new to do!</p>
 ---
