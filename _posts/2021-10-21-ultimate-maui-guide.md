@@ -19,7 +19,6 @@ twitter-image-alt: Moving Morans | Ultimate Maui Guide
 type: Travel Tips
 author: by Leah Moran
 date: 2021-10-21 00:00:00
-link: /Ultimate Maui Guide
 blog_image: /blog-images/maui1.jpg
 paragraph: >-
     Want to travel Maui like a local?  Well we’ve got you covered!  While we

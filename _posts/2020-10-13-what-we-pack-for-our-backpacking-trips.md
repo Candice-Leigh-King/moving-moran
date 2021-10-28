@@ -19,7 +19,6 @@ twitter-image-alt: Moving Morans | What We Pack for Backpacking Trips!
 type: Travel Tips
 author: by Leah Moran
 date: 2020-10-13 00:00:00
-link: /What we pack for our backpacking trips
 blog_image: /blog-images/backpacking/backpacking1.jpg
 paragraph: >-
   This was an 11 mile hike through the desert to a waterfall oasis, so if you're

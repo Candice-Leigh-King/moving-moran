@@ -19,7 +19,6 @@ twitter-image-alt: Moving Morans | Waipio Valley to Waimanu Valley
 type: Travel Tips
 author: by Leah Moran
 date: 2021-10-10 00:00:00
-link: movingmoran.com/travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html
 blog_image: /blog-images/waimanu/image00006.jpg
 paragraph: >-
   This beautiful black sand beach is a must see for all those looking to escape
