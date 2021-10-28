@@ -2,18 +2,8 @@
 layout: posts
 title: What We Pack for Backpacking Trips!
 description: >-
-  This is our packing list from our 3 night, 4 day backpacking trip to Havasupai.
-meta-keywords: >-
-  travel couple, usa couple, travel influencers, vanlife, van life, couples to
-  work with, american influencers, influencer marketing, travel photography,
-  lifestyle photography, USA,   
-featured-image_path: /blog-images/backpacking/backpacking1.jpg
-url: /travel/tips/2020/10/13/what-we-pack-for-our-backpacking-trips
-summary: >-
-  This is our packing list from our 3 night, 4 day backpacking trip to Havasupai.
-twitter-title: This is our packing list from our 3 night, 4 day backpacking trip to Havasupai.
-twitter_image: /blog-images/backpacking/backpacking1.jpg
-twitter-image-alt: Moving Morans | USA based travel couple  
+  This is our packing list from our 3 night, 4 day backpacking trip to
+  Havasupai.
 type: Travel Tips
 featured-image: /blog-images/backpacking/backpacking1.jpg
 author: by Leah Moran

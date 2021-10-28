@@ -2,24 +2,13 @@
 layout: posts
 title: Waipio Valley to Waimanu Valley
 description: >-
-  This is our packing list from our 3 night, 4 day backpacking trip to
-  Havasupai.
-meta-keywords: >-
-  travel couple, usa couple, travel influencers, vanlife, van life, couples to
-  work with, american influencers, influencer marketing, travel photography,
-  lifestyle photography, USA,   
-featured-image_path: /blog-images/waimanu/image00006.jpg
-url: /travel/tips/2021/10/10/waipio-valley-to-waimanu-valley.html
-summary: >-
-  This is our packing list from our 3 night, 4 day backpacking trip to Havasupai.
-twitter-title: This is our packing list from our 3 night, 4 day backpacking trip to Havasupai.
-twitter_image: /blog-images/waimanu/image00006.jpg
-twitter-image-alt: Moving Morans | USA based travel couple
+  If you’re looking to be far away from the crowds of Waipio Valley and
+  experience the untouched beauty of Hawaii, then Waimanu Valley should be...
 type: Travel Tips
 featured-image: /blog-images/waimanu/image00006.jpg
 author: by Leah Moran
 date: 2021-10-10 00:00:00
-link: travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html
+link: movingmoran.com/travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html
 blog_image: /blog-images/waimanu/image00006.jpg
 paragraph: >-
   This beautiful black sand beach is a must see for all those looking to escape
