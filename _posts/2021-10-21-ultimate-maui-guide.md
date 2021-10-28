@@ -10,6 +10,12 @@ meta-keywords: >-
   lifestyle photography, USA,   
 featured-image_path: /blog-images/maui1.jpg
 url: /Ultimate Maui Guide
+summary: >-
+    Ultimate Guide to Maui from someone who lived there and knows all the best
+    spots!
+twitter-title: Moving Morans | Ultimate Maui Guide
+twitter_image: /blog-images/maui1.jpg
+twitter-image-alt: Moving Morans | Ultimate Maui Guide
 type: Travel Tips
 author: by Leah Moran
 date: 2021-10-21 00:00:00

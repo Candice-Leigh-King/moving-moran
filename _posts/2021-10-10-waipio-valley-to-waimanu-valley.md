@@ -9,7 +9,13 @@ meta-keywords: >-
   work with, american influencers, influencer marketing, travel photography,
   lifestyle photography, USA,
 featured-image_path: /blog-images/waimanu/image00006.jpg
-url: /travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html 
+url: /travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html
+summary: >-
+  If you’re looking to be far away from the crowds of Waipio Valley and
+  experience the untouched beauty of Hawaii, then Waimanu Valley should be...
+twitter-title: Waipio Valley to Waimanu Valley
+twitter_image: /blog-images/waimanu/image00006.jpg
+twitter-image-alt: Moving Morans | Waipio Valley to Waimanu Valley
 type: Travel Tips
 author: by Leah Moran
 date: 2021-10-10 00:00:00
