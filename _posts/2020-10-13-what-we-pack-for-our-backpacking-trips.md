@@ -10,7 +10,6 @@ meta-keywords: >-
   lifestyle photography, USA,  
 featured-image_path: /blog-images/backpacking/backpacking1.jpg
 type: Travel Tips
-featured-image: /blog-images/backpacking/backpacking1.jpg
 author: by Leah Moran
 date: 2020-10-13 00:00:00
 link: /What we pack for our backpacking trips
