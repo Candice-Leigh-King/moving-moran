@@ -4,6 +4,9 @@ title: What We Pack for Backpacking Trips!
 description: >-
   This is our packing list from our 3 night, 4 day backpacking trip to
   Havasupai.
+meta-description: >-
+  If you’re looking to be far away from the crowds of Waipio Valley and
+  experience the untouched beauty of Hawaii, then Waimanu Valley should be...    
 type: Travel Tips
 featured-image: /blog-images/backpacking/backpacking1.jpg
 author: by Leah Moran

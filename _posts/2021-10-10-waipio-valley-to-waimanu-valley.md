@@ -4,6 +4,9 @@ title: Waipio Valley to Waimanu Valley
 description: >-
   If you’re looking to be far away from the crowds of Waipio Valley and
   experience the untouched beauty of Hawaii, then Waimanu Valley should be...
+meta-description: >-
+  If you’re looking to be far away from the crowds of Waipio Valley and
+  experience the untouched beauty of Hawaii, then Waimanu Valley should be...  
 type: Travel Tips
 featured-image: /blog-images/waimanu/image00006.jpg
 author: by Leah Moran

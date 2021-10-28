@@ -4,6 +4,9 @@ title: Ultimate Maui Guide
 description: >-
     Ultimate Guide to Maui from someone who lived there and knows all the best
     spots!
+meta-description: >-
+  If you’re looking to be far away from the crowds of Waipio Valley and
+  experience the untouched beauty of Hawaii, then Waimanu Valley should be...      
 type: Travel Tips
 featured-image: /blog-images/maui1.jpg
 author: by Leah Moran
