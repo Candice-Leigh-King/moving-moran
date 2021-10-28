@@ -4,11 +4,22 @@ title: Ultimate Maui Guide
 description: >-
     Ultimate Guide to Maui from someone who lived there and knows all the best
     spots!
+meta-keywords: >-
+  travel couple, usa couple, travel influencers, vanlife, van life, couples to
+  work with, american influencers, influencer marketing, travel photography,
+  lifestyle photography, USA,   
+featured-image_path: /blog-images/maui1.jpg
+url: /travel/2021/10/21/ultimate-maui-guide
+summary: >-
+  This is our packing list from our 3 night, 4 day backpacking trip to Havasupai.
+twitter-title: This is our packing list from our 3 night, 4 day backpacking trip to Havasupai.
+twitter_image: /blog-images/maui1.jpg
+twitter-image-alt: Moving Morans | USA based travel couple    
 type: Travel Tips
 featured-image: /blog-images/maui1.jpg
 author: by Leah Moran
 date: 2021-10-21 00:00:00
-link: /Ultimate Maui Guide
+link: /travel/2021/10/21/ultimate-maui-guide
 blog_image: /blog-images/maui1.jpg
 paragraph: >-
     Want to travel Maui like a local?  Well we’ve got you covered!  While we
