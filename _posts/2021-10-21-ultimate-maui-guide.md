@@ -4,9 +4,11 @@ title: Ultimate Maui Guide
 description: >-
     Ultimate Guide to Maui from someone who lived there and knows all the best
     spots!
-meta-description: >-
-  If you’re looking to be far away from the crowds of Waipio Valley and
-  experience the untouched beauty of Hawaii, then Waimanu Valley should be...      
+meta-keywords: >-
+  travel couple, usa couple, travel influencers, vanlife, van life, couples to
+  work with, american influencers, influencer marketing, travel photography,
+  lifestyle photography, USA,   
+featured-image_path: /blog-images/maui1.jpg      
 type: Travel Tips
 featured-image: /blog-images/maui1.jpg
 author: by Leah Moran
