@@ -8,7 +8,7 @@ meta-keywords: >-
   travel couple, usa couple, travel influencers, vanlife, van life, couples to
   work with, american influencers, influencer marketing, travel photography,
   lifestyle photography, USA,  
-featured-image_path: /blog-images/backpacking
+featured-image_path: /blog-images/backpacking/backpacking1.jpg
 type: Travel Tips
 featured-image: /blog-images/backpacking/backpacking1.jpg
 author: by Leah Moran
