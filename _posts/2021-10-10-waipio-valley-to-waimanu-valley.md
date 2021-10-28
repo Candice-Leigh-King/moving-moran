@@ -8,7 +8,8 @@ meta-keywords: >-
   travel couple, usa couple, travel influencers, vanlife, van life, couples to
   work with, american influencers, influencer marketing, travel photography,
   lifestyle photography, USA,
-featured-image_path: /blog-images/waimanu/image00006.jpg  
+featured-image_path: /blog-images/waimanu/image00006.jpg
+url: /travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html 
 type: Travel Tips
 author: by Leah Moran
 date: 2021-10-10 00:00:00

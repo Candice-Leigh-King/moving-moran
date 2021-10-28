@@ -9,6 +9,7 @@ meta-keywords: >-
   work with, american influencers, influencer marketing, travel photography,
   lifestyle photography, USA,  
 featured-image_path: /blog-images/backpacking/backpacking1.jpg
+url: /What we pack for our backpacking trips
 type: Travel Tips
 author: by Leah Moran
 date: 2020-10-13 00:00:00
