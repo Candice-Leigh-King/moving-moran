@@ -10,7 +10,6 @@ meta-keywords: >-
   lifestyle photography, USA,   
 featured-image_path: /blog-images/maui1.jpg      
 type: Travel Tips
-featured-image: /blog-images/maui1.jpg
 author: by Leah Moran
 date: 2021-10-21 00:00:00
 link: /Ultimate Maui Guide

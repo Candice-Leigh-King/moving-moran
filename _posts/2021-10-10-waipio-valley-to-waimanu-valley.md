@@ -10,7 +10,6 @@ meta-keywords: >-
   lifestyle photography, USA,
 featured-image_path: /blog-images/waimanu/image00006.jpg  
 type: Travel Tips
-featured-image: /blog-images/waimanu/image00006.jpg
 author: by Leah Moran
 date: 2021-10-10 00:00:00
 link: movingmoran.com/travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html
