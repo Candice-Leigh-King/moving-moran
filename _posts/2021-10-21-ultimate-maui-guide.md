@@ -7,7 +7,7 @@ description: >-
 type: Travel Tips
 featured-image: /blog-images/maui1.jpg
 author: by Leah Moran
-date: 2020-10-20 00:00:00
+date: 2021-10-21 00:00:00
 link: /Ultimate Maui Guide
 blog_image: /blog-images/maui1.jpg
 paragraph: >-
@@ -110,8 +110,8 @@ sections:
         right_image: /uploads/maui/maui14.jpg
         left_image: /uploads/maui/maui16.jpg
     -
-        _section-type: blog-text
-        text-html: >-
+        _section-type: blog-text-featured
+        featured-text-html: >-
             <p>If you&rsquo;re starting from Paia make sure to download the
             &ldquo;Road to Hana Maui GyPSy Guide'' in the app store.&nbsp; It
             tells you where to stop, how long each stop might be and gives you
@@ -330,17 +330,11 @@ sections:
         text-html: >-
             <h4><strong>Activities:</strong></h4><ul><li><em><strong>Honolua
             Bay- </strong></em>Walk through a literal fairytale land of banyan
-            trees to a perfect snorkeling bay.&nbsp;</li></ul>
-    -
-        _section-type: blog-fixed
-        blog-fixed_image: /uploads/maui/maui28.jpg
-    -
-        _section-type: blog-text
-        text-html: >-
-            <ul><li><em><strong>Dragon's Teeth- </strong></em>Nice half mile
-            walk along the ocean to see a cool lava flow formation that looks
-            like jagged dragon teeth! Parking for the hike is from a parking lot
-            off of office road, next to the Maui Pineapple
+            trees to a perfect snorkeling
+            bay.&nbsp;</li><li><em><strong>Dragon's Teeth- </strong></em>Nice
+            half mile walk along the ocean to see a cool lava flow formation
+            that looks like jagged dragon teeth! Parking for the hike is from a
+            parking lot off of office road, next to the Maui Pineapple
             Chapel.&nbsp;</li><li><em><strong>Surfing- </strong></em>This is a
             great area to try surfing for the first time.&nbsp; I do recommend
             starting with a trainer as surfing is hard to learn on your own and
@@ -392,13 +386,15 @@ sections:
             Mile trail that offers gorgeous views of the ridge-line and the
             ocean.&nbsp; It is rated as hard due to its steep climb in some
             places. If you're not up to this milage, there is a viewpoint
-            halfway that's absolutely
-            breathtaking.</li></ul><p>&nbsp;</p><p>Driving on to Olivine
-            Pools?&nbsp; Make sure you stop at Karen Lei&rsquo;s Gallery for
-            beautiful gifts to take home to family and friends.&nbsp; There is
-            local jewelry and other beautiful pieces of art to enjoy. If you
-            forgot food there are also a few packaged snacks and drinks if
-            you're in a pinch.&nbsp;</p>
+            halfway that's absolutely breathtaking.</li></ul>
+    -
+        _section-type: blog-text-featured
+        featured-text-html: >-
+            <p>Driving on to Olivine Pools?&nbsp; Make sure you stop at Karen
+            Lei&rsquo;s Gallery for beautiful gifts to take home to family and
+            friends.&nbsp; There is local jewelry and other beautiful pieces of
+            art to enjoy. If you forgot food there are also a few packaged
+            snacks and drinks if you're in a pinch.&nbsp;</p>
     -
         _section-type: blog-arches
         right_image: /uploads/maui/maui20.jpg
@@ -477,7 +473,7 @@ sections:
             Itinerary</strong></h3><h4>If you&rsquo;re adventurous and really
             want to see the WHOLE island, then this itinerary is for
             you.&nbsp;</h4><p><em><strong>Day One:</strong></em> Fly into Maui
-            OGG and rent a 4x4 vehicle (even better if you can rent from a
+            (OGG) and rent a 4x4 vehicle (even better if you can rent from a
             local) and check out Paia Town and Beaches. Stay in
             Paia.&nbsp;</p><p><em><strong>Day Two:</strong></em> Road to Hana.
             &nbsp;See spots 1-9 on the Hana List above. &nbsp;Stay in
@@ -507,4 +503,17 @@ sections:
             snorkeling trip to Molokini out of Maalaea Harbor. Pack up and
             leave&hellip;. A hui huo, until we meet again! So sad to see you
             leave but wow, you've seen so much!</p>
+    -
+        _section-type: blog-text-featured
+        featured-text-html: >-
+            <p>**Driving around both ends of the island (Hana, and the opposite
+            coast) are a little treacherous in areas.&nbsp; The roads are built
+            on the side of cliffs so they might seem scary to some.&nbsp; I had
+            absolutely no issues driving either of these roads, but just wanted
+            to point out to you that they might seem scary if you&rsquo;re not
+            used to driving tight, hilly roads. Go slow and pull off to the side
+            to let any locals pass who might be pushing you past your comfort
+            zone!</p><p>&nbsp;</p><p>Pro tip: Check out rentals that offer roof
+            top tents.&nbsp; That way you can have a car and a place to sleep
+            all in one!</p>
 ---

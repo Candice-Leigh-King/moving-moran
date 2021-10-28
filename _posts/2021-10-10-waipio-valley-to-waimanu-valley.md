@@ -3,8 +3,7 @@ layout: posts
 title: Waipio Valley to Waimanu Valley
 description: >-
   If you’re looking to be far away from the crowds of Waipio Valley and
-  experience the untouched beauty of Hawaii, then Waimanu Valley should be on
-  your bucket list!
+  experience the untouched beauty of Hawaii, then Waimanu Valley should be...
 type: Travel Tips
 featured-image: /blog-images/waimanu/image00006.jpg
 author: by Leah Moran
@@ -12,8 +11,8 @@ date: 2021-10-10 00:00:00
 link: movingmoran.com/travel/tips/2021/10/0/Waipio-Valley-to-Waimanu-Valley.html
 blog_image: /blog-images/waimanu/image00006.jpg
 paragraph: >-
-  Before the tsunami of 1949, Waimanu Valley was a thriving community of
-  fishermen and farmers who lived off the land.  Today...
+  This beautiful black sand beach is a must see for all those looking to escape
+  the hustle and bustle 
 blog-fixed_image: /images/banner.jpeg
 categories:
   - travel
@@ -29,7 +28,7 @@ sections:
       farmers who lived off the land.&nbsp; Today, it is the most remote part of
       the island and is only accessible by foot or boat. This beautiful black
       sand beach is a must see for all those looking to escape the hustle and
-      bustle of daily life.rum.</p>
+      bustle of daily life.</p>
   - _section-type: blog-arches
     right_image: /blog-images/waimanu/image00001.jpg
     left_image: /blog-images/waimanu/image00002.jpg
@@ -68,8 +67,9 @@ sections:
       your way back out, but you can&rsquo;t count on it.&nbsp; Luckily, someone
       picked us up 3/4th of the way back up the hill, and I don&rsquo;t think I
       have ever been so thankful for a ride in my life! Check out our
-      Backpacking guide here (link backpacking post) to know exactly what to
-      pack for this overnight hike!</p>
+      Backpacking guide <a
+      href="/travel/tips/2020/10/13/what-we-pack-for-our-backpacking-trips.html">here</a>
+      to know exactly what to pack for this overnight hike!</p>
   - _section-type: blog-arches
     right_image: /blog-images/waimanu/image00004.jpg
     left_image: /blog-images/waimanu/image00012.jpg
