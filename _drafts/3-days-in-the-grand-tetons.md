@@ -8,18 +8,18 @@ featured-image: /uploads/tetons/teton1.jpg
 author: by Leah Moran
 date: 2021-10-27 00:00:00
 link: /3 Days in the Grand Tetons
-blog_image:
+blog_image: /uploads/tetons/teton1.jpg
 paragraph: >-
     The Grand Tetons are one of my very favorite National Parks because the
     views of the peaks are so magnificent!  There is so much to do and see that
     you could probably spend weeks here,...
-blog-fixed_image:
+blog-fixed_image: /images/banner.jpeg
 categories:
     - travel
 sections:
     -
         _section-type: blog-fixed
-        blog-fixed_image:
+        blog-fixed_image: /uploads/tetons/teton6.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -31,7 +31,7 @@ sections:
             see!</p>
     -
         _section-type: blog-window
-        window_image:
+        window_image: /uploads/tetons/teton2.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -70,8 +70,9 @@ sections:
             Lake.&nbsp; The trail is not well marked and it could be easy to
             miss!&nbsp; Now starts the really challenging part!</p>
     -
-        _section-type: blog-fixed
-        blog-fixed_image:
+        _section-type: blog-arches
+        right_image: /uploads/tetons/teton18.jpg
+        left_image: /uploads/tetons/teton19.jpg
     -
         _section-type: blog-text
         text-html: >-
