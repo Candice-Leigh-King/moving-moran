@@ -49,7 +49,7 @@ sections:
             surrounding! It's stunning!</p>
     -
         _section-type: blog-window
-        window_image:
+        window_image: /uploads/tetons/teton28.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -58,8 +58,9 @@ sections:
             go on to Bradley lake if you want to make it a little
             shorter)&nbsp;</p>
     -
-        _section-type: blog-fixed
-        blog-fixed_image:
+        _section-type: blog-arches
+        right_image: /uploads/tetons/teton27.jpg
+        left_image: /uploads/tetons/teton29.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -244,9 +245,8 @@ sections:
             soul in sight it was pure solitude! We ate our lunch here, and then
             prepared for the long trek back.&nbsp;&nbsp;</p>
     -
-        _section-type: blog-arches
-        right_image: /uploads/tetons/teton16.jpg
-        left_image: /uploads/tetons/teton32.jpg
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/tetons/teton32.jpg
     -
         _section-type: blog-text-featured
         featured-text-html: >-
@@ -255,11 +255,18 @@ sections:
             time. &nbsp;I definitely recommend at least making it to a part of
             Cascade Canyon, because it was our favorite part of the hike!</p>
     -
+        _section-type: blog-arches
+        right_image: /uploads/tetons/teton13.jpg
+        left_image: /uploads/tetons/teton15.jpg
+    -
         _section-type: blog-text
         text-html: >-
             <p>Once you finish the hike, take a short walk around Jenny Lake and
             take in its beauty!&nbsp; There is also a welcome center and gift
             shop here that you can wander through.</p>
+    -
+        _section-type: blog-window
+        window_image: /uploads/tetons/teton16.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -270,6 +277,10 @@ sections:
             Row from the distance.&nbsp; It was the perfect way to end the
             night</p><p>Again, we ended the night back at our camp at Antelope
             Springs.&nbsp;</p>
+    -
+        _section-type: blog-arches
+        right_image: /uploads/tetons/teton10.jpg
+        left_image: /uploads/tetons/teton9.jpg
     -
         _section-type: blog-text-featured
         featured-text-html: >-
@@ -291,4 +302,7 @@ sections:
             fun!&nbsp; This is a very special place that I&rsquo;m sure you will
             return to for years to come and will always be able to find
             something new to do!</p>
+    -
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/tetons/teton31.jpg
 ---
