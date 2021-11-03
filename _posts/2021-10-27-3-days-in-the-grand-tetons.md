@@ -97,8 +97,8 @@ sections:
             miss a lot of the beauty along the way! If you're short on time,
             choose this option so you don't miss Delta Lake!</p>
     -
-        _section-type: blog-fixed
-        blog-fixed_image: /uploads/tetons/teton20.jpg
+        _section-type: blog-window
+        window_image: /uploads/tetons/teton20.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -112,8 +112,8 @@ sections:
             hike so that you can ensure that you have a spot to come home
             to!</p>
     -
-        _section-type: blog-window
-        window_image: /uploads/tetons/teton25.jpg
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/tetons/teton25.jpg
     -
         _section-type: blog-text
         text-html: >-
