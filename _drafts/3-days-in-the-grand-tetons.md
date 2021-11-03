@@ -162,8 +162,11 @@ sections:
             <p>From here you will drive the 42 mile scenic loop to the many
             stunning viewpoints to see the best views in the park! I would
             recommend doing the loop clockwise so that you can end at the snake
-            river for Sunset.&nbsp;</p><p>Head back to camp at antelope
-            springs.</p>
+            river for Sunset.&nbsp;</p><p>Head back to camp at Antelope
+            Springs.</p>
+    -
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/tetons/teton11.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -171,6 +174,9 @@ sections:
             hike?&nbsp; This time we are starting at Jenny Lake and hiking to
             Lake Solitude.&nbsp; This hike is also rated difficult, mostly for
             the length, and is 18 miles round trip.&nbsp;&nbsp;</p>
+    -
+        _section-type: blog-window
+        window_image: /uploads/tetons/teton27.jpg
     -
         _section-type: blog-text-featured
         featured-text-html: >-
@@ -188,6 +194,9 @@ sections:
             website</a> to find the cost and schedule (in the bottom right
             corner) for the upcoming season.&nbsp;</p>
     -
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/tetons/teton21.jpg
+    -
         _section-type: blog-text
         text-html: >-
             <p>The boat ride is about 10 minutes long and will drop you off at
@@ -198,6 +207,9 @@ sections:
             take in the views of jenny lake and for a nice
             picnic.&nbsp;&nbsp;</p>
     -
+        _section-type: blog-window
+        window_image: /uploads/tetons/teton22.jpg
+    -
         _section-type: blog-text
         text-html: >-
             <p>If you're anything like us, this point won't leave you very
@@ -205,6 +217,10 @@ sections:
             hiked this in early September of 2021 and were happy to see the
             start of the changing colors! Although we can imagine this hike
             would be beautiful at any time of the year.&nbsp;</p>
+    -
+        _section-type: blog-arches
+        right_image: /uploads/tetons/teton23.jpg
+        left_image: /uploads/tetons/teton24.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -218,12 +234,19 @@ sections:
             entire area. Since we only had a day to explore, we settled on
             making it to lake solitude.</p>
     -
+        _section-type: blog-window
+        window_image: /uploads/tetons/teton14.jpg
+    -
         _section-type: blog-text
         text-html: >-
             <p>Once you make it to Lake Solitude, you will see where it gets its
             name!&nbsp; This is the most peaceful lake, and with not another
             soul in sight it was pure solitude! We ate our lunch here, and then
             prepared for the long trek back.&nbsp;&nbsp;</p>
+    -
+        _section-type: blog-arches
+        right_image: /uploads/tetons/teton16.jpg
+        left_image: /uploads/tetons/teton32.jpg
     -
         _section-type: blog-text-featured
         featured-text-html: >-
