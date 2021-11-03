@@ -48,8 +48,8 @@ sections:
             pictures of the beautiful crystal clear water with mountain peaks
             surrounding! It's stunning!</p>
     -
-        _section-type: blog-window
-        window_image: /uploads/tetons/teton28.jpg
+        _section-type: blog-fixed
+        blog-fixed_image: /uploads/tetons/teton28.jpg
     -
         _section-type: blog-text
         text-html: >-
