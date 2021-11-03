@@ -2,7 +2,7 @@
 layout: posts
 title: 3 Days in the Grand Tetons
 description: |
-    What to see to spend an epic 3 days in the Tetons!
+    How to spend an epic 3 days in the Tetons!
 type: Travel Tips
 featured-image: /uploads/tetons/teton1.jpg
 author: by Leah Moran
