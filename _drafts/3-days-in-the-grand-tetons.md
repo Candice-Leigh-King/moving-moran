@@ -153,6 +153,12 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
+            <p><em>Image Credit: <a
+            href="https://www.nps.gov/carto/hfc/carto/media/GRTEmap1.jpg">National
+            Park Service</a></em></p>
+    -
+        _section-type: blog-text
+        text-html: >-
             <p>From here you will drive the 42 mile scenic loop to the many
             stunning viewpoints to see the best views in the park! I would
             recommend doing the loop clockwise so that you can end at the snake
