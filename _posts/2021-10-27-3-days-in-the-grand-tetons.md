@@ -154,7 +154,8 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <p><em>Image Credit: <a
+            <p><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Image Credit: <a
             href="https://www.nps.gov/carto/hfc/carto/media/GRTEmap1.jpg">National
             Park Service</a></em></p>
     -
