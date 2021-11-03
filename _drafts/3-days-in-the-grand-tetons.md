@@ -124,7 +124,7 @@ sections:
             Antelope Springs.</p>
     -
         _section-type: blog-fixed
-        blog-fixed_image:
+        blog-fixed_image: /uploads/tetons/teton6.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -135,8 +135,8 @@ sections:
             like me, you don't want a picture of peoples heads!&nbsp;</p>
     -
         _section-type: blog-arches
-        right_image:
-        left_image:
+        right_image: /uploads/tetons/teton5.jpg
+        left_image: /uploads/tetons/teton4.jpg
     -
         _section-type: blog-text
         text-html: >-
@@ -147,6 +147,9 @@ sections:
             City made the trek out to the area to cultivate the land, and now
             the 6 structures that are left are called &ldquo;Mormon
             Row&rdquo;.</p>
+    -
+        _section-type: blog-window
+        window_image: /uploads/tetons/teton26.jpg
     -
         _section-type: blog-text
         text-html: >-
