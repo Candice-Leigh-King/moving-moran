@@ -181,7 +181,7 @@ sections:
             the length, and is 18 miles round trip.&nbsp;&nbsp;</p>
     -
         _section-type: blog-window
-        window_image: /uploads/tetons/teton27.jpg
+        window_image: /uploads/tetons/teton17.jpg
     -
         _section-type: blog-text-featured
         featured-text-html: >-
