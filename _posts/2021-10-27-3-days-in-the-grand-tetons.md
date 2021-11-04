@@ -254,6 +254,9 @@ sections:
         _section-type: blog-fixed
         blog-fixed_image: /uploads/tetons/teton32.jpg
     -
+        _section-type: blog-text
+        text-html:
+    -
         _section-type: blog-text-featured
         featured-text-html: >-
             <p>If 14-18 miles (14 if you take the ferry both ways) seems
