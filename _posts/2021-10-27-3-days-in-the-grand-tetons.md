@@ -296,21 +296,22 @@ sections:
             <p>Tips for hiking in the Tetons:</p><p>This is bear country, so
             make sure you carry bear spray with you at all times on the
             hike.&nbsp; You can purchase bear spray at the welcome center, or
-            you can check out options like this one that will save you money!
-            YOu should also try to hike in groups so that you are louder and
-            bears can hear you coming.&nbsp; If you do decide to hike alone, in
-            addition to carrying bear spray, you might consider putting bells on
-            a hiking stick to make yourself louder and less likely to startle a
-            bear if you come around a corner!</p><p>Another very important tip
-            is to wear good hiking shoes!&nbsp; The terrain can be rocky, muddy
-            or uneven in some areas, so you want to make sure you have sturdy
-            shoes that can take on the elements.&nbsp;</p><p>Pack a lot of
-            snacks.&nbsp; We like to pack dried fruit, protein bars, tune
-            packets and tortilla rolls, and an apple or peach. Always pack out
-            whatever you brought in and remember to leave no trace!</p><p>Have
-            fun!&nbsp; This is a very special place that I&rsquo;m sure you will
-            return to for years to come and will always be able to find
-            something new to do!</p>
+            you can check out options like <a target="_blank" rel="noopener"
+            href="https://www.amazon.com/ideas/amzn1.account.AHTLDUOT6KXIHABSSUTDWIM43UIA/XOZKKZN4I37X?type=explore&amp;ref=idea_cp_vl_ov_d">this
+            one</a> that will save you money! You should also try to hike in
+            groups so that you are louder and bears can hear you coming.&nbsp;
+            If you do decide to hike alone (in addition to carrying bear spray)
+            you might consider putting bells on your hiking stick to make
+            yourself louder and less likely to startle a bear if you come around
+            a corner!</p><p>Another very important tip is to wear good hiking
+            shoes!&nbsp; The terrain can be rocky, muddy or uneven in some
+            areas, so you want to make sure you have sturdy shoes that can take
+            on the elements.&nbsp;</p><p>Pack a lot of snacks.&nbsp; We like to
+            pack dried fruit, protein bars, tuna packets + tortilla rolls, and
+            an apple or peach. Always pack out whatever you brought in and
+            remember to leave no trace!</p><p>Have fun!&nbsp; This is a very
+            special place that I&rsquo;m sure you will return to for years to
+            come and will always be able to find something new to do!</p>
     -
         _section-type: blog-text
         text-html:
