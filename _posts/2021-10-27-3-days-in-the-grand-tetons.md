@@ -80,10 +80,10 @@ sections:
             <p>You will be questioning, &ldquo;Is this really the trail?!&rdquo;
             As you climb over boulders and feel like you're literally climbing
             up the side of a mountain!&nbsp; Just keep going, I promise you will
-            make it to the top and it will be so worth it!&nbsp; You did it, you
-            made it to the beautiful turquoise lake that is Delta Lake! Take a
-            break in the sun on one of the many rocks and eat your snack.&nbsp;
-            You deserve it!</p>
+            make it to the top and it will be so worth it!&nbsp;</p><p>You did
+            it, you made it to the beautiful turquoise lake that is Delta Lake!
+            Take a break in the sun on one of the many rocks and eat your
+            snack.&nbsp; You deserve it!</p>
     -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/tetons/teton8.jpg
