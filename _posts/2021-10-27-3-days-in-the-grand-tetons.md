@@ -221,9 +221,9 @@ sections:
         text-html: >-
             <p>If you're anything like us, this point won't leave you very
             inspired and you'll want to continue on to Cascade Canyon.&nbsp; We
-            hiked this in early September of 2021 and were happy to see the
-            start of the changing colors! Although we can imagine this hike
-            would be beautiful at any time of the year.&nbsp;</p>
+            hiked this in early September of 2021 and we were happy to see the
+            changing leaves! Although we can imagine this hike would be
+            beautiful at any time of the year.&nbsp;</p>
     -
         _section-type: blog-arches
         right_image: /uploads/tetons/teton23.jpg
