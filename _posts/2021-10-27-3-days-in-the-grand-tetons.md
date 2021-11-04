@@ -210,8 +210,8 @@ sections:
             the Cascade Trailhead. &nbsp; From here you will take a short walk
             to the Hidden Falls which is a nice short walk to a beautiful
             waterfall.&nbsp; You can then continue on to Inspiration Point. This
-            is a good place to stop if you're only looking to do a short hike,
-            take in the views of jenny lake and for a nice
+            is a good place to stop if you're only looking to do a short hike.
+            Here you can take in the views of Jenny Lake and have a nice
             picnic.&nbsp;&nbsp;</p>
     -
         _section-type: blog-window
