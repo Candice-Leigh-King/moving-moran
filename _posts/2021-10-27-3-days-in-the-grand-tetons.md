@@ -26,7 +26,7 @@ sections:
             <p>The Grand Tetons are one of my very favorite National Parks
             because the views of the peaks are so magnificent!&nbsp; There is so
             much to do and see that you could probably spend weeks here, but if
-            you're short on time this is the must do's in the area!</p><p>Grab
+            you're short on time this is the "must do's" in the area!</p><p>Grab
             your hiking boots and your camera because there's so much to
             see!</p>
     -
