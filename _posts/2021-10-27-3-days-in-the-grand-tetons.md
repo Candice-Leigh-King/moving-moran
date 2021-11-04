@@ -294,11 +294,13 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h4>Day One:</h4><ul><li>&nbsp;Taggart Lake to Delta Lake Hike (12.8
-            Miles)</li><li>Camp at Antelope Springs</li></ul><h4>Day
-            Two:</h4><ul><li>Sunrise at Mormon Row</li><li>42 Mile Scenic Drive
-            (Clockwise)</li><li>Sunset from Snake River</li><li>Camp at Antelope
-            Springs</li></ul><h4>Day Three:</h4><ul><li>Jenny Lake
+            <h3>3 Days in The Tetons (Recap)</h3><p>&nbsp;</p><h4>Day
+            One:</h4><ul><li>&nbsp;Taggart Lake to Delta Lake Hike (12.8
+            Miles)</li><li>Camp at Antelope
+            Springs</li></ul><p>&nbsp;</p><h4>Day Two:</h4><ul><li>Sunrise at
+            Mormon Row</li><li>42 Mile Scenic Drive (Clockwise)</li><li>Sunset
+            from Snake River</li><li>Camp at Antelope
+            Springs</li></ul><p>&nbsp;</p><h4>Day Three:</h4><ul><li>Jenny Lake
             Ferry</li><li>Cascade Trailhead (Ferry boat dock) to Lake Solitude
             (14 Miles)</li><li>Mormon Row for sunset</li><li>Camp at Antelope
             Springs</li></ul><p>&nbsp;</p>
