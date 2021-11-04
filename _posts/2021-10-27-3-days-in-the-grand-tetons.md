@@ -198,6 +198,9 @@ sections:
             website</a> to find the cost and schedule (in the bottom right
             corner) for the upcoming season.&nbsp;</p>
     -
+        _section-type: blog-text
+        text-html:
+    -
         _section-type: blog-fixed
         blog-fixed_image: /uploads/tetons/teton21.jpg
     -
