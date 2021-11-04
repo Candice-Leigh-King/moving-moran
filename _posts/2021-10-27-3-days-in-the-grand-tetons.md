@@ -35,9 +35,9 @@ sections:
     -
         _section-type: blog-text
         text-html: >-
-            <h4>Day One:</h4><p>Drive into the Tetons National Park early and
-            head straight to the Taggart Lake TrailHead. There are a few ways
-            you can make this a shorter hike, and I will list them all
+            <h4>Day One:</h4><p>Drive into the Grand Tetons National Park early
+            and head straight to the Taggart Lake TrailHead. There are a few
+            ways you can make this a shorter hike, and I will list them all
             here:&nbsp;</p><p>The hike we did is from Taggart Lake to Delta
             Lake.&nbsp; This hike is rated difficult and is 12.8 miles.&nbsp; It
             is easy until you get to the last 2 miles where there is a 2,000 ft
