@@ -312,6 +312,9 @@ sections:
             return to for years to come and will always be able to find
             something new to do!</p>
     -
+        _section-type: blog-text
+        text-html:
+    -
         _section-type: blog-fixed
-        blog-fixed_image: /uploads/tetons/teton31.jpg
+        blog-fixed_image: /uploads/tetons/teton33.jpg
 ---
