@@ -261,8 +261,8 @@ sections:
         featured-text-html: >-
             <p>If 14-18 miles (14 if you take the ferry both ways) seems
             daunting to you, just know that you can stop and turn around at any
-            time. &nbsp;I definitely recommend at least making it to a part of
-            Cascade Canyon, because it was our favorite part of the hike!</p>
+            time. &nbsp;I definitely recommend at least making it to Cascade
+            Canyon, because it was our favorite part of the hike!</p>
     -
         _section-type: blog-arches
         right_image: /uploads/tetons/teton13.jpg
