@@ -236,10 +236,10 @@ sections:
             better the higher we climbed.&nbsp; You will pass a beautiful bridge
             as well, make sure you turn around and take in the sweeping
             views.&nbsp; Towards the end you will start to pass different
-            dispersed campsites.&nbsp; If you have the time you could do the
-            full 2-3 day backpacking trip to see the full 22 mile loop of the
-            entire area. Since we only had a day to explore, we settled on
-            making it to lake solitude.</p>
+            dispersed campsites.&nbsp; If you have the time you could do the 2-3
+            day backpacking trip to see the full 22 mile loop of the entire
+            area. Since we only had a day to explore, we settled on making it to
+            lake solitude.</p>
     -
         _section-type: blog-window
         window_image: /uploads/tetons/teton14.jpg
