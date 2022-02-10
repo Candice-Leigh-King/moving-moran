@@ -70,6 +70,9 @@ layout: default
 <section class="bg-white padded">
 
     {% for item in page.sections %}
+    <div class="cms-editor-link"
+        data-cms-editor-link="cloudcannon:#sections[{{ forloop.index0 }}]">
+        <span class="cms-editor-button"></span>
       {% include {{item._section-type}}.html %}
     {% endfor %}
 
